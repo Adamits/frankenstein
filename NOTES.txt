@@ -1,0 +1,40 @@
+# Needed features
+    - Log FLOps and/or runtime
+    - Check implementations for efficiency
+
+# DATASETS
+    - Follow wu et al:
+        - 2017 inflection
+            - We will add SIGMORPHON 2023
+        - CMUDict and NETTalk for G2P
+            - Does Kyle think we should add a shared task?
+        - NEWS2015 for transliteration
+        - Bollman 2019 for Historical text normalization
+            - spanish, ielandic, swedish, slovene, hungarian, german
+
+# Models
+    - LSTM
+    - Transformer
+    - LSTM enc//Trm dec
+    - Trm Enc//LSTM dec
+    - FFN with padding as encoder.
+    - Sum/average of char embeddings as encoder
+    - CNN?
+
+# Hyperparameters
+    1. Use hparams paper to reduce search space
+    2. Then, tune with 50 runs
+
+    for inflection this is:
+        50 * (52 + 27) * 5
+
+
+# Analysis:
+    - how do results change over budget?
+
+
+# SIDE NOTES
+    - pretraining task: Decode target from sum of character embeddings encoder---then to finetune you replace the encoder and just use the decoder.`
+    - Hyperparameter early stopping: if more runs with new hyperparams is not getting better, should we just stop sampling hparams?
+        - IF varied hparams get the same (nonzero) accuracy, maybe this indicates that we are finding a sort of upper bound on accuracy.
+        - See if there is work on this.

@@ -1,0 +1,49 @@
+ ## Datasets (99 total)
+    - inflection (2017) [52]
+    - inflection (2023) [28]
+    - G2P (CMUDict) [1]
+    - G2P (NETTalk) [1]
+    - Transliteration (NEWS2015) [11]
+    - Historical text normalization (Bollman 2019) [6]
+
+
+## Models (8 Models)
+    - LSTM enc // LSTM dec
+    - Trm enc // Trm dec
+    - LSTM enc // Trm dec
+    - Trm enc // LSTM dec
+    - FFN // LSTM dec
+    - FFN // Trm dec
+    - Avg Embedding enc // LSTM dec
+    - Avg Embedding enc // Trm dec
+
+
+## Hyperparameters
+    - 50 hparam configs per model x dataset.
+        - This means (8 * 99 * 50) = 39600 runs!
+        - If one run takes ~1hour, we need 1650 GPU hours or 4.5 years...
+        - If we have ~8 gpus available at any time, we still need 200 days ~=7 months.
+    - For FFN: vary embedding and hidden size + optimization hparams
+    - For avg embedding: vary embedding size + optimization hparams
+
+## Which hyperparameters?
+Based on Wiemerslage et al 2024. We reduce range a bit for embeding size, hidden size, and LR. We also limit to only 2 scheduler choices, and fix certain hyperparams (e.g. beta1/beta2).
+    - Embedding_size: 64 -- 1024; 16
+    - hidden_size: 128 -- 2048; 64
+    - Batch size: 16 -- 2048; 16
+    - Learning rate: 0.00005 -- .002
+    - Label smoothing
+    - Scheduler: None, Warmup
+    - Warmup samples:
+    - Encoder layers: 2, 4, 6, 8
+    - Decoder layers: 2, 4, 6, 8
+    - Attention heads: 2, 4, 8
+    - Dropout: 0 -- 0.5
+
+## Hyperparameter search
+    - Bergstra and Bengio 2012 suggest that random sampling is better than grid search
+        - This is because for a given dataset, only a few hparams matter, and random search will cover a greater amount of a given single dimesnion (i.e. sinel hyperparam e.g. hidden size)
+        - Note also that they report the expected test performance weighted by the probability that its hyperparam config is the best model on teh validation data.
+    - But! While we want to ensure optimal performance of each architecture x dataset, we also want to know: what if we had transferred hparams from only a few datasets? Then which arch would be best?
+        - to do this, we would need equivalent hparams in all datasets
+    - What about bayesian optimization?

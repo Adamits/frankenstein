@@ -1,0 +1,4341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TransliterationCorpus CorpusFormat="UTF-8" CorpusID="Western_Name_Kor_Transliteration" CorpusSize="1082" CorpusType="Dev" NameSource="Western" SourceLang="En" TargetLang="Ko">
+	<Name ID="1">
+		<SourceName>ABBOT</SourceName>
+		<TargetName ID="1">아보트</TargetName>
+	</Name>
+	<Name ID="2">
+		<SourceName>ABE</SourceName>
+		<TargetName ID="1">아베</TargetName>
+	</Name>
+	<Name ID="3">
+		<SourceName>ABEND</SourceName>
+		<TargetName ID="1">아벤드</TargetName>
+	</Name>
+	<Name ID="4">
+		<SourceName>ACHILLE</SourceName>
+		<TargetName ID="1">아킬레</TargetName>
+	</Name>
+	<Name ID="5">
+		<SourceName>ACS</SourceName>
+		<TargetName ID="1">액스</TargetName>
+	</Name>
+	<Name ID="6">
+		<SourceName>ADAMA</SourceName>
+		<TargetName ID="1">아다마</TargetName>
+	</Name>
+	<Name ID="7">
+		<SourceName>ADIL</SourceName>
+		<TargetName ID="1">아딜</TargetName>
+	</Name>
+	<Name ID="8">
+		<SourceName>ADRIANA</SourceName>
+		<TargetName ID="1">아드리아나</TargetName>
+	</Name>
+	<Name ID="9">
+		<SourceName>AGARWAL</SourceName>
+		<TargetName ID="1">아가르왈</TargetName>
+	</Name>
+	<Name ID="10">
+		<SourceName>AGATHA</SourceName>
+		<TargetName ID="1">아가사</TargetName>
+	</Name>
+	<Name ID="11">
+		<SourceName>AHN</SourceName>
+		<TargetName ID="1">안</TargetName>
+	</Name>
+	<Name ID="12">
+		<SourceName>ALAM</SourceName>
+		<TargetName ID="1">알엄</TargetName>
+	</Name>
+	<Name ID="13">
+		<SourceName>ALAN</SourceName>
+		<TargetName ID="1">앨런</TargetName>
+	</Name>
+	<Name ID="14">
+		<SourceName>ALBERT</SourceName>
+		<TargetName ID="1">알버트</TargetName>
+	</Name>
+	<Name ID="15">
+		<SourceName>ALBERTS</SourceName>
+		<TargetName ID="1">앨버츠</TargetName>
+	</Name>
+	<Name ID="16">
+		<SourceName>ALBIN</SourceName>
+		<TargetName ID="1">알빈</TargetName>
+	</Name>
+	<Name ID="17">
+		<SourceName>ALBO</SourceName>
+		<TargetName ID="1">앨보</TargetName>
+	</Name>
+	<Name ID="18">
+		<SourceName>ALEK</SourceName>
+		<TargetName ID="1">알렉</TargetName>
+	</Name>
+	<Name ID="19">
+		<SourceName>ALESSIO</SourceName>
+		<TargetName ID="1">알레시오</TargetName>
+	</Name>
+	<Name ID="20">
+		<SourceName>ALEXANDER</SourceName>
+		<TargetName ID="1">알렉산드르</TargetName>
+	</Name>
+	<Name ID="21">
+		<SourceName>ALFRED</SourceName>
+		<TargetName ID="1">알프레드</TargetName>
+	</Name>
+	<Name ID="22">
+		<SourceName>ALIA</SourceName>
+		<TargetName ID="1">알리아</TargetName>
+	</Name>
+	<Name ID="23">
+		<SourceName>ALICE</SourceName>
+		<TargetName ID="1">앨리스</TargetName>
+	</Name>
+	<Name ID="24">
+		<SourceName>ALICIA</SourceName>
+		<TargetName ID="1">앨리샤</TargetName>
+	</Name>
+	<Name ID="25">
+		<SourceName>ALINA</SourceName>
+		<TargetName ID="1">알리나</TargetName>
+	</Name>
+	<Name ID="26">
+		<SourceName>ALISA</SourceName>
+		<TargetName ID="1">알리사</TargetName>
+	</Name>
+	<Name ID="27">
+		<SourceName>ALLEN</SourceName>
+		<TargetName ID="1">앨런</TargetName>
+	</Name>
+	<Name ID="28">
+		<SourceName>ALLISON</SourceName>
+		<TargetName ID="1">앨리슨</TargetName>
+	</Name>
+	<Name ID="29">
+		<SourceName>ALMOND</SourceName>
+		<TargetName ID="1">알몬드</TargetName>
+	</Name>
+	<Name ID="30">
+		<SourceName>ALONSO</SourceName>
+		<TargetName ID="1">알론소</TargetName>
+	</Name>
+	<Name ID="31">
+		<SourceName>AMAN</SourceName>
+		<TargetName ID="1">아만</TargetName>
+	</Name>
+	<Name ID="32">
+		<SourceName>AMAR</SourceName>
+		<TargetName ID="1">아마르</TargetName>
+	</Name>
+	<Name ID="33">
+		<SourceName>AMELIE</SourceName>
+		<TargetName ID="1">아멜리에</TargetName>
+	</Name>
+	<Name ID="34">
+		<SourceName>ANAND</SourceName>
+		<TargetName ID="1">아난드</TargetName>
+	</Name>
+	<Name ID="35">
+		<SourceName>ANDRADE</SourceName>
+		<TargetName ID="1">안드라데</TargetName>
+	</Name>
+	<Name ID="36">
+		<SourceName>ANDREJ</SourceName>
+		<TargetName ID="1">안드레이</TargetName>
+	</Name>
+	<Name ID="37">
+		<SourceName>ANDREU</SourceName>
+		<TargetName ID="1">안드레우</TargetName>
+	</Name>
+	<Name ID="38">
+		<SourceName>ANDREW</SourceName>
+		<TargetName ID="1">앤드류</TargetName>
+	</Name>
+	<Name ID="39">
+		<SourceName>ANGELA</SourceName>
+		<TargetName ID="1">안젤라</TargetName>
+	</Name>
+	<Name ID="40">
+		<SourceName>ANGELICA</SourceName>
+		<TargetName ID="1">안젤리카</TargetName>
+	</Name>
+	<Name ID="41">
+		<SourceName>ANJA</SourceName>
+		<TargetName ID="1">안야</TargetName>
+	</Name>
+	<Name ID="42">
+		<SourceName>ANNIE</SourceName>
+		<TargetName ID="1">애니</TargetName>
+	</Name>
+	<Name ID="43">
+		<SourceName>ANNIKA</SourceName>
+		<TargetName ID="1">아니카</TargetName>
+	</Name>
+	<Name ID="44">
+		<SourceName>ANSELMO</SourceName>
+		<TargetName ID="1">안셀모</TargetName>
+	</Name>
+	<Name ID="45">
+		<SourceName>ANTHONY</SourceName>
+		<TargetName ID="1">안소니</TargetName>
+		<TargetName ID="2">앤서니</TargetName>
+	</Name>
+	<Name ID="46">
+		<SourceName>ANTOINETTE</SourceName>
+		<TargetName ID="1">앙투아네트</TargetName>
+	</Name>
+	<Name ID="47">
+		<SourceName>ANTONI</SourceName>
+		<TargetName ID="1">안토니</TargetName>
+	</Name>
+	<Name ID="48">
+		<SourceName>ANTONIA</SourceName>
+		<TargetName ID="1">안토니아</TargetName>
+	</Name>
+	<Name ID="49">
+		<SourceName>ANTONY</SourceName>
+		<TargetName ID="1">안토니</TargetName>
+	</Name>
+	<Name ID="50">
+		<SourceName>ANTUNES</SourceName>
+		<TargetName ID="1">안투네스</TargetName>
+	</Name>
+	<Name ID="51">
+		<SourceName>ARA</SourceName>
+		<TargetName ID="1">아라</TargetName>
+	</Name>
+	<Name ID="52">
+		<SourceName>ARANDA</SourceName>
+		<TargetName ID="1">아란다</TargetName>
+	</Name>
+	<Name ID="53">
+		<SourceName>ARAUJO</SourceName>
+		<TargetName ID="1">아라우조</TargetName>
+	</Name>
+	<Name ID="54">
+		<SourceName>ARCHER</SourceName>
+		<TargetName ID="1">아처</TargetName>
+	</Name>
+	<Name ID="55">
+		<SourceName>ARENA</SourceName>
+		<TargetName ID="1">아레나</TargetName>
+	</Name>
+	<Name ID="56">
+		<SourceName>ARGENTO</SourceName>
+		<TargetName ID="1">아르젠토</TargetName>
+	</Name>
+	<Name ID="57">
+		<SourceName>ARIAS</SourceName>
+		<TargetName ID="1">아리아스</TargetName>
+	</Name>
+	<Name ID="58">
+		<SourceName>ARJUN</SourceName>
+		<TargetName ID="1">아준</TargetName>
+	</Name>
+	<Name ID="59">
+		<SourceName>ARMEN</SourceName>
+		<TargetName ID="1">아르멘</TargetName>
+	</Name>
+	<Name ID="60">
+		<SourceName>ARMIN</SourceName>
+		<TargetName ID="1">아르민</TargetName>
+	</Name>
+	<Name ID="61">
+		<SourceName>ARNAUD</SourceName>
+		<TargetName ID="1">아르노</TargetName>
+	</Name>
+	<Name ID="62">
+		<SourceName>ARTHUR</SourceName>
+		<TargetName ID="1">아더</TargetName>
+	</Name>
+	<Name ID="63">
+		<SourceName>ARTUR</SourceName>
+		<TargetName ID="1">아터</TargetName>
+	</Name>
+	<Name ID="64">
+		<SourceName>ASSO</SourceName>
+		<TargetName ID="1">아소</TargetName>
+	</Name>
+	<Name ID="65">
+		<SourceName>AST</SourceName>
+		<TargetName ID="1">아스트</TargetName>
+	</Name>
+	<Name ID="66">
+		<SourceName>ATAL</SourceName>
+		<TargetName ID="1">아탈</TargetName>
+	</Name>
+	<Name ID="67">
+		<SourceName>AURELIA</SourceName>
+		<TargetName ID="1">오렐리아</TargetName>
+	</Name>
+	<Name ID="68">
+		<SourceName>AURELIO</SourceName>
+		<TargetName ID="1">아우렐리오</TargetName>
+	</Name>
+	<Name ID="69">
+		<SourceName>AYALA</SourceName>
+		<TargetName ID="1">아얄라</TargetName>
+	</Name>
+	<Name ID="70">
+		<SourceName>AYER</SourceName>
+		<TargetName ID="1">에이어</TargetName>
+	</Name>
+	<Name ID="71">
+		<SourceName>AZAD</SourceName>
+		<TargetName ID="1">아자드</TargetName>
+	</Name>
+	<Name ID="72">
+		<SourceName>AZEVEDO</SourceName>
+		<TargetName ID="1">아제베도</TargetName>
+	</Name>
+	<Name ID="73">
+		<SourceName>AZIZ</SourceName>
+		<TargetName ID="1">아지즈</TargetName>
+	</Name>
+	<Name ID="74">
+		<SourceName>BADGER</SourceName>
+		<TargetName ID="1">배저</TargetName>
+	</Name>
+	<Name ID="75">
+		<SourceName>BAIN</SourceName>
+		<TargetName ID="1">베인</TargetName>
+	</Name>
+	<Name ID="76">
+		<SourceName>BAINS</SourceName>
+		<TargetName ID="1">베인즈</TargetName>
+	</Name>
+	<Name ID="77">
+		<SourceName>BAKAN</SourceName>
+		<TargetName ID="1">바칸</TargetName>
+	</Name>
+	<Name ID="78">
+		<SourceName>BALE</SourceName>
+		<TargetName ID="1">베일</TargetName>
+	</Name>
+	<Name ID="79">
+		<SourceName>BAN</SourceName>
+		<TargetName ID="1">반</TargetName>
+	</Name>
+	<Name ID="80">
+		<SourceName>BANDA</SourceName>
+		<TargetName ID="1">반다</TargetName>
+	</Name>
+	<Name ID="81">
+		<SourceName>BANDIERA</SourceName>
+		<TargetName ID="1">반디에라</TargetName>
+	</Name>
+	<Name ID="82">
+		<SourceName>BARA</SourceName>
+		<TargetName ID="1">바라</TargetName>
+	</Name>
+	<Name ID="83">
+		<SourceName>BARCA</SourceName>
+		<TargetName ID="1">바르카</TargetName>
+	</Name>
+	<Name ID="84">
+		<SourceName>BARCLAY</SourceName>
+		<TargetName ID="1">바클리</TargetName>
+	</Name>
+	<Name ID="85">
+		<SourceName>BARKER</SourceName>
+		<TargetName ID="1">바커</TargetName>
+	</Name>
+	<Name ID="86">
+		<SourceName>BARNA</SourceName>
+		<TargetName ID="1">바나</TargetName>
+	</Name>
+	<Name ID="87">
+		<SourceName>BARNET</SourceName>
+		<TargetName ID="1">바넷</TargetName>
+	</Name>
+	<Name ID="88">
+		<SourceName>BARNETT</SourceName>
+		<TargetName ID="1">바넷</TargetName>
+	</Name>
+	<Name ID="89">
+		<SourceName>BARNEY</SourceName>
+		<TargetName ID="1">바니</TargetName>
+	</Name>
+	<Name ID="90">
+		<SourceName>BARR</SourceName>
+		<TargetName ID="1">바</TargetName>
+	</Name>
+	<Name ID="91">
+		<SourceName>BARRERA</SourceName>
+		<TargetName ID="1">바레라</TargetName>
+	</Name>
+	<Name ID="92">
+		<SourceName>BARRON</SourceName>
+		<TargetName ID="1">배론</TargetName>
+	</Name>
+	<Name ID="93">
+		<SourceName>BARROS</SourceName>
+		<TargetName ID="1">배로스</TargetName>
+	</Name>
+	<Name ID="94">
+		<SourceName>BARROW</SourceName>
+		<TargetName ID="1">바로우</TargetName>
+	</Name>
+	<Name ID="95">
+		<SourceName>BASH</SourceName>
+		<TargetName ID="1">배쉬</TargetName>
+	</Name>
+	<Name ID="96">
+		<SourceName>BASSI</SourceName>
+		<TargetName ID="1">바시</TargetName>
+	</Name>
+	<Name ID="97">
+		<SourceName>BASSO</SourceName>
+		<TargetName ID="1">바소</TargetName>
+	</Name>
+	<Name ID="98">
+		<SourceName>BATTISTA</SourceName>
+		<TargetName ID="1">바티스타</TargetName>
+	</Name>
+	<Name ID="99">
+		<SourceName>BAUM</SourceName>
+		<TargetName ID="1">바움</TargetName>
+	</Name>
+	<Name ID="100">
+		<SourceName>BAUMANN</SourceName>
+		<TargetName ID="1">바우만</TargetName>
+	</Name>
+	<Name ID="101">
+		<SourceName>BEAN</SourceName>
+		<TargetName ID="1">빈</TargetName>
+	</Name>
+	<Name ID="102">
+		<SourceName>BEATRICE</SourceName>
+		<TargetName ID="1">베아트리스</TargetName>
+	</Name>
+	<Name ID="103">
+		<SourceName>BEAVER</SourceName>
+		<TargetName ID="1">비버</TargetName>
+	</Name>
+	<Name ID="104">
+		<SourceName>BECK</SourceName>
+		<TargetName ID="1">벡</TargetName>
+	</Name>
+	<Name ID="105">
+		<SourceName>BEDA</SourceName>
+		<TargetName ID="1">베다</TargetName>
+	</Name>
+	<Name ID="106">
+		<SourceName>BEK</SourceName>
+		<TargetName ID="1">벡</TargetName>
+	</Name>
+	<Name ID="107">
+		<SourceName>BELA</SourceName>
+		<TargetName ID="1">벨라</TargetName>
+	</Name>
+	<Name ID="108">
+		<SourceName>BELLA</SourceName>
+		<TargetName ID="1">벨라</TargetName>
+	</Name>
+	<Name ID="109">
+		<SourceName>BELLI</SourceName>
+		<TargetName ID="1">벨리</TargetName>
+	</Name>
+	<Name ID="110">
+		<SourceName>BELLO</SourceName>
+		<TargetName ID="1">벨로</TargetName>
+	</Name>
+	<Name ID="111">
+		<SourceName>BENEDETTI</SourceName>
+		<TargetName ID="1">베네데티</TargetName>
+	</Name>
+	<Name ID="112">
+		<SourceName>BENEDIKT</SourceName>
+		<TargetName ID="1">베네딕트</TargetName>
+	</Name>
+	<Name ID="113">
+		<SourceName>BENI</SourceName>
+		<TargetName ID="1">베니</TargetName>
+	</Name>
+	<Name ID="114">
+		<SourceName>BENJAMIN</SourceName>
+		<TargetName ID="1">벤자민</TargetName>
+		<TargetName ID="2">벤저민</TargetName>
+	</Name>
+	<Name ID="115">
+		<SourceName>BENTLEY</SourceName>
+		<TargetName ID="1">벤트리</TargetName>
+	</Name>
+	<Name ID="116">
+		<SourceName>BERKLEY</SourceName>
+		<TargetName ID="1">버클리</TargetName>
+	</Name>
+	<Name ID="117">
+		<SourceName>BERNIE</SourceName>
+		<TargetName ID="1">버니</TargetName>
+	</Name>
+	<Name ID="118">
+		<SourceName>BESS</SourceName>
+		<TargetName ID="1">베스</TargetName>
+	</Name>
+	<Name ID="119">
+		<SourceName>BESSON</SourceName>
+		<TargetName ID="1">베송</TargetName>
+	</Name>
+	<Name ID="120">
+		<SourceName>BETH</SourceName>
+		<TargetName ID="1">베스</TargetName>
+	</Name>
+	<Name ID="121">
+		<SourceName>BETTE</SourceName>
+		<TargetName ID="1">베티</TargetName>
+	</Name>
+	<Name ID="122">
+		<SourceName>BETTINA</SourceName>
+		<TargetName ID="1">베티나</TargetName>
+	</Name>
+	<Name ID="123">
+		<SourceName>BIANCHI</SourceName>
+		<TargetName ID="1">비앙키</TargetName>
+	</Name>
+	<Name ID="124">
+		<SourceName>BIANCO</SourceName>
+		<TargetName ID="1">비안코</TargetName>
+	</Name>
+	<Name ID="125">
+		<SourceName>BIEL</SourceName>
+		<TargetName ID="1">비엘</TargetName>
+	</Name>
+	<Name ID="126">
+		<SourceName>BILAL</SourceName>
+		<TargetName ID="1">빌랄</TargetName>
+	</Name>
+	<Name ID="127">
+		<SourceName>BILLIE</SourceName>
+		<TargetName ID="1">빌리</TargetName>
+	</Name>
+	<Name ID="128">
+		<SourceName>BIRCH</SourceName>
+		<TargetName ID="1">버치</TargetName>
+	</Name>
+	<Name ID="129">
+		<SourceName>BITTER</SourceName>
+		<TargetName ID="1">비터</TargetName>
+	</Name>
+	<Name ID="130">
+		<SourceName>BJORN</SourceName>
+		<TargetName ID="1">비욘</TargetName>
+	</Name>
+	<Name ID="131">
+		<SourceName>BLISS</SourceName>
+		<TargetName ID="1">블리스</TargetName>
+	</Name>
+	<Name ID="132">
+		<SourceName>BLUM</SourceName>
+		<TargetName ID="1">블럼</TargetName>
+	</Name>
+	<Name ID="133">
+		<SourceName>BLUNT</SourceName>
+		<TargetName ID="1">블런트</TargetName>
+	</Name>
+	<Name ID="134">
+		<SourceName>BLYTHE</SourceName>
+		<TargetName ID="1">블리드</TargetName>
+	</Name>
+	<Name ID="135">
+		<SourceName>BODEN</SourceName>
+		<TargetName ID="1">보덴</TargetName>
+	</Name>
+	<Name ID="136">
+		<SourceName>BOJAN</SourceName>
+		<TargetName ID="1">보얀</TargetName>
+	</Name>
+	<Name ID="137">
+		<SourceName>BOK</SourceName>
+		<TargetName ID="1">복</TargetName>
+	</Name>
+	<Name ID="138">
+		<SourceName>BOLL</SourceName>
+		<TargetName ID="1">볼</TargetName>
+	</Name>
+	<Name ID="139">
+		<SourceName>BOLT</SourceName>
+		<TargetName ID="1">볼트</TargetName>
+	</Name>
+	<Name ID="140">
+		<SourceName>BONA</SourceName>
+		<TargetName ID="1">보나</TargetName>
+	</Name>
+	<Name ID="141">
+		<SourceName>BONNIE</SourceName>
+		<TargetName ID="1">보니</TargetName>
+	</Name>
+	<Name ID="142">
+		<SourceName>BORG</SourceName>
+		<TargetName ID="1">보그</TargetName>
+	</Name>
+	<Name ID="143">
+		<SourceName>BOROUGH</SourceName>
+		<TargetName ID="1">보로</TargetName>
+	</Name>
+	<Name ID="144">
+		<SourceName>BOSCO</SourceName>
+		<TargetName ID="1">보스코</TargetName>
+	</Name>
+	<Name ID="145">
+		<SourceName>BOUTON</SourceName>
+		<TargetName ID="1">부통</TargetName>
+	</Name>
+	<Name ID="146">
+		<SourceName>BOUVET</SourceName>
+		<TargetName ID="1">보빗</TargetName>
+	</Name>
+	<Name ID="147">
+		<SourceName>BOW</SourceName>
+		<TargetName ID="1">보우</TargetName>
+	</Name>
+	<Name ID="148">
+		<SourceName>BOYD</SourceName>
+		<TargetName ID="1">보이드</TargetName>
+	</Name>
+	<Name ID="149">
+		<SourceName>BOZ</SourceName>
+		<TargetName ID="1">보즈</TargetName>
+	</Name>
+	<Name ID="150">
+		<SourceName>BRAGA</SourceName>
+		<TargetName ID="1">브라가</TargetName>
+	</Name>
+	<Name ID="151">
+		<SourceName>BRANCA</SourceName>
+		<TargetName ID="1">브란카</TargetName>
+	</Name>
+	<Name ID="152">
+		<SourceName>BRANCO</SourceName>
+		<TargetName ID="1">브랑코</TargetName>
+	</Name>
+	<Name ID="153">
+		<SourceName>BRANSON</SourceName>
+		<TargetName ID="1">브랜슨</TargetName>
+	</Name>
+	<Name ID="154">
+		<SourceName>BRAY</SourceName>
+		<TargetName ID="1">브레이</TargetName>
+	</Name>
+	<Name ID="155">
+		<SourceName>BREE</SourceName>
+		<TargetName ID="1">브리</TargetName>
+	</Name>
+	<Name ID="156">
+		<SourceName>BRENNAN</SourceName>
+		<TargetName ID="1">브레넌</TargetName>
+	</Name>
+	<Name ID="157">
+		<SourceName>BRENNER</SourceName>
+		<TargetName ID="1">브레너</TargetName>
+	</Name>
+	<Name ID="158">
+		<SourceName>BRIDGET</SourceName>
+		<TargetName ID="1">브리지트</TargetName>
+	</Name>
+	<Name ID="159">
+		<SourceName>BRINK</SourceName>
+		<TargetName ID="1">브링크</TargetName>
+	</Name>
+	<Name ID="160">
+		<SourceName>BRITO</SourceName>
+		<TargetName ID="1">브리토</TargetName>
+	</Name>
+	<Name ID="161">
+		<SourceName>BRITT</SourceName>
+		<TargetName ID="1">브릿</TargetName>
+	</Name>
+	<Name ID="162">
+		<SourceName>BROCK</SourceName>
+		<TargetName ID="1">브록</TargetName>
+	</Name>
+	<Name ID="163">
+		<SourceName>BRON</SourceName>
+		<TargetName ID="1">브론</TargetName>
+	</Name>
+	<Name ID="164">
+		<SourceName>BUCKLEY</SourceName>
+		<TargetName ID="1">버클리</TargetName>
+	</Name>
+	<Name ID="165">
+		<SourceName>BUD</SourceName>
+		<TargetName ID="1">버드</TargetName>
+	</Name>
+	<Name ID="166">
+		<SourceName>BUDDY</SourceName>
+		<TargetName ID="1">버디</TargetName>
+	</Name>
+	<Name ID="167">
+		<SourceName>BUI</SourceName>
+		<TargetName ID="1">부이</TargetName>
+	</Name>
+	<Name ID="168">
+		<SourceName>BUONO</SourceName>
+		<TargetName ID="1">보노</TargetName>
+	</Name>
+	<Name ID="169">
+		<SourceName>BURGESS</SourceName>
+		<TargetName ID="1">버지스</TargetName>
+	</Name>
+	<Name ID="170">
+		<SourceName>BURNLEY</SourceName>
+		<TargetName ID="1">번리</TargetName>
+	</Name>
+	<Name ID="171">
+		<SourceName>BURT</SourceName>
+		<TargetName ID="1">버트</TargetName>
+	</Name>
+	<Name ID="172">
+		<SourceName>BUTTS</SourceName>
+		<TargetName ID="1">버츠</TargetName>
+	</Name>
+	<Name ID="173">
+		<SourceName>CABANAS</SourceName>
+		<TargetName ID="1">카바나스</TargetName>
+	</Name>
+	<Name ID="174">
+		<SourceName>CADENA</SourceName>
+		<TargetName ID="1">카데나</TargetName>
+	</Name>
+	<Name ID="175">
+		<SourceName>CALE</SourceName>
+		<TargetName ID="1">케일</TargetName>
+	</Name>
+	<Name ID="176">
+		<SourceName>CANE</SourceName>
+		<TargetName ID="1">케인</TargetName>
+	</Name>
+	<Name ID="177">
+		<SourceName>CANO</SourceName>
+		<TargetName ID="1">카노</TargetName>
+	</Name>
+	<Name ID="178">
+		<SourceName>CANTO</SourceName>
+		<TargetName ID="1">칸토</TargetName>
+	</Name>
+	<Name ID="179">
+		<SourceName>CARA</SourceName>
+		<TargetName ID="1">카라</TargetName>
+	</Name>
+	<Name ID="180">
+		<SourceName>CARDIN</SourceName>
+		<TargetName ID="1">카딘</TargetName>
+	</Name>
+	<Name ID="181">
+		<SourceName>CARLA</SourceName>
+		<TargetName ID="1">칼라</TargetName>
+	</Name>
+	<Name ID="182">
+		<SourceName>CARLIN</SourceName>
+		<TargetName ID="1">칼린</TargetName>
+	</Name>
+	<Name ID="183">
+		<SourceName>CARLTON</SourceName>
+		<TargetName ID="1">칼튼</TargetName>
+	</Name>
+	<Name ID="184">
+		<SourceName>CARNES</SourceName>
+		<TargetName ID="1">카네스</TargetName>
+	</Name>
+	<Name ID="185">
+		<SourceName>CAROLA</SourceName>
+		<TargetName ID="1">카롤라</TargetName>
+	</Name>
+	<Name ID="186">
+		<SourceName>CARRIE</SourceName>
+		<TargetName ID="1">캐리</TargetName>
+	</Name>
+	<Name ID="187">
+		<SourceName>CARRILLO</SourceName>
+		<TargetName ID="1">카릴로</TargetName>
+	</Name>
+	<Name ID="188">
+		<SourceName>CASS</SourceName>
+		<TargetName ID="1">캐스</TargetName>
+	</Name>
+	<Name ID="189">
+		<SourceName>CASTELLO</SourceName>
+		<TargetName ID="1">카스텔로</TargetName>
+	</Name>
+	<Name ID="190">
+		<SourceName>CASTILLO</SourceName>
+		<TargetName ID="1">카스틸로</TargetName>
+	</Name>
+	<Name ID="191">
+		<SourceName>CATHERINE</SourceName>
+		<TargetName ID="1">캐더린</TargetName>
+		<TargetName ID="2">캐서린</TargetName>
+	</Name>
+	<Name ID="192">
+		<SourceName>CEDAR</SourceName>
+		<TargetName ID="1">시다</TargetName>
+	</Name>
+	<Name ID="193">
+		<SourceName>CELESTE</SourceName>
+		<TargetName ID="1">셀레스트</TargetName>
+	</Name>
+	<Name ID="194">
+		<SourceName>CESAR</SourceName>
+		<TargetName ID="1">세사르</TargetName>
+	</Name>
+	<Name ID="195">
+		<SourceName>CHAHINE</SourceName>
+		<TargetName ID="1">샤힌</TargetName>
+	</Name>
+	<Name ID="196">
+		<SourceName>CHANG</SourceName>
+		<TargetName ID="1">장</TargetName>
+	</Name>
+	<Name ID="197">
+		<SourceName>CHANTAL</SourceName>
+		<TargetName ID="1">샨탈</TargetName>
+	</Name>
+	<Name ID="198">
+		<SourceName>CHARLES</SourceName>
+		<TargetName ID="1">샤를</TargetName>
+		<TargetName ID="2">카를로스</TargetName>
+	</Name>
+	<Name ID="199">
+		<SourceName>CHARLOTTE</SourceName>
+		<TargetName ID="1">샬로트</TargetName>
+	</Name>
+	<Name ID="200">
+		<SourceName>CHIARA</SourceName>
+		<TargetName ID="1">키아라</TargetName>
+	</Name>
+	<Name ID="201">
+		<SourceName>CHIC</SourceName>
+		<TargetName ID="1">칙</TargetName>
+	</Name>
+	<Name ID="202">
+		<SourceName>CHIESA</SourceName>
+		<TargetName ID="1">키에사</TargetName>
+	</Name>
+	<Name ID="203">
+		<SourceName>CHRISTOPH</SourceName>
+		<TargetName ID="1">크리스토프</TargetName>
+	</Name>
+	<Name ID="204">
+		<SourceName>CHUNG</SourceName>
+		<TargetName ID="1">정</TargetName>
+	</Name>
+	<Name ID="205">
+		<SourceName>CLAPTON</SourceName>
+		<TargetName ID="1">클랩튼</TargetName>
+	</Name>
+	<Name ID="206">
+		<SourceName>CLARE</SourceName>
+		<TargetName ID="1">클레어</TargetName>
+	</Name>
+	<Name ID="207">
+		<SourceName>CLAUDE</SourceName>
+		<TargetName ID="1">클라우드</TargetName>
+	</Name>
+	<Name ID="208">
+		<SourceName>CLEMENT</SourceName>
+		<TargetName ID="1">클레멘트</TargetName>
+	</Name>
+	<Name ID="209">
+		<SourceName>CLINT</SourceName>
+		<TargetName ID="1">클린트</TargetName>
+	</Name>
+	<Name ID="210">
+		<SourceName>CLYDE</SourceName>
+		<TargetName ID="1">클라이드</TargetName>
+	</Name>
+	<Name ID="211">
+		<SourceName>COEN</SourceName>
+		<TargetName ID="1">코엔</TargetName>
+	</Name>
+	<Name ID="212">
+		<SourceName>COLBY</SourceName>
+		<TargetName ID="1">콜비</TargetName>
+	</Name>
+	<Name ID="213">
+		<SourceName>COLLEEN</SourceName>
+		<TargetName ID="1">콜린</TargetName>
+	</Name>
+	<Name ID="214">
+		<SourceName>COLONNA</SourceName>
+		<TargetName ID="1">콜론나</TargetName>
+	</Name>
+	<Name ID="215">
+		<SourceName>COMBS</SourceName>
+		<TargetName ID="1">콤스</TargetName>
+	</Name>
+	<Name ID="216">
+		<SourceName>CONCHA</SourceName>
+		<TargetName ID="1">콘차</TargetName>
+	</Name>
+	<Name ID="217">
+		<SourceName>CONDO</SourceName>
+		<TargetName ID="1">콘도</TargetName>
+	</Name>
+	<Name ID="218">
+		<SourceName>CONE</SourceName>
+		<TargetName ID="1">콘</TargetName>
+	</Name>
+	<Name ID="219">
+		<SourceName>CONRAD</SourceName>
+		<TargetName ID="1">콘라드</TargetName>
+	</Name>
+	<Name ID="220">
+		<SourceName>CONWAY</SourceName>
+		<TargetName ID="1">콘웨이</TargetName>
+	</Name>
+	<Name ID="221">
+		<SourceName>CORDELIA</SourceName>
+		<TargetName ID="1">코델리아</TargetName>
+	</Name>
+	<Name ID="222">
+		<SourceName>CORONADO</SourceName>
+		<TargetName ID="1">코로나도</TargetName>
+	</Name>
+	<Name ID="223">
+		<SourceName>CORSI</SourceName>
+		<TargetName ID="1">코시</TargetName>
+	</Name>
+	<Name ID="224">
+		<SourceName>COSA</SourceName>
+		<TargetName ID="1">코사</TargetName>
+	</Name>
+	<Name ID="225">
+		<SourceName>COSTA</SourceName>
+		<TargetName ID="1">코스타</TargetName>
+	</Name>
+	<Name ID="226">
+		<SourceName>COURTNEY</SourceName>
+		<TargetName ID="1">코트니</TargetName>
+	</Name>
+	<Name ID="227">
+		<SourceName>COWAN</SourceName>
+		<TargetName ID="1">코완</TargetName>
+	</Name>
+	<Name ID="228">
+		<SourceName>CRAMER</SourceName>
+		<TargetName ID="1">크래머</TargetName>
+	</Name>
+	<Name ID="229">
+		<SourceName>CRAVEN</SourceName>
+		<TargetName ID="1">크레이븐</TargetName>
+	</Name>
+	<Name ID="230">
+		<SourceName>CREAN</SourceName>
+		<TargetName ID="1">크린</TargetName>
+	</Name>
+	<Name ID="231">
+		<SourceName>CRISP</SourceName>
+		<TargetName ID="1">크리스프</TargetName>
+	</Name>
+	<Name ID="232">
+		<SourceName>CUEVA</SourceName>
+		<TargetName ID="1">쿠에바</TargetName>
+	</Name>
+	<Name ID="233">
+		<SourceName>CULLEN</SourceName>
+		<TargetName ID="1">컬렌</TargetName>
+	</Name>
+	<Name ID="234">
+		<SourceName>CUMMINS</SourceName>
+		<TargetName ID="1">커민스</TargetName>
+	</Name>
+	<Name ID="235">
+		<SourceName>CUTLER</SourceName>
+		<TargetName ID="1">커틀러</TargetName>
+	</Name>
+	<Name ID="236">
+		<SourceName>CYNDI</SourceName>
+		<TargetName ID="1">신디</TargetName>
+	</Name>
+	<Name ID="237">
+		<SourceName>CYNTHIA</SourceName>
+		<TargetName ID="1">신시아</TargetName>
+	</Name>
+	<Name ID="238">
+		<SourceName>DAGMAR</SourceName>
+		<TargetName ID="1">다그마르</TargetName>
+	</Name>
+	<Name ID="239">
+		<SourceName>DALI</SourceName>
+		<TargetName ID="1">달리</TargetName>
+	</Name>
+	<Name ID="240">
+		<SourceName>DAMEN</SourceName>
+		<TargetName ID="1">데이먼</TargetName>
+	</Name>
+	<Name ID="241">
+		<SourceName>DANICA</SourceName>
+		<TargetName ID="1">다니카</TargetName>
+	</Name>
+	<Name ID="242">
+		<SourceName>DANIELE</SourceName>
+		<TargetName ID="1">다니엘</TargetName>
+	</Name>
+	<Name ID="243">
+		<SourceName>DANIELS</SourceName>
+		<TargetName ID="1">다니엘즈</TargetName>
+	</Name>
+	<Name ID="244">
+		<SourceName>DANILO</SourceName>
+		<TargetName ID="1">다닐로</TargetName>
+	</Name>
+	<Name ID="245">
+		<SourceName>DANNY</SourceName>
+		<TargetName ID="1">대니</TargetName>
+	</Name>
+	<Name ID="246">
+		<SourceName>DARA</SourceName>
+		<TargetName ID="1">대라</TargetName>
+	</Name>
+	<Name ID="247">
+		<SourceName>DARCY</SourceName>
+		<TargetName ID="1">다시</TargetName>
+	</Name>
+	<Name ID="248">
+		<SourceName>DARD</SourceName>
+		<TargetName ID="1">다드</TargetName>
+	</Name>
+	<Name ID="249">
+		<SourceName>DARIN</SourceName>
+		<TargetName ID="1">다린</TargetName>
+	</Name>
+	<Name ID="250">
+		<SourceName>DARKO</SourceName>
+		<TargetName ID="1">다르코</TargetName>
+	</Name>
+	<Name ID="251">
+		<SourceName>DARRYL</SourceName>
+		<TargetName ID="1">대릴</TargetName>
+	</Name>
+	<Name ID="252">
+		<SourceName>DARYL</SourceName>
+		<TargetName ID="1">대릴</TargetName>
+	</Name>
+	<Name ID="253">
+		<SourceName>DAS</SourceName>
+		<TargetName ID="1">다스</TargetName>
+	</Name>
+	<Name ID="254">
+		<SourceName>DAVID</SourceName>
+		<TargetName ID="1">데이비드</TargetName>
+	</Name>
+	<Name ID="255">
+		<SourceName>DAVIDE</SourceName>
+		<TargetName ID="1">다비데</TargetName>
+	</Name>
+	<Name ID="256">
+		<SourceName>DAVIDOFF</SourceName>
+		<TargetName ID="1">대비도프</TargetName>
+	</Name>
+	<Name ID="257">
+		<SourceName>DEACON</SourceName>
+		<TargetName ID="1">디콘</TargetName>
+	</Name>
+	<Name ID="258">
+		<SourceName>DEBBIE</SourceName>
+		<TargetName ID="1">데비</TargetName>
+	</Name>
+	<Name ID="259">
+		<SourceName>DECKER</SourceName>
+		<TargetName ID="1">데커</TargetName>
+	</Name>
+	<Name ID="260">
+		<SourceName>DEE</SourceName>
+		<TargetName ID="1">디</TargetName>
+	</Name>
+	<Name ID="261">
+		<SourceName>DEED</SourceName>
+		<TargetName ID="1">디드</TargetName>
+	</Name>
+	<Name ID="262">
+		<SourceName>DEEPAK</SourceName>
+		<TargetName ID="1">디팩</TargetName>
+	</Name>
+	<Name ID="263">
+		<SourceName>DEKKER</SourceName>
+		<TargetName ID="1">데커</TargetName>
+	</Name>
+	<Name ID="264">
+		<SourceName>DEL</SourceName>
+		<TargetName ID="1">델</TargetName>
+	</Name>
+	<Name ID="265">
+		<SourceName>DELGADO</SourceName>
+		<TargetName ID="1">델가도</TargetName>
+	</Name>
+	<Name ID="266">
+		<SourceName>DEMPSEY</SourceName>
+		<TargetName ID="1">뎀시</TargetName>
+	</Name>
+	<Name ID="267">
+		<SourceName>DENIZ</SourceName>
+		<TargetName ID="1">데니즈</TargetName>
+	</Name>
+	<Name ID="268">
+		<SourceName>DENTON</SourceName>
+		<TargetName ID="1">덴튼</TargetName>
+	</Name>
+	<Name ID="269">
+		<SourceName>DEUTSCH</SourceName>
+		<TargetName ID="1">도이치</TargetName>
+	</Name>
+	<Name ID="270">
+		<SourceName>DEV</SourceName>
+		<TargetName ID="1">데브</TargetName>
+	</Name>
+	<Name ID="271">
+		<SourceName>DEVER</SourceName>
+		<TargetName ID="1">데버</TargetName>
+	</Name>
+	<Name ID="272">
+		<SourceName>DIA</SourceName>
+		<TargetName ID="1">디아</TargetName>
+	</Name>
+	<Name ID="273">
+		<SourceName>DIAN</SourceName>
+		<TargetName ID="1">디안</TargetName>
+	</Name>
+	<Name ID="274">
+		<SourceName>DIANNE</SourceName>
+		<TargetName ID="1">다이앤</TargetName>
+	</Name>
+	<Name ID="275">
+		<SourceName>DICKSON</SourceName>
+		<TargetName ID="1">딕슨</TargetName>
+	</Name>
+	<Name ID="276">
+		<SourceName>DILL</SourceName>
+		<TargetName ID="1">딜</TargetName>
+	</Name>
+	<Name ID="277">
+		<SourceName>DILLER</SourceName>
+		<TargetName ID="1">딜러</TargetName>
+	</Name>
+	<Name ID="278">
+		<SourceName>DIN</SourceName>
+		<TargetName ID="1">딘</TargetName>
+	</Name>
+	<Name ID="279">
+		<SourceName>DINA</SourceName>
+		<TargetName ID="1">디나</TargetName>
+	</Name>
+	<Name ID="280">
+		<SourceName>DIRK</SourceName>
+		<TargetName ID="1">더크</TargetName>
+	</Name>
+	<Name ID="281">
+		<SourceName>DIXIT</SourceName>
+		<TargetName ID="1">딕시트</TargetName>
+	</Name>
+	<Name ID="282">
+		<SourceName>DIXON</SourceName>
+		<TargetName ID="1">딕슨</TargetName>
+	</Name>
+	<Name ID="283">
+		<SourceName>DMITRY</SourceName>
+		<TargetName ID="1">드미트리</TargetName>
+	</Name>
+	<Name ID="284">
+		<SourceName>DOD</SourceName>
+		<TargetName ID="1">도드</TargetName>
+	</Name>
+	<Name ID="285">
+		<SourceName>DOLORES</SourceName>
+		<TargetName ID="1">돌로레스</TargetName>
+	</Name>
+	<Name ID="286">
+		<SourceName>DOMINGUEZ</SourceName>
+		<TargetName ID="1">도밍게즈</TargetName>
+	</Name>
+	<Name ID="287">
+		<SourceName>DONATO</SourceName>
+		<TargetName ID="1">도나토</TargetName>
+	</Name>
+	<Name ID="288">
+		<SourceName>DONNIE</SourceName>
+		<TargetName ID="1">도니</TargetName>
+	</Name>
+	<Name ID="289">
+		<SourceName>DORA</SourceName>
+		<TargetName ID="1">도라</TargetName>
+	</Name>
+	<Name ID="290">
+		<SourceName>DOST</SourceName>
+		<TargetName ID="1">도스트</TargetName>
+	</Name>
+	<Name ID="291">
+		<SourceName>DOV</SourceName>
+		<TargetName ID="1">도브</TargetName>
+	</Name>
+	<Name ID="292">
+		<SourceName>DOW</SourceName>
+		<TargetName ID="1">다우</TargetName>
+	</Name>
+	<Name ID="293">
+		<SourceName>DRAGO</SourceName>
+		<TargetName ID="1">드라고</TargetName>
+	</Name>
+	<Name ID="294">
+		<SourceName>DUFFY</SourceName>
+		<TargetName ID="1">더피</TargetName>
+	</Name>
+	<Name ID="295">
+		<SourceName>DUMONT</SourceName>
+		<TargetName ID="1">뒤몽</TargetName>
+	</Name>
+	<Name ID="296">
+		<SourceName>DUNCAN</SourceName>
+		<TargetName ID="1">던컨</TargetName>
+	</Name>
+	<Name ID="297">
+		<SourceName>DUNHAM</SourceName>
+		<TargetName ID="1">던햄</TargetName>
+	</Name>
+	<Name ID="298">
+		<SourceName>DUNNE</SourceName>
+		<TargetName ID="1">던</TargetName>
+	</Name>
+	<Name ID="299">
+		<SourceName>DUPONT</SourceName>
+		<TargetName ID="1">듀퐁</TargetName>
+	</Name>
+	<Name ID="300">
+		<SourceName>DURAND</SourceName>
+		<TargetName ID="1">듀란드</TargetName>
+	</Name>
+	<Name ID="301">
+		<SourceName>DURANTE</SourceName>
+		<TargetName ID="1">듀란테</TargetName>
+	</Name>
+	<Name ID="302">
+		<SourceName>DYKE</SourceName>
+		<TargetName ID="1">다이크</TargetName>
+	</Name>
+	<Name ID="303">
+		<SourceName>EAGER</SourceName>
+		<TargetName ID="1">이거</TargetName>
+	</Name>
+	<Name ID="304">
+		<SourceName>EARLE</SourceName>
+		<TargetName ID="1">얼</TargetName>
+	</Name>
+	<Name ID="305">
+		<SourceName>EATON</SourceName>
+		<TargetName ID="1">이튼</TargetName>
+	</Name>
+	<Name ID="306">
+		<SourceName>EBERHARD</SourceName>
+		<TargetName ID="1">에벨하르트</TargetName>
+	</Name>
+	<Name ID="307">
+		<SourceName>EDDIE</SourceName>
+		<TargetName ID="1">에디</TargetName>
+	</Name>
+	<Name ID="308">
+		<SourceName>EDDY</SourceName>
+		<TargetName ID="1">에디</TargetName>
+	</Name>
+	<Name ID="309">
+		<SourceName>EDEL</SourceName>
+		<TargetName ID="1">에델</TargetName>
+	</Name>
+	<Name ID="310">
+		<SourceName>EDGAR</SourceName>
+		<TargetName ID="1">에드가</TargetName>
+	</Name>
+	<Name ID="311">
+		<SourceName>EDI</SourceName>
+		<TargetName ID="1">에디</TargetName>
+	</Name>
+	<Name ID="312">
+		<SourceName>EDITA</SourceName>
+		<TargetName ID="1">에디타</TargetName>
+	</Name>
+	<Name ID="313">
+		<SourceName>EDITH</SourceName>
+		<TargetName ID="1">에디스</TargetName>
+	</Name>
+	<Name ID="314">
+		<SourceName>EDMUND</SourceName>
+		<TargetName ID="1">에드문드</TargetName>
+	</Name>
+	<Name ID="315">
+		<SourceName>EDWARD</SourceName>
+		<TargetName ID="1">에드워드</TargetName>
+	</Name>
+	<Name ID="316">
+		<SourceName>ELIANA</SourceName>
+		<TargetName ID="1">엘리아나</TargetName>
+	</Name>
+	<Name ID="317">
+		<SourceName>ELISA</SourceName>
+		<TargetName ID="1">엘리사</TargetName>
+	</Name>
+	<Name ID="318">
+		<SourceName>ELISE</SourceName>
+		<TargetName ID="1">엘리스</TargetName>
+	</Name>
+	<Name ID="319">
+		<SourceName>ELIZABETHE</SourceName>
+		<TargetName ID="1">엘리자베스</TargetName>
+	</Name>
+	<Name ID="320">
+		<SourceName>ELLIOTT</SourceName>
+		<TargetName ID="1">엘리엇</TargetName>
+	</Name>
+	<Name ID="321">
+		<SourceName>ELMO</SourceName>
+		<TargetName ID="1">엘모</TargetName>
+	</Name>
+	<Name ID="322">
+		<SourceName>ELVIRA</SourceName>
+		<TargetName ID="1">엘비라</TargetName>
+	</Name>
+	<Name ID="323">
+		<SourceName>EMERY</SourceName>
+		<TargetName ID="1">에머리</TargetName>
+	</Name>
+	<Name ID="324">
+		<SourceName>EMILIE</SourceName>
+		<TargetName ID="1">에밀리</TargetName>
+	</Name>
+	<Name ID="325">
+		<SourceName>EMIN</SourceName>
+		<TargetName ID="1">에민</TargetName>
+	</Name>
+	<Name ID="326">
+		<SourceName>EMMERICH</SourceName>
+		<TargetName ID="1">에머리히</TargetName>
+	</Name>
+	<Name ID="327">
+		<SourceName>ENZO</SourceName>
+		<TargetName ID="1">엔조</TargetName>
+	</Name>
+	<Name ID="328">
+		<SourceName>ERICKSON</SourceName>
+		<TargetName ID="1">에릭슨</TargetName>
+	</Name>
+	<Name ID="329">
+		<SourceName>ERICSON</SourceName>
+		<TargetName ID="1">에릭슨</TargetName>
+	</Name>
+	<Name ID="330">
+		<SourceName>ERNIE</SourceName>
+		<TargetName ID="1">어니</TargetName>
+	</Name>
+	<Name ID="331">
+		<SourceName>ESCOBAR</SourceName>
+		<TargetName ID="1">에스코바</TargetName>
+	</Name>
+	<Name ID="332">
+		<SourceName>ESCUDERO</SourceName>
+		<TargetName ID="1">에스쿠데로</TargetName>
+	</Name>
+	<Name ID="333">
+		<SourceName>ESPINOSA</SourceName>
+		<TargetName ID="1">에스피노자</TargetName>
+	</Name>
+	<Name ID="334">
+		<SourceName>ETHAN</SourceName>
+		<TargetName ID="1">이던</TargetName>
+	</Name>
+	<Name ID="335">
+		<SourceName>EVA</SourceName>
+		<TargetName ID="1">에바</TargetName>
+	</Name>
+	<Name ID="336">
+		<SourceName>EVELYN</SourceName>
+		<TargetName ID="1">이벨린</TargetName>
+	</Name>
+	<Name ID="337">
+		<SourceName>FALK</SourceName>
+		<TargetName ID="1">포크</TargetName>
+	</Name>
+	<Name ID="338">
+		<SourceName>FARINA</SourceName>
+		<TargetName ID="1">파리나</TargetName>
+	</Name>
+	<Name ID="339">
+		<SourceName>FAY</SourceName>
+		<TargetName ID="1">페이</TargetName>
+	</Name>
+	<Name ID="340">
+		<SourceName>FEDERER</SourceName>
+		<TargetName ID="1">페더러</TargetName>
+	</Name>
+	<Name ID="341">
+		<SourceName>FEIN</SourceName>
+		<TargetName ID="1">페인</TargetName>
+	</Name>
+	<Name ID="342">
+		<SourceName>FELDER</SourceName>
+		<TargetName ID="1">펠더</TargetName>
+	</Name>
+	<Name ID="343">
+		<SourceName>FELICE</SourceName>
+		<TargetName ID="1">펠리스</TargetName>
+	</Name>
+	<Name ID="344">
+		<SourceName>FELICIA</SourceName>
+		<TargetName ID="1">펠리시아</TargetName>
+	</Name>
+	<Name ID="345">
+		<SourceName>FENTON</SourceName>
+		<TargetName ID="1">펜튼</TargetName>
+	</Name>
+	<Name ID="346">
+		<SourceName>FERDIANAND</SourceName>
+		<TargetName ID="1">페르디난드</TargetName>
+	</Name>
+	<Name ID="347">
+		<SourceName>FERRER</SourceName>
+		<TargetName ID="1">페러</TargetName>
+	</Name>
+	<Name ID="348">
+		<SourceName>FERRERO</SourceName>
+		<TargetName ID="1">페레로</TargetName>
+	</Name>
+	<Name ID="349">
+		<SourceName>FERRIS</SourceName>
+		<TargetName ID="1">페리스</TargetName>
+	</Name>
+	<Name ID="350">
+		<SourceName>FERRO</SourceName>
+		<TargetName ID="1">페로</TargetName>
+	</Name>
+	<Name ID="351">
+		<SourceName>FICK</SourceName>
+		<TargetName ID="1">피크</TargetName>
+	</Name>
+	<Name ID="352">
+		<SourceName>FIENNES</SourceName>
+		<TargetName ID="1">파인즈</TargetName>
+	</Name>
+	<Name ID="353">
+		<SourceName>FINCH</SourceName>
+		<TargetName ID="1">핀치</TargetName>
+	</Name>
+	<Name ID="354">
+		<SourceName>FISCH</SourceName>
+		<TargetName ID="1">피셔</TargetName>
+	</Name>
+	<Name ID="355">
+		<SourceName>FLOYD</SourceName>
+		<TargetName ID="1">플로이드</TargetName>
+	</Name>
+	<Name ID="356">
+		<SourceName>FOREMAN</SourceName>
+		<TargetName ID="1">포먼</TargetName>
+	</Name>
+	<Name ID="357">
+		<SourceName>FORSYTH</SourceName>
+		<TargetName ID="1">포사이스</TargetName>
+	</Name>
+	<Name ID="358">
+		<SourceName>FOSSE</SourceName>
+		<TargetName ID="1">포세</TargetName>
+	</Name>
+	<Name ID="359">
+		<SourceName>FRANCES</SourceName>
+		<TargetName ID="1">프란시스</TargetName>
+	</Name>
+	<Name ID="360">
+		<SourceName>FRANTISEK</SourceName>
+		<TargetName ID="1">프란티섹</TargetName>
+	</Name>
+	<Name ID="361">
+		<SourceName>FREDDIE</SourceName>
+		<TargetName ID="1">프레디</TargetName>
+	</Name>
+	<Name ID="362">
+		<SourceName>FREDERICK</SourceName>
+		<TargetName ID="1">프레데릭</TargetName>
+		<TargetName ID="2">프레드리히</TargetName>
+	</Name>
+	<Name ID="363">
+		<SourceName>FREIRE</SourceName>
+		<TargetName ID="1">프레이레</TargetName>
+	</Name>
+	<Name ID="364">
+		<SourceName>FREITAS</SourceName>
+		<TargetName ID="1">프레이타스</TargetName>
+	</Name>
+	<Name ID="365">
+		<SourceName>FREMONT</SourceName>
+		<TargetName ID="1">프레몬트</TargetName>
+	</Name>
+	<Name ID="366">
+		<SourceName>FREUNDLICH</SourceName>
+		<TargetName ID="1">프룬디치</TargetName>
+	</Name>
+	<Name ID="367">
+		<SourceName>FRIDA</SourceName>
+		<TargetName ID="1">프리다</TargetName>
+	</Name>
+	<Name ID="368">
+		<SourceName>FRYE</SourceName>
+		<TargetName ID="1">프라이</TargetName>
+	</Name>
+	<Name ID="369">
+		<SourceName>FURTADO</SourceName>
+		<TargetName ID="1">펄타도</TargetName>
+	</Name>
+	<Name ID="370">
+		<SourceName>GABOR</SourceName>
+		<TargetName ID="1">가보르</TargetName>
+	</Name>
+	<Name ID="371">
+		<SourceName>GAGO</SourceName>
+		<TargetName ID="1">가고</TargetName>
+	</Name>
+	<Name ID="372">
+		<SourceName>GAL</SourceName>
+		<TargetName ID="1">갈</TargetName>
+	</Name>
+	<Name ID="373">
+		<SourceName>GALLEGOS</SourceName>
+		<TargetName ID="1">갈레고스</TargetName>
+	</Name>
+	<Name ID="374">
+		<SourceName>GALLI</SourceName>
+		<TargetName ID="1">갈리</TargetName>
+	</Name>
+	<Name ID="375">
+		<SourceName>GALLO</SourceName>
+		<TargetName ID="1">갈로</TargetName>
+	</Name>
+	<Name ID="376">
+		<SourceName>GAMBA</SourceName>
+		<TargetName ID="1">감바</TargetName>
+	</Name>
+	<Name ID="377">
+		<SourceName>GARNET</SourceName>
+		<TargetName ID="1">가아넷</TargetName>
+	</Name>
+	<Name ID="378">
+		<SourceName>GARTNER</SourceName>
+		<TargetName ID="1">가트너</TargetName>
+	</Name>
+	<Name ID="379">
+		<SourceName>GATTO</SourceName>
+		<TargetName ID="1">가토</TargetName>
+	</Name>
+	<Name ID="380">
+		<SourceName>GATTUSO</SourceName>
+		<TargetName ID="1">가투소</TargetName>
+	</Name>
+	<Name ID="381">
+		<SourceName>GAYE</SourceName>
+		<TargetName ID="1">게이</TargetName>
+	</Name>
+	<Name ID="382">
+		<SourceName>GAYLE</SourceName>
+		<TargetName ID="1">게일</TargetName>
+	</Name>
+	<Name ID="383">
+		<SourceName>GENEVIEVE</SourceName>
+		<TargetName ID="1">제네비브</TargetName>
+	</Name>
+	<Name ID="384">
+		<SourceName>GENNARO</SourceName>
+		<TargetName ID="1">젠나로</TargetName>
+	</Name>
+	<Name ID="385">
+		<SourceName>GEOFFREY</SourceName>
+		<TargetName ID="1">조프리</TargetName>
+	</Name>
+	<Name ID="386">
+		<SourceName>GEORGE</SourceName>
+		<TargetName ID="1">게오르그</TargetName>
+	</Name>
+	<Name ID="387">
+		<SourceName>GERDA</SourceName>
+		<TargetName ID="1">게르다</TargetName>
+	</Name>
+	<Name ID="388">
+		<SourceName>GERE</SourceName>
+		<TargetName ID="1">기어</TargetName>
+	</Name>
+	<Name ID="389">
+		<SourceName>GERTRUDE</SourceName>
+		<TargetName ID="1">게르트루드</TargetName>
+	</Name>
+	<Name ID="390">
+		<SourceName>GIANCARLO</SourceName>
+		<TargetName ID="1">지안카를로</TargetName>
+	</Name>
+	<Name ID="391">
+		<SourceName>GILBERTO</SourceName>
+		<TargetName ID="1">질베르토</TargetName>
+	</Name>
+	<Name ID="392">
+		<SourceName>GILLES</SourceName>
+		<TargetName ID="1">질스</TargetName>
+	</Name>
+	<Name ID="393">
+		<SourceName>GILMORE</SourceName>
+		<TargetName ID="1">길모어</TargetName>
+	</Name>
+	<Name ID="394">
+		<SourceName>GODIN</SourceName>
+		<TargetName ID="1">고딘</TargetName>
+	</Name>
+	<Name ID="395">
+		<SourceName>GOMEZ</SourceName>
+		<TargetName ID="1">고메즈</TargetName>
+	</Name>
+	<Name ID="396">
+		<SourceName>GORI</SourceName>
+		<TargetName ID="1">고리</TargetName>
+	</Name>
+	<Name ID="397">
+		<SourceName>GRACIA</SourceName>
+		<TargetName ID="1">그라시아</TargetName>
+	</Name>
+	<Name ID="398">
+		<SourceName>GRAFTON</SourceName>
+		<TargetName ID="1">그라프튼</TargetName>
+	</Name>
+	<Name ID="399">
+		<SourceName>GRANDE</SourceName>
+		<TargetName ID="1">그랜드</TargetName>
+	</Name>
+	<Name ID="400">
+		<SourceName>GRANDI</SourceName>
+		<TargetName ID="1">그란디</TargetName>
+	</Name>
+	<Name ID="401">
+		<SourceName>GRANGER</SourceName>
+		<TargetName ID="1">그레인저</TargetName>
+	</Name>
+	<Name ID="402">
+		<SourceName>GRANVILLE</SourceName>
+		<TargetName ID="1">그랜빌</TargetName>
+	</Name>
+	<Name ID="403">
+		<SourceName>GRAS</SourceName>
+		<TargetName ID="1">그라스</TargetName>
+	</Name>
+	<Name ID="404">
+		<SourceName>GRASSE</SourceName>
+		<TargetName ID="1">그래스</TargetName>
+	</Name>
+	<Name ID="405">
+		<SourceName>GREENBERG</SourceName>
+		<TargetName ID="1">그린버그</TargetName>
+	</Name>
+	<Name ID="406">
+		<SourceName>GREENFIELD</SourceName>
+		<TargetName ID="1">그린필드</TargetName>
+	</Name>
+	<Name ID="407">
+		<SourceName>GRENIER</SourceName>
+		<TargetName ID="1">그르니에</TargetName>
+	</Name>
+	<Name ID="408">
+		<SourceName>GRETA</SourceName>
+		<TargetName ID="1">그레타</TargetName>
+	</Name>
+	<Name ID="409">
+		<SourceName>GRETCHEN</SourceName>
+		<TargetName ID="1">그레첸</TargetName>
+	</Name>
+	<Name ID="410">
+		<SourceName>GRIFFITHS</SourceName>
+		<TargetName ID="1">그리피스</TargetName>
+	</Name>
+	<Name ID="411">
+		<SourceName>GRILLO</SourceName>
+		<TargetName ID="1">그릴로</TargetName>
+	</Name>
+	<Name ID="412">
+		<SourceName>GROSS</SourceName>
+		<TargetName ID="1">그로스</TargetName>
+	</Name>
+	<Name ID="413">
+		<SourceName>GROSSO</SourceName>
+		<TargetName ID="1">그로소</TargetName>
+	</Name>
+	<Name ID="414">
+		<SourceName>GUETTA</SourceName>
+		<TargetName ID="1">궤타</TargetName>
+	</Name>
+	<Name ID="415">
+		<SourceName>GUILLERMO</SourceName>
+		<TargetName ID="1">기예르모</TargetName>
+	</Name>
+	<Name ID="416">
+		<SourceName>GUTHRIE</SourceName>
+		<TargetName ID="1">구트리</TargetName>
+	</Name>
+	<Name ID="417">
+		<SourceName>GWYN</SourceName>
+		<TargetName ID="1">그윈</TargetName>
+	</Name>
+	<Name ID="418">
+		<SourceName>HACKER</SourceName>
+		<TargetName ID="1">해커</TargetName>
+	</Name>
+	<Name ID="419">
+		<SourceName>HACKS</SourceName>
+		<TargetName ID="1">학스</TargetName>
+	</Name>
+	<Name ID="420">
+		<SourceName>HADI</SourceName>
+		<TargetName ID="1">하디</TargetName>
+	</Name>
+	<Name ID="421">
+		<SourceName>HAIN</SourceName>
+		<TargetName ID="1">헤인</TargetName>
+	</Name>
+	<Name ID="422">
+		<SourceName>HAINES</SourceName>
+		<TargetName ID="1">헤인즈</TargetName>
+	</Name>
+	<Name ID="423">
+		<SourceName>HALLS</SourceName>
+		<TargetName ID="1">홀스</TargetName>
+	</Name>
+	<Name ID="424">
+		<SourceName>HALTER</SourceName>
+		<TargetName ID="1">할터</TargetName>
+	</Name>
+	<Name ID="425">
+		<SourceName>HAMM</SourceName>
+		<TargetName ID="1">함</TargetName>
+	</Name>
+	<Name ID="426">
+		<SourceName>HAMZA</SourceName>
+		<TargetName ID="1">함자</TargetName>
+	</Name>
+	<Name ID="427">
+		<SourceName>HANA</SourceName>
+		<TargetName ID="1">하나</TargetName>
+	</Name>
+	<Name ID="428">
+		<SourceName>HANCOCK</SourceName>
+		<TargetName ID="1">핸콕</TargetName>
+	</Name>
+	<Name ID="429">
+		<SourceName>HANEKE</SourceName>
+		<TargetName ID="1">하네케</TargetName>
+	</Name>
+	<Name ID="430">
+		<SourceName>HANKS</SourceName>
+		<TargetName ID="1">행크스</TargetName>
+	</Name>
+	<Name ID="431">
+		<SourceName>HARCOURT</SourceName>
+		<TargetName ID="1">하코트</TargetName>
+	</Name>
+	<Name ID="432">
+		<SourceName>HARDIN</SourceName>
+		<TargetName ID="1">하딘</TargetName>
+	</Name>
+	<Name ID="433">
+		<SourceName>HAREN</SourceName>
+		<TargetName ID="1">하렌</TargetName>
+	</Name>
+	<Name ID="434">
+		<SourceName>HASAN</SourceName>
+		<TargetName ID="1">하산</TargetName>
+	</Name>
+	<Name ID="435">
+		<SourceName>HATTON</SourceName>
+		<TargetName ID="1">해튼</TargetName>
+	</Name>
+	<Name ID="436">
+		<SourceName>HAUPT</SourceName>
+		<TargetName ID="1">하우프트</TargetName>
+	</Name>
+	<Name ID="437">
+		<SourceName>HAYAT</SourceName>
+		<TargetName ID="1">하얏</TargetName>
+	</Name>
+	<Name ID="438">
+		<SourceName>HECK</SourceName>
+		<TargetName ID="1">헥</TargetName>
+	</Name>
+	<Name ID="439">
+		<SourceName>HEDGE</SourceName>
+		<TargetName ID="1">헤지</TargetName>
+	</Name>
+	<Name ID="440">
+		<SourceName>HEIN</SourceName>
+		<TargetName ID="1">헤인</TargetName>
+	</Name>
+	<Name ID="441">
+		<SourceName>HELGA</SourceName>
+		<TargetName ID="1">헬가</TargetName>
+	</Name>
+	<Name ID="442">
+		<SourceName>HELGE</SourceName>
+		<TargetName ID="1">헬게</TargetName>
+	</Name>
+	<Name ID="443">
+		<SourceName>HELLEN</SourceName>
+		<TargetName ID="1">헬렌</TargetName>
+	</Name>
+	<Name ID="444">
+		<SourceName>HELLSING</SourceName>
+		<TargetName ID="1">헬싱</TargetName>
+	</Name>
+	<Name ID="445">
+		<SourceName>HELM</SourceName>
+		<TargetName ID="1">헬름</TargetName>
+	</Name>
+	<Name ID="446">
+		<SourceName>HENDRICKS</SourceName>
+		<TargetName ID="1">핸드릭스</TargetName>
+	</Name>
+	<Name ID="447">
+		<SourceName>HENDRIX</SourceName>
+		<TargetName ID="1">헨드릭스</TargetName>
+	</Name>
+	<Name ID="448">
+		<SourceName>HENK</SourceName>
+		<TargetName ID="1">헹크</TargetName>
+	</Name>
+	<Name ID="449">
+		<SourceName>HENNE</SourceName>
+		<TargetName ID="1">헤니</TargetName>
+	</Name>
+	<Name ID="450">
+		<SourceName>HENNING</SourceName>
+		<TargetName ID="1">헤닝</TargetName>
+	</Name>
+	<Name ID="451">
+		<SourceName>HENRY</SourceName>
+		<TargetName ID="1">헨리</TargetName>
+	</Name>
+	<Name ID="452">
+		<SourceName>HERBST</SourceName>
+		<TargetName ID="1">허브스트</TargetName>
+	</Name>
+	<Name ID="453">
+		<SourceName>HERREN</SourceName>
+		<TargetName ID="1">헤렌</TargetName>
+	</Name>
+	<Name ID="454">
+		<SourceName>HERRING</SourceName>
+		<TargetName ID="1">헤링</TargetName>
+	</Name>
+	<Name ID="455">
+		<SourceName>HERZ</SourceName>
+		<TargetName ID="1">헤르츠</TargetName>
+	</Name>
+	<Name ID="456">
+		<SourceName>HIGHLAND</SourceName>
+		<TargetName ID="1">하이랜드</TargetName>
+	</Name>
+	<Name ID="457">
+		<SourceName>HINES</SourceName>
+		<TargetName ID="1">하인즈</TargetName>
+	</Name>
+	<Name ID="458">
+		<SourceName>HOBBS</SourceName>
+		<TargetName ID="1">홉스</TargetName>
+	</Name>
+	<Name ID="459">
+		<SourceName>HOFF</SourceName>
+		<TargetName ID="1">호프</TargetName>
+	</Name>
+	<Name ID="460">
+		<SourceName>HOGAN</SourceName>
+		<TargetName ID="1">호건</TargetName>
+	</Name>
+	<Name ID="461">
+		<SourceName>HOLDEN</SourceName>
+		<TargetName ID="1">홀든</TargetName>
+	</Name>
+	<Name ID="462">
+		<SourceName>HOLL</SourceName>
+		<TargetName ID="1">홀</TargetName>
+	</Name>
+	<Name ID="463">
+		<SourceName>HONDA</SourceName>
+		<TargetName ID="1">혼다</TargetName>
+	</Name>
+	<Name ID="464">
+		<SourceName>HONIG</SourceName>
+		<TargetName ID="1">호니그</TargetName>
+	</Name>
+	<Name ID="465">
+		<SourceName>HOOPER</SourceName>
+		<TargetName ID="1">후퍼</TargetName>
+	</Name>
+	<Name ID="466">
+		<SourceName>HORNER</SourceName>
+		<TargetName ID="1">호너</TargetName>
+	</Name>
+	<Name ID="467">
+		<SourceName>HORTON</SourceName>
+		<TargetName ID="1">호튼</TargetName>
+	</Name>
+	<Name ID="468">
+		<SourceName>HOUGHTON</SourceName>
+		<TargetName ID="1">호튼</TargetName>
+	</Name>
+	<Name ID="469">
+		<SourceName>HOWELL</SourceName>
+		<TargetName ID="1">하웰</TargetName>
+	</Name>
+	<Name ID="470">
+		<SourceName>HUFF</SourceName>
+		<TargetName ID="1">허프</TargetName>
+	</Name>
+	<Name ID="471">
+		<SourceName>HUMPHERY</SourceName>
+		<TargetName ID="1">험프리</TargetName>
+	</Name>
+	<Name ID="472">
+		<SourceName>HURST</SourceName>
+		<TargetName ID="1">허스트</TargetName>
+	</Name>
+	<Name ID="473">
+		<SourceName>IGNACIO</SourceName>
+		<TargetName ID="1">이그나시오</TargetName>
+	</Name>
+	<Name ID="474">
+		<SourceName>ILSE</SourceName>
+		<TargetName ID="1">일스</TargetName>
+	</Name>
+	<Name ID="475">
+		<SourceName>IMAM</SourceName>
+		<TargetName ID="1">이맘</TargetName>
+	</Name>
+	<Name ID="476">
+		<SourceName>INGA</SourceName>
+		<TargetName ID="1">잉가</TargetName>
+	</Name>
+	<Name ID="477">
+		<SourceName>INGER</SourceName>
+		<TargetName ID="1">잉거</TargetName>
+	</Name>
+	<Name ID="478">
+		<SourceName>INGRAM</SourceName>
+		<TargetName ID="1">잉그램</TargetName>
+	</Name>
+	<Name ID="479">
+		<SourceName>INSEL</SourceName>
+		<TargetName ID="1">인셀</TargetName>
+	</Name>
+	<Name ID="480">
+		<SourceName>IRENA</SourceName>
+		<TargetName ID="1">이레나</TargetName>
+	</Name>
+	<Name ID="481">
+		<SourceName>IRENE</SourceName>
+		<TargetName ID="1">이레인</TargetName>
+	</Name>
+	<Name ID="482">
+		<SourceName>IRMA</SourceName>
+		<TargetName ID="1">이르마</TargetName>
+	</Name>
+	<Name ID="483">
+		<SourceName>IRVINE</SourceName>
+		<TargetName ID="1">어빈</TargetName>
+	</Name>
+	<Name ID="484">
+		<SourceName>ISABELLA</SourceName>
+		<TargetName ID="1">이사벨라</TargetName>
+	</Name>
+	<Name ID="485">
+		<SourceName>ISABELLE</SourceName>
+		<TargetName ID="1">이자벨</TargetName>
+	</Name>
+	<Name ID="486">
+		<SourceName>ISMAEL</SourceName>
+		<TargetName ID="1">이스마엘</TargetName>
+	</Name>
+	<Name ID="487">
+		<SourceName>ISOLA</SourceName>
+		<TargetName ID="1">이솔라</TargetName>
+	</Name>
+	<Name ID="488">
+		<SourceName>ISSABEL</SourceName>
+		<TargetName ID="1">이자벨</TargetName>
+	</Name>
+	<Name ID="489">
+		<SourceName>ISSAC</SourceName>
+		<TargetName ID="1">아이작</TargetName>
+	</Name>
+	<Name ID="490">
+		<SourceName>IZQUIERDO</SourceName>
+		<TargetName ID="1">이스키에르도</TargetName>
+	</Name>
+	<Name ID="491">
+		<SourceName>JAAP</SourceName>
+		<TargetName ID="1">야프</TargetName>
+	</Name>
+	<Name ID="492">
+		<SourceName>JACKS</SourceName>
+		<TargetName ID="1">잭스</TargetName>
+	</Name>
+	<Name ID="493">
+		<SourceName>JACOB</SourceName>
+		<TargetName ID="1">자콥</TargetName>
+	</Name>
+	<Name ID="494">
+		<SourceName>JACOBSON</SourceName>
+		<TargetName ID="1">제이콥슨</TargetName>
+	</Name>
+	<Name ID="495">
+		<SourceName>JADE</SourceName>
+		<TargetName ID="1">제이드</TargetName>
+	</Name>
+	<Name ID="496">
+		<SourceName>JAIN</SourceName>
+		<TargetName ID="1">제인</TargetName>
+	</Name>
+	<Name ID="497">
+		<SourceName>JAMESON</SourceName>
+		<TargetName ID="1">제임슨</TargetName>
+	</Name>
+	<Name ID="498">
+		<SourceName>JANA</SourceName>
+		<TargetName ID="1">자나</TargetName>
+	</Name>
+	<Name ID="499">
+		<SourceName>JANINE</SourceName>
+		<TargetName ID="1">제닌</TargetName>
+	</Name>
+	<Name ID="500">
+		<SourceName>JANIS</SourceName>
+		<TargetName ID="1">제니스</TargetName>
+	</Name>
+	<Name ID="501">
+		<SourceName>JARA</SourceName>
+		<TargetName ID="1">하라</TargetName>
+	</Name>
+	<Name ID="502">
+		<SourceName>JARVIS</SourceName>
+		<TargetName ID="1">자비스</TargetName>
+	</Name>
+	<Name ID="503">
+		<SourceName>JAYNE</SourceName>
+		<TargetName ID="1">제인</TargetName>
+	</Name>
+	<Name ID="504">
+		<SourceName>JENKINS</SourceName>
+		<TargetName ID="1">젠킨스</TargetName>
+	</Name>
+	<Name ID="505">
+		<SourceName>JESSICA</SourceName>
+		<TargetName ID="1">제시카</TargetName>
+	</Name>
+	<Name ID="506">
+		<SourceName>JOANNA</SourceName>
+		<TargetName ID="1">조안나</TargetName>
+	</Name>
+	<Name ID="507">
+		<SourceName>JOAQUIM</SourceName>
+		<TargetName ID="1">호아킴</TargetName>
+	</Name>
+	<Name ID="508">
+		<SourceName>JOBIM</SourceName>
+		<TargetName ID="1">조빔</TargetName>
+	</Name>
+	<Name ID="509">
+		<SourceName>JOHANSEN</SourceName>
+		<TargetName ID="1">요한센</TargetName>
+	</Name>
+	<Name ID="510">
+		<SourceName>JOHNNIE</SourceName>
+		<TargetName ID="1">조니</TargetName>
+	</Name>
+	<Name ID="511">
+		<SourceName>JOHNS</SourceName>
+		<TargetName ID="1">존스</TargetName>
+	</Name>
+	<Name ID="512">
+		<SourceName>JOLLY</SourceName>
+		<TargetName ID="1">졸리</TargetName>
+	</Name>
+	<Name ID="513">
+		<SourceName>JONI</SourceName>
+		<TargetName ID="1">조니</TargetName>
+	</Name>
+	<Name ID="514">
+		<SourceName>JONNY</SourceName>
+		<TargetName ID="1">조니</TargetName>
+	</Name>
+	<Name ID="515">
+		<SourceName>JONSSON</SourceName>
+		<TargetName ID="1">존슨</TargetName>
+	</Name>
+	<Name ID="516">
+		<SourceName>JOSEP</SourceName>
+		<TargetName ID="1">호셉</TargetName>
+	</Name>
+	<Name ID="517">
+		<SourceName>JOSEPHINE</SourceName>
+		<TargetName ID="1">조세핀</TargetName>
+	</Name>
+	<Name ID="518">
+		<SourceName>JOSHI</SourceName>
+		<TargetName ID="1">조시</TargetName>
+	</Name>
+	<Name ID="519">
+		<SourceName>JOSHUA</SourceName>
+		<TargetName ID="1">조수아</TargetName>
+	</Name>
+	<Name ID="520">
+		<SourceName>JUDITH</SourceName>
+		<TargetName ID="1">유디스</TargetName>
+		<TargetName ID="2">쥬디스</TargetName>
+	</Name>
+	<Name ID="521">
+		<SourceName>JULIANA</SourceName>
+		<TargetName ID="1">줄리아나</TargetName>
+	</Name>
+	<Name ID="522">
+		<SourceName>JUNE</SourceName>
+		<TargetName ID="1">쥰</TargetName>
+	</Name>
+	<Name ID="523">
+		<SourceName>KAAS</SourceName>
+		<TargetName ID="1">카스</TargetName>
+	</Name>
+	<Name ID="524">
+		<SourceName>KALE</SourceName>
+		<TargetName ID="1">케일</TargetName>
+	</Name>
+	<Name ID="525">
+		<SourceName>KAMEN</SourceName>
+		<TargetName ID="1">케이먼</TargetName>
+	</Name>
+	<Name ID="526">
+		<SourceName>KANN</SourceName>
+		<TargetName ID="1">칸</TargetName>
+	</Name>
+	<Name ID="527">
+		<SourceName>KAPLAN</SourceName>
+		<TargetName ID="1">캐플란</TargetName>
+	</Name>
+	<Name ID="528">
+		<SourceName>KARI</SourceName>
+		<TargetName ID="1">카리</TargetName>
+	</Name>
+	<Name ID="529">
+		<SourceName>KARINA</SourceName>
+		<TargetName ID="1">카리나</TargetName>
+	</Name>
+	<Name ID="530">
+		<SourceName>KATHARINE</SourceName>
+		<TargetName ID="1">캐서린</TargetName>
+	</Name>
+	<Name ID="531">
+		<SourceName>KATHRYN</SourceName>
+		<TargetName ID="1">캐서린</TargetName>
+	</Name>
+	<Name ID="532">
+		<SourceName>KATHY</SourceName>
+		<TargetName ID="1">캐시</TargetName>
+	</Name>
+	<Name ID="533">
+		<SourceName>KATIE</SourceName>
+		<TargetName ID="1">케이티</TargetName>
+	</Name>
+	<Name ID="534">
+		<SourceName>KAUFMANN</SourceName>
+		<TargetName ID="1">카우프만</TargetName>
+	</Name>
+	<Name ID="535">
+		<SourceName>KAYE</SourceName>
+		<TargetName ID="1">케이</TargetName>
+	</Name>
+	<Name ID="536">
+		<SourceName>KEANE</SourceName>
+		<TargetName ID="1">킨</TargetName>
+	</Name>
+	<Name ID="537">
+		<SourceName>KEE</SourceName>
+		<TargetName ID="1">키</TargetName>
+	</Name>
+	<Name ID="538">
+		<SourceName>KEELEY</SourceName>
+		<TargetName ID="1">켈리</TargetName>
+	</Name>
+	<Name ID="539">
+		<SourceName>KEES</SourceName>
+		<TargetName ID="1">키스</TargetName>
+	</Name>
+	<Name ID="540">
+		<SourceName>KELL</SourceName>
+		<TargetName ID="1">켈리</TargetName>
+	</Name>
+	<Name ID="541">
+		<SourceName>KELLEY</SourceName>
+		<TargetName ID="1">켈리</TargetName>
+	</Name>
+	<Name ID="542">
+		<SourceName>KELSEY</SourceName>
+		<TargetName ID="1">켈시</TargetName>
+	</Name>
+	<Name ID="543">
+		<SourceName>KENDRICK</SourceName>
+		<TargetName ID="1">켄드릭</TargetName>
+	</Name>
+	<Name ID="544">
+		<SourceName>KENNETH</SourceName>
+		<TargetName ID="1">케니스</TargetName>
+	</Name>
+	<Name ID="545">
+		<SourceName>KER</SourceName>
+		<TargetName ID="1">커</TargetName>
+	</Name>
+	<Name ID="546">
+		<SourceName>KERI</SourceName>
+		<TargetName ID="1">케리</TargetName>
+	</Name>
+	<Name ID="547">
+		<SourceName>KERSTIN</SourceName>
+		<TargetName ID="1">커스틴</TargetName>
+	</Name>
+	<Name ID="548">
+		<SourceName>KIMMEL</SourceName>
+		<TargetName ID="1">키멜</TargetName>
+	</Name>
+	<Name ID="549">
+		<SourceName>KIRA</SourceName>
+		<TargetName ID="1">키라</TargetName>
+	</Name>
+	<Name ID="550">
+		<SourceName>KIRBY</SourceName>
+		<TargetName ID="1">커비</TargetName>
+	</Name>
+	<Name ID="551">
+		<SourceName>KIRK</SourceName>
+		<TargetName ID="1">커크</TargetName>
+	</Name>
+	<Name ID="552">
+		<SourceName>KNOWLES</SourceName>
+		<TargetName ID="1">놀즈</TargetName>
+	</Name>
+	<Name ID="553">
+		<SourceName>KOEN</SourceName>
+		<TargetName ID="1">코엔</TargetName>
+	</Name>
+	<Name ID="554">
+		<SourceName>KOLJA</SourceName>
+		<TargetName ID="1">콜리야</TargetName>
+	</Name>
+	<Name ID="555">
+		<SourceName>KONDO</SourceName>
+		<TargetName ID="1">콘도</TargetName>
+	</Name>
+	<Name ID="556">
+		<SourceName>KONSTANTIN</SourceName>
+		<TargetName ID="1">콘스탄틴</TargetName>
+	</Name>
+	<Name ID="557">
+		<SourceName>KORN</SourceName>
+		<TargetName ID="1">콘</TargetName>
+	</Name>
+	<Name ID="558">
+		<SourceName>KOSTER</SourceName>
+		<TargetName ID="1">코스터</TargetName>
+	</Name>
+	<Name ID="559">
+		<SourceName>KOWALSKI</SourceName>
+		<TargetName ID="1">코왈스키</TargetName>
+	</Name>
+	<Name ID="560">
+		<SourceName>KRIS</SourceName>
+		<TargetName ID="1">크리스</TargetName>
+	</Name>
+	<Name ID="561">
+		<SourceName>KROM</SourceName>
+		<TargetName ID="1">크롬</TargetName>
+	</Name>
+	<Name ID="562">
+		<SourceName>KRONER</SourceName>
+		<TargetName ID="1">크로네</TargetName>
+	</Name>
+	<Name ID="563">
+		<SourceName>KYLE</SourceName>
+		<TargetName ID="1">카일</TargetName>
+	</Name>
+	<Name ID="564">
+		<SourceName>LABAKI</SourceName>
+		<TargetName ID="1">라바키</TargetName>
+	</Name>
+	<Name ID="565">
+		<SourceName>LAI</SourceName>
+		<TargetName ID="1">라이</TargetName>
+	</Name>
+	<Name ID="566">
+		<SourceName>LAINE</SourceName>
+		<TargetName ID="1">레인</TargetName>
+	</Name>
+	<Name ID="567">
+		<SourceName>LANA</SourceName>
+		<TargetName ID="1">라나</TargetName>
+	</Name>
+	<Name ID="568">
+		<SourceName>LANDER</SourceName>
+		<TargetName ID="1">랜더</TargetName>
+	</Name>
+	<Name ID="569">
+		<SourceName>LANDES</SourceName>
+		<TargetName ID="1">랜즈</TargetName>
+	</Name>
+	<Name ID="570">
+		<SourceName>LARSON</SourceName>
+		<TargetName ID="1">라슨</TargetName>
+	</Name>
+	<Name ID="571">
+		<SourceName>LARSSON</SourceName>
+		<TargetName ID="1">라르손</TargetName>
+	</Name>
+	<Name ID="572">
+		<SourceName>LASH</SourceName>
+		<TargetName ID="1">래쉬</TargetName>
+	</Name>
+	<Name ID="573">
+		<SourceName>LASSE</SourceName>
+		<TargetName ID="1">라세</TargetName>
+	</Name>
+	<Name ID="574">
+		<SourceName>LAUDER</SourceName>
+		<TargetName ID="1">로더</TargetName>
+	</Name>
+	<Name ID="575">
+		<SourceName>LAUDERDALE</SourceName>
+		<TargetName ID="1">로더데일</TargetName>
+	</Name>
+	<Name ID="576">
+		<SourceName>LAURIE</SourceName>
+		<TargetName ID="1">로리</TargetName>
+	</Name>
+	<Name ID="577">
+		<SourceName>LAUTNER</SourceName>
+		<TargetName ID="1">로트너</TargetName>
+	</Name>
+	<Name ID="578">
+		<SourceName>LAWRENCE</SourceName>
+		<TargetName ID="1">로렌스</TargetName>
+	</Name>
+	<Name ID="579">
+		<SourceName>LAYTON</SourceName>
+		<TargetName ID="1">레이튼</TargetName>
+	</Name>
+	<Name ID="580">
+		<SourceName>LEA</SourceName>
+		<TargetName ID="1">레아</TargetName>
+	</Name>
+	<Name ID="581">
+		<SourceName>LEARY</SourceName>
+		<TargetName ID="1">리어리</TargetName>
+	</Name>
+	<Name ID="582">
+		<SourceName>LEIF</SourceName>
+		<TargetName ID="1">레이프</TargetName>
+	</Name>
+	<Name ID="583">
+		<SourceName>LEIGHTON</SourceName>
+		<TargetName ID="1">레이튼</TargetName>
+	</Name>
+	<Name ID="584">
+		<SourceName>LEILA</SourceName>
+		<TargetName ID="1">레일라</TargetName>
+	</Name>
+	<Name ID="585">
+		<SourceName>LEM</SourceName>
+		<TargetName ID="1">렘</TargetName>
+	</Name>
+	<Name ID="586">
+		<SourceName>LEN</SourceName>
+		<TargetName ID="1">렌</TargetName>
+	</Name>
+	<Name ID="587">
+		<SourceName>LENNOX</SourceName>
+		<TargetName ID="1">레녹스</TargetName>
+	</Name>
+	<Name ID="588">
+		<SourceName>LENO</SourceName>
+		<TargetName ID="1">레노</TargetName>
+	</Name>
+	<Name ID="589">
+		<SourceName>LEONARD</SourceName>
+		<TargetName ID="1">레오나드</TargetName>
+	</Name>
+	<Name ID="590">
+		<SourceName>LEONI</SourceName>
+		<TargetName ID="1">레오니</TargetName>
+	</Name>
+	<Name ID="591">
+		<SourceName>LEONOR</SourceName>
+		<TargetName ID="1">레오노르</TargetName>
+	</Name>
+	<Name ID="592">
+		<SourceName>LESSER</SourceName>
+		<TargetName ID="1">레서</TargetName>
+	</Name>
+	<Name ID="593">
+		<SourceName>LEVIN</SourceName>
+		<TargetName ID="1">레빈</TargetName>
+	</Name>
+	<Name ID="594">
+		<SourceName>LEX</SourceName>
+		<TargetName ID="1">렉스</TargetName>
+	</Name>
+	<Name ID="595">
+		<SourceName>LIGHT</SourceName>
+		<TargetName ID="1">라이트</TargetName>
+	</Name>
+	<Name ID="596">
+		<SourceName>LILL</SourceName>
+		<TargetName ID="1">릴</TargetName>
+	</Name>
+	<Name ID="597">
+		<SourceName>LILLY</SourceName>
+		<TargetName ID="1">릴리</TargetName>
+	</Name>
+	<Name ID="598">
+		<SourceName>LILY</SourceName>
+		<TargetName ID="1">릴리</TargetName>
+	</Name>
+	<Name ID="599">
+		<SourceName>LINA</SourceName>
+		<TargetName ID="1">리나</TargetName>
+	</Name>
+	<Name ID="600">
+		<SourceName>LIND</SourceName>
+		<TargetName ID="1">린드</TargetName>
+	</Name>
+	<Name ID="601">
+		<SourceName>LINDBERG</SourceName>
+		<TargetName ID="1">린드버그</TargetName>
+	</Name>
+	<Name ID="602">
+		<SourceName>LINDEN</SourceName>
+		<TargetName ID="1">린든</TargetName>
+	</Name>
+	<Name ID="603">
+		<SourceName>LINO</SourceName>
+		<TargetName ID="1">리노</TargetName>
+	</Name>
+	<Name ID="604">
+		<SourceName>LINUS</SourceName>
+		<TargetName ID="1">리누스</TargetName>
+	</Name>
+	<Name ID="605">
+		<SourceName>LIZ</SourceName>
+		<TargetName ID="1">리즈</TargetName>
+	</Name>
+	<Name ID="606">
+		<SourceName>LIZA</SourceName>
+		<TargetName ID="1">리자</TargetName>
+	</Name>
+	<Name ID="607">
+		<SourceName>LOBO</SourceName>
+		<TargetName ID="1">로보</TargetName>
+	</Name>
+	<Name ID="608">
+		<SourceName>LODI</SourceName>
+		<TargetName ID="1">로디</TargetName>
+	</Name>
+	<Name ID="609">
+		<SourceName>LOMBARD</SourceName>
+		<TargetName ID="1">롬바드</TargetName>
+	</Name>
+	<Name ID="610">
+		<SourceName>LOMBARDO</SourceName>
+		<TargetName ID="1">롬바르도</TargetName>
+	</Name>
+	<Name ID="611">
+		<SourceName>LONGFORD</SourceName>
+		<TargetName ID="1">롱포드</TargetName>
+	</Name>
+	<Name ID="612">
+		<SourceName>LOOS</SourceName>
+		<TargetName ID="1">루스</TargetName>
+	</Name>
+	<Name ID="613">
+		<SourceName>LOREN</SourceName>
+		<TargetName ID="1">로렌</TargetName>
+	</Name>
+	<Name ID="614">
+		<SourceName>LORENA</SourceName>
+		<TargetName ID="1">로레나</TargetName>
+	</Name>
+	<Name ID="615">
+		<SourceName>LOU</SourceName>
+		<TargetName ID="1">루</TargetName>
+	</Name>
+	<Name ID="616">
+		<SourceName>LOUIS</SourceName>
+		<TargetName ID="1">루이스</TargetName>
+	</Name>
+	<Name ID="617">
+		<SourceName>LOWRY</SourceName>
+		<TargetName ID="1">로리</TargetName>
+	</Name>
+	<Name ID="618">
+		<SourceName>LOY</SourceName>
+		<TargetName ID="1">로이</TargetName>
+	</Name>
+	<Name ID="619">
+		<SourceName>LU</SourceName>
+		<TargetName ID="1">루</TargetName>
+	</Name>
+	<Name ID="620">
+		<SourceName>LUBIN</SourceName>
+		<TargetName ID="1">루빈</TargetName>
+	</Name>
+	<Name ID="621">
+		<SourceName>LUCIE</SourceName>
+		<TargetName ID="1">루시</TargetName>
+	</Name>
+	<Name ID="622">
+		<SourceName>LUCILLE</SourceName>
+		<TargetName ID="1">루실</TargetName>
+	</Name>
+	<Name ID="623">
+		<SourceName>LUCY</SourceName>
+		<TargetName ID="1">루시</TargetName>
+	</Name>
+	<Name ID="624">
+		<SourceName>LUGAR</SourceName>
+		<TargetName ID="1">루가</TargetName>
+	</Name>
+	<Name ID="625">
+		<SourceName>LUGO</SourceName>
+		<TargetName ID="1">루고</TargetName>
+	</Name>
+	<Name ID="626">
+		<SourceName>LUISA</SourceName>
+		<TargetName ID="1">루이자</TargetName>
+	</Name>
+	<Name ID="627">
+		<SourceName>LUIZ</SourceName>
+		<TargetName ID="1">루이즈</TargetName>
+	</Name>
+	<Name ID="628">
+		<SourceName>LUKAS</SourceName>
+		<TargetName ID="1">루카스</TargetName>
+	</Name>
+	<Name ID="629">
+		<SourceName>LUM</SourceName>
+		<TargetName ID="1">럼</TargetName>
+	</Name>
+	<Name ID="630">
+		<SourceName>LUND</SourceName>
+		<TargetName ID="1">룬드</TargetName>
+	</Name>
+	<Name ID="631">
+		<SourceName>LUTZ</SourceName>
+		<TargetName ID="1">루츠</TargetName>
+	</Name>
+	<Name ID="632">
+		<SourceName>LYLE</SourceName>
+		<TargetName ID="1">라일</TargetName>
+	</Name>
+	<Name ID="633">
+		<SourceName>LYN</SourceName>
+		<TargetName ID="1">린</TargetName>
+	</Name>
+	<Name ID="634">
+		<SourceName>LYNCH</SourceName>
+		<TargetName ID="1">린치</TargetName>
+	</Name>
+	<Name ID="635">
+		<SourceName>LYNDA</SourceName>
+		<TargetName ID="1">린다</TargetName>
+	</Name>
+	<Name ID="636">
+		<SourceName>LYNNE</SourceName>
+		<TargetName ID="1">린</TargetName>
+	</Name>
+	<Name ID="637">
+		<SourceName>MACCOBY</SourceName>
+		<TargetName ID="1">매코비</TargetName>
+	</Name>
+	<Name ID="638">
+		<SourceName>MACDONALD</SourceName>
+		<TargetName ID="1">맥도널드</TargetName>
+	</Name>
+	<Name ID="639">
+		<SourceName>MACIEL</SourceName>
+		<TargetName ID="1">마시엘</TargetName>
+	</Name>
+	<Name ID="640">
+		<SourceName>MACK</SourceName>
+		<TargetName ID="1">맥</TargetName>
+	</Name>
+	<Name ID="641">
+		<SourceName>MADSEN</SourceName>
+		<TargetName ID="1">매드슨</TargetName>
+	</Name>
+	<Name ID="642">
+		<SourceName>MAGA</SourceName>
+		<TargetName ID="1">마가</TargetName>
+	</Name>
+	<Name ID="643">
+		<SourceName>MAI</SourceName>
+		<TargetName ID="1">마이</TargetName>
+	</Name>
+	<Name ID="644">
+		<SourceName>MAIA</SourceName>
+		<TargetName ID="1">마이아</TargetName>
+	</Name>
+	<Name ID="645">
+		<SourceName>MAKI</SourceName>
+		<TargetName ID="1">마키</TargetName>
+	</Name>
+	<Name ID="646">
+		<SourceName>MAKIN</SourceName>
+		<TargetName ID="1">마킨</TargetName>
+	</Name>
+	<Name ID="647">
+		<SourceName>MALIN</SourceName>
+		<TargetName ID="1">말린</TargetName>
+	</Name>
+	<Name ID="648">
+		<SourceName>MANCE</SourceName>
+		<TargetName ID="1">맨스</TargetName>
+	</Name>
+	<Name ID="649">
+		<SourceName>MANDEL</SourceName>
+		<TargetName ID="1">맨델</TargetName>
+	</Name>
+	<Name ID="650">
+		<SourceName>MANGER</SourceName>
+		<TargetName ID="1">맹거</TargetName>
+	</Name>
+	<Name ID="651">
+		<SourceName>MANO</SourceName>
+		<TargetName ID="1">마노</TargetName>
+	</Name>
+	<Name ID="652">
+		<SourceName>MANUELA</SourceName>
+		<TargetName ID="1">마누엘라</TargetName>
+	</Name>
+	<Name ID="653">
+		<SourceName>MARAIS</SourceName>
+		<TargetName ID="1">마레</TargetName>
+	</Name>
+	<Name ID="654">
+		<SourceName>MAREK</SourceName>
+		<TargetName ID="1">마렉</TargetName>
+	</Name>
+	<Name ID="655">
+		<SourceName>MARGARET</SourceName>
+		<TargetName ID="1">마거리트</TargetName>
+	</Name>
+	<Name ID="656">
+		<SourceName>MARGARITA</SourceName>
+		<TargetName ID="1">마가리타</TargetName>
+	</Name>
+	<Name ID="657">
+		<SourceName>MARIANO</SourceName>
+		<TargetName ID="1">마리아노</TargetName>
+	</Name>
+	<Name ID="658">
+		<SourceName>MARIETTA</SourceName>
+		<TargetName ID="1">마리에타</TargetName>
+	</Name>
+	<Name ID="659">
+		<SourceName>MARISA</SourceName>
+		<TargetName ID="1">마리사</TargetName>
+	</Name>
+	<Name ID="660">
+		<SourceName>MARKO</SourceName>
+		<TargetName ID="1">마르코</TargetName>
+	</Name>
+	<Name ID="661">
+		<SourceName>MARKUS</SourceName>
+		<TargetName ID="1">마커스</TargetName>
+	</Name>
+	<Name ID="662">
+		<SourceName>MARLIN</SourceName>
+		<TargetName ID="1">말린</TargetName>
+	</Name>
+	<Name ID="663">
+		<SourceName>MARLON</SourceName>
+		<TargetName ID="1">말론</TargetName>
+	</Name>
+	<Name ID="664">
+		<SourceName>MARSDEN</SourceName>
+		<TargetName ID="1">마스든</TargetName>
+	</Name>
+	<Name ID="665">
+		<SourceName>MARSHA</SourceName>
+		<TargetName ID="1">마샤</TargetName>
+	</Name>
+	<Name ID="666">
+		<SourceName>MARTA</SourceName>
+		<TargetName ID="1">마르타</TargetName>
+	</Name>
+	<Name ID="667">
+		<SourceName>MARTHA</SourceName>
+		<TargetName ID="1">마샤</TargetName>
+	</Name>
+	<Name ID="668">
+		<SourceName>MARTIN</SourceName>
+		<TargetName ID="1">마르틴</TargetName>
+		<TargetName ID="2">마틴</TargetName>
+	</Name>
+	<Name ID="669">
+		<SourceName>MASA</SourceName>
+		<TargetName ID="1">마사</TargetName>
+	</Name>
+	<Name ID="670">
+		<SourceName>MASON</SourceName>
+		<TargetName ID="1">메이손</TargetName>
+	</Name>
+	<Name ID="671">
+		<SourceName>MASSA</SourceName>
+		<TargetName ID="1">마사</TargetName>
+	</Name>
+	<Name ID="672">
+		<SourceName>MATA</SourceName>
+		<TargetName ID="1">마타</TargetName>
+	</Name>
+	<Name ID="673">
+		<SourceName>MATHEWS</SourceName>
+		<TargetName ID="1">매튜스</TargetName>
+	</Name>
+	<Name ID="674">
+		<SourceName>MATHILDE</SourceName>
+		<TargetName ID="1">마틸드</TargetName>
+	</Name>
+	<Name ID="675">
+		<SourceName>MATHIS</SourceName>
+		<TargetName ID="1">매티스</TargetName>
+	</Name>
+	<Name ID="676">
+		<SourceName>MATIAS</SourceName>
+		<TargetName ID="1">마티아스</TargetName>
+	</Name>
+	<Name ID="677">
+		<SourceName>MATILDA</SourceName>
+		<TargetName ID="1">마틸다</TargetName>
+	</Name>
+	<Name ID="678">
+		<SourceName>MATS</SourceName>
+		<TargetName ID="1">매츠</TargetName>
+	</Name>
+	<Name ID="679">
+		<SourceName>MATTHEW</SourceName>
+		<TargetName ID="1">매슈</TargetName>
+	</Name>
+	<Name ID="680">
+		<SourceName>MAXIM</SourceName>
+		<TargetName ID="1">막심</TargetName>
+	</Name>
+	<Name ID="681">
+		<SourceName>MAXINE</SourceName>
+		<TargetName ID="1">맥신</TargetName>
+	</Name>
+	<Name ID="682">
+		<SourceName>MAYS</SourceName>
+		<TargetName ID="1">메이스</TargetName>
+	</Name>
+	<Name ID="683">
+		<SourceName>MCBRIDE</SourceName>
+		<TargetName ID="1">맥브라이드</TargetName>
+	</Name>
+	<Name ID="684">
+		<SourceName>MCCANN</SourceName>
+		<TargetName ID="1">맥캔</TargetName>
+	</Name>
+	<Name ID="685">
+		<SourceName>MCCOY</SourceName>
+		<TargetName ID="1">맥코이</TargetName>
+	</Name>
+	<Name ID="686">
+		<SourceName>MCGRATH</SourceName>
+		<TargetName ID="1">맥그라스</TargetName>
+	</Name>
+	<Name ID="687">
+		<SourceName>MCGUIRE</SourceName>
+		<TargetName ID="1">맥과이어</TargetName>
+	</Name>
+	<Name ID="688">
+		<SourceName>MCKAY</SourceName>
+		<TargetName ID="1">맥케이</TargetName>
+	</Name>
+	<Name ID="689">
+		<SourceName>MCLAREN</SourceName>
+		<TargetName ID="1">맥라렌</TargetName>
+	</Name>
+	<Name ID="690">
+		<SourceName>MEGAN</SourceName>
+		<TargetName ID="1">메간</TargetName>
+	</Name>
+	<Name ID="691">
+		<SourceName>MEI</SourceName>
+		<TargetName ID="1">메이</TargetName>
+	</Name>
+	<Name ID="692">
+		<SourceName>MEISTER</SourceName>
+		<TargetName ID="1">메이스터</TargetName>
+	</Name>
+	<Name ID="693">
+		<SourceName>MELLO</SourceName>
+		<TargetName ID="1">멜로</TargetName>
+	</Name>
+	<Name ID="694">
+		<SourceName>MELTON</SourceName>
+		<TargetName ID="1">멜톤</TargetName>
+	</Name>
+	<Name ID="695">
+		<SourceName>MENDES</SourceName>
+		<TargetName ID="1">멘데스</TargetName>
+	</Name>
+	<Name ID="696">
+		<SourceName>MENDOZA</SourceName>
+		<TargetName ID="1">멘도자</TargetName>
+	</Name>
+	<Name ID="697">
+		<SourceName>MERCE</SourceName>
+		<TargetName ID="1">머스</TargetName>
+	</Name>
+	<Name ID="698">
+		<SourceName>MERCER</SourceName>
+		<TargetName ID="1">머서</TargetName>
+	</Name>
+	<Name ID="699">
+		<SourceName>MERCIER</SourceName>
+		<TargetName ID="1">메르시에</TargetName>
+	</Name>
+	<Name ID="700">
+		<SourceName>MERLE</SourceName>
+		<TargetName ID="1">멀</TargetName>
+	</Name>
+	<Name ID="701">
+		<SourceName>MERRITT</SourceName>
+		<TargetName ID="1">메리트</TargetName>
+	</Name>
+	<Name ID="702">
+		<SourceName>MESQUITA</SourceName>
+		<TargetName ID="1">메스키타</TargetName>
+	</Name>
+	<Name ID="703">
+		<SourceName>MIA</SourceName>
+		<TargetName ID="1">미아</TargetName>
+	</Name>
+	<Name ID="704">
+		<SourceName>MICHAEL</SourceName>
+		<TargetName ID="1">미쉘</TargetName>
+		<TargetName ID="2">미카엘</TargetName>
+	</Name>
+	<Name ID="705">
+		<SourceName>MICHAL</SourceName>
+		<TargetName ID="1">마이클</TargetName>
+	</Name>
+	<Name ID="706">
+		<SourceName>MICKEY</SourceName>
+		<TargetName ID="1">미키</TargetName>
+	</Name>
+	<Name ID="707">
+		<SourceName>MILA</SourceName>
+		<TargetName ID="1">밀라</TargetName>
+	</Name>
+	<Name ID="708">
+		<SourceName>MILI</SourceName>
+		<TargetName ID="1">밀리</TargetName>
+	</Name>
+	<Name ID="709">
+		<SourceName>MILLAR</SourceName>
+		<TargetName ID="1">밀러</TargetName>
+	</Name>
+	<Name ID="710">
+		<SourceName>MILLE</SourceName>
+		<TargetName ID="1">밀</TargetName>
+	</Name>
+	<Name ID="711">
+		<SourceName>MILLES</SourceName>
+		<TargetName ID="1">밀레스</TargetName>
+	</Name>
+	<Name ID="712">
+		<SourceName>MINA</SourceName>
+		<TargetName ID="1">미나</TargetName>
+	</Name>
+	<Name ID="713">
+		<SourceName>MINDY</SourceName>
+		<TargetName ID="1">민디</TargetName>
+	</Name>
+	<Name ID="714">
+		<SourceName>MINOGUE</SourceName>
+		<TargetName ID="1">미노그</TargetName>
+	</Name>
+	<Name ID="715">
+		<SourceName>MITCH</SourceName>
+		<TargetName ID="1">미치</TargetName>
+	</Name>
+	<Name ID="716">
+		<SourceName>MITRA</SourceName>
+		<TargetName ID="1">미트라</TargetName>
+	</Name>
+	<Name ID="717">
+		<SourceName>MIURA</SourceName>
+		<TargetName ID="1">미우라</TargetName>
+	</Name>
+	<Name ID="718">
+		<SourceName>MOHAMAD</SourceName>
+		<TargetName ID="1">모하마드</TargetName>
+	</Name>
+	<Name ID="719">
+		<SourceName>MOLE</SourceName>
+		<TargetName ID="1">몰</TargetName>
+	</Name>
+	<Name ID="720">
+		<SourceName>MOLL</SourceName>
+		<TargetName ID="1">몰</TargetName>
+	</Name>
+	<Name ID="721">
+		<SourceName>MOLLER</SourceName>
+		<TargetName ID="1">몰러</TargetName>
+	</Name>
+	<Name ID="722">
+		<SourceName>MONTERO</SourceName>
+		<TargetName ID="1">몬테로</TargetName>
+	</Name>
+	<Name ID="723">
+		<SourceName>MONTES</SourceName>
+		<TargetName ID="1">몬테스</TargetName>
+	</Name>
+	<Name ID="724">
+		<SourceName>MONTOYA</SourceName>
+		<TargetName ID="1">몬토야</TargetName>
+	</Name>
+	<Name ID="725">
+		<SourceName>MONTY</SourceName>
+		<TargetName ID="1">몬티</TargetName>
+	</Name>
+	<Name ID="726">
+		<SourceName>MOODY</SourceName>
+		<TargetName ID="1">무디</TargetName>
+	</Name>
+	<Name ID="727">
+		<SourceName>MORA</SourceName>
+		<TargetName ID="1">모라</TargetName>
+	</Name>
+	<Name ID="728">
+		<SourceName>MORAES</SourceName>
+		<TargetName ID="1">모라에스</TargetName>
+	</Name>
+	<Name ID="729">
+		<SourceName>MORAIS</SourceName>
+		<TargetName ID="1">모라이스</TargetName>
+	</Name>
+	<Name ID="730">
+		<SourceName>MOREIRA</SourceName>
+		<TargetName ID="1">모레이라</TargetName>
+	</Name>
+	<Name ID="731">
+		<SourceName>MORENA</SourceName>
+		<TargetName ID="1">모레나</TargetName>
+	</Name>
+	<Name ID="732">
+		<SourceName>MORETTI</SourceName>
+		<TargetName ID="1">모레티</TargetName>
+	</Name>
+	<Name ID="733">
+		<SourceName>MORI</SourceName>
+		<TargetName ID="1">모리</TargetName>
+	</Name>
+	<Name ID="734">
+		<SourceName>MORRISSEY</SourceName>
+		<TargetName ID="1">모리씨</TargetName>
+	</Name>
+	<Name ID="735">
+		<SourceName>MORROW</SourceName>
+		<TargetName ID="1">모로</TargetName>
+	</Name>
+	<Name ID="736">
+		<SourceName>MORTIMER</SourceName>
+		<TargetName ID="1">모티머</TargetName>
+	</Name>
+	<Name ID="737">
+		<SourceName>MOTTA</SourceName>
+		<TargetName ID="1">모타</TargetName>
+	</Name>
+	<Name ID="738">
+		<SourceName>MOURA</SourceName>
+		<TargetName ID="1">모라</TargetName>
+	</Name>
+	<Name ID="739">
+		<SourceName>MRAZ</SourceName>
+		<TargetName ID="1">므라즈</TargetName>
+	</Name>
+	<Name ID="740">
+		<SourceName>MUKHERJEE</SourceName>
+		<TargetName ID="1">무커르지</TargetName>
+	</Name>
+	<Name ID="741">
+		<SourceName>MUNRO</SourceName>
+		<TargetName ID="1">먼로</TargetName>
+	</Name>
+	<Name ID="742">
+		<SourceName>MURAT</SourceName>
+		<TargetName ID="1">무라트</TargetName>
+	</Name>
+	<Name ID="743">
+		<SourceName>NADER</SourceName>
+		<TargetName ID="1">네이더</TargetName>
+	</Name>
+	<Name ID="744">
+		<SourceName>NAGEL</SourceName>
+		<TargetName ID="1">나겔</TargetName>
+	</Name>
+	<Name ID="745">
+		<SourceName>NAPOLEON</SourceName>
+		<TargetName ID="1">나폴레옹</TargetName>
+	</Name>
+	<Name ID="746">
+		<SourceName>NAPOLITANO</SourceName>
+		<TargetName ID="1">나폴리타노</TargetName>
+	</Name>
+	<Name ID="747">
+		<SourceName>NARAYAN</SourceName>
+		<TargetName ID="1">나라얀</TargetName>
+	</Name>
+	<Name ID="748">
+		<SourceName>NARCISO</SourceName>
+		<TargetName ID="1">나르시소</TargetName>
+	</Name>
+	<Name ID="749">
+		<SourceName>NASCIMENTO</SourceName>
+		<TargetName ID="1">나시멘투</TargetName>
+	</Name>
+	<Name ID="750">
+		<SourceName>NATH</SourceName>
+		<TargetName ID="1">나스</TargetName>
+	</Name>
+	<Name ID="751">
+		<SourceName>NENA</SourceName>
+		<TargetName ID="1">니나</TargetName>
+	</Name>
+	<Name ID="752">
+		<SourceName>NERI</SourceName>
+		<TargetName ID="1">네리</TargetName>
+	</Name>
+	<Name ID="753">
+		<SourceName>NESS</SourceName>
+		<TargetName ID="1">네스</TargetName>
+	</Name>
+	<Name ID="754">
+		<SourceName>NETO</SourceName>
+		<TargetName ID="1">네토</TargetName>
+	</Name>
+	<Name ID="755">
+		<SourceName>NEVE</SourceName>
+		<TargetName ID="1">네브</TargetName>
+	</Name>
+	<Name ID="756">
+		<SourceName>NEVILLE</SourceName>
+		<TargetName ID="1">네빌</TargetName>
+	</Name>
+	<Name ID="757">
+		<SourceName>NICHOLAS</SourceName>
+		<TargetName ID="1">니콜라스</TargetName>
+	</Name>
+	<Name ID="758">
+		<SourceName>NICO</SourceName>
+		<TargetName ID="1">니코</TargetName>
+	</Name>
+	<Name ID="759">
+		<SourceName>NIELS</SourceName>
+		<TargetName ID="1">닐스</TargetName>
+	</Name>
+	<Name ID="760">
+		<SourceName>NIKA</SourceName>
+		<TargetName ID="1">니카</TargetName>
+	</Name>
+	<Name ID="761">
+		<SourceName>NIKI</SourceName>
+		<TargetName ID="1">니키</TargetName>
+	</Name>
+	<Name ID="762">
+		<SourceName>NIKLAS</SourceName>
+		<TargetName ID="1">니클라스</TargetName>
+	</Name>
+	<Name ID="763">
+		<SourceName>NILS</SourceName>
+		<TargetName ID="1">닐스</TargetName>
+	</Name>
+	<Name ID="764">
+		<SourceName>NOIR</SourceName>
+		<TargetName ID="1">느와르</TargetName>
+	</Name>
+	<Name ID="765">
+		<SourceName>NORAH</SourceName>
+		<TargetName ID="1">노라</TargetName>
+	</Name>
+	<Name ID="766">
+		<SourceName>NORD</SourceName>
+		<TargetName ID="1">노드</TargetName>
+	</Name>
+	<Name ID="767">
+		<SourceName>NORMA</SourceName>
+		<TargetName ID="1">노마</TargetName>
+	</Name>
+	<Name ID="768">
+		<SourceName>NOTO</SourceName>
+		<TargetName ID="1">노토</TargetName>
+	</Name>
+	<Name ID="769">
+		<SourceName>NOUVEL</SourceName>
+		<TargetName ID="1">누벨</TargetName>
+	</Name>
+	<Name ID="770">
+		<SourceName>NOVAK</SourceName>
+		<TargetName ID="1">노박</TargetName>
+	</Name>
+	<Name ID="771">
+		<SourceName>NOVI</SourceName>
+		<TargetName ID="1">노비</TargetName>
+	</Name>
+	<Name ID="772">
+		<SourceName>NOWAK</SourceName>
+		<TargetName ID="1">노워크</TargetName>
+	</Name>
+	<Name ID="773">
+		<SourceName>NYE</SourceName>
+		<TargetName ID="1">나이</TargetName>
+	</Name>
+	<Name ID="774">
+		<SourceName>OBER</SourceName>
+		<TargetName ID="1">오버</TargetName>
+	</Name>
+	<Name ID="775">
+		<SourceName>OBI</SourceName>
+		<TargetName ID="1">오비</TargetName>
+	</Name>
+	<Name ID="776">
+		<SourceName>OCAMPO</SourceName>
+		<TargetName ID="1">오캄포</TargetName>
+	</Name>
+	<Name ID="777">
+		<SourceName>OCTAVE</SourceName>
+		<TargetName ID="1">옥타브</TargetName>
+	</Name>
+	<Name ID="778">
+		<SourceName>OLAF</SourceName>
+		<TargetName ID="1">올라프</TargetName>
+	</Name>
+	<Name ID="779">
+		<SourceName>OLSEN</SourceName>
+		<TargetName ID="1">올슨</TargetName>
+	</Name>
+	<Name ID="780">
+		<SourceName>ORD</SourceName>
+		<TargetName ID="1">오드</TargetName>
+	</Name>
+	<Name ID="781">
+		<SourceName>OREN</SourceName>
+		<TargetName ID="1">오렌</TargetName>
+	</Name>
+	<Name ID="782">
+		<SourceName>OSBOURNE</SourceName>
+		<TargetName ID="1">오스본</TargetName>
+	</Name>
+	<Name ID="783">
+		<SourceName>OSSOLA</SourceName>
+		<TargetName ID="1">오솔라</TargetName>
+	</Name>
+	<Name ID="784">
+		<SourceName>OTT</SourceName>
+		<TargetName ID="1">오트</TargetName>
+	</Name>
+	<Name ID="785">
+		<SourceName>OUD</SourceName>
+		<TargetName ID="1">오드</TargetName>
+	</Name>
+	<Name ID="786">
+		<SourceName>PACKARD</SourceName>
+		<TargetName ID="1">팩커드</TargetName>
+	</Name>
+	<Name ID="787">
+		<SourceName>PACKER</SourceName>
+		<TargetName ID="1">패커</TargetName>
+	</Name>
+	<Name ID="788">
+		<SourceName>PADILLA</SourceName>
+		<TargetName ID="1">파딜라</TargetName>
+	</Name>
+	<Name ID="789">
+		<SourceName>PAGANO</SourceName>
+		<TargetName ID="1">파가노</TargetName>
+	</Name>
+	<Name ID="790">
+		<SourceName>PAIS</SourceName>
+		<TargetName ID="1">파이스</TargetName>
+	</Name>
+	<Name ID="791">
+		<SourceName>PALOMA</SourceName>
+		<TargetName ID="1">팔로마</TargetName>
+	</Name>
+	<Name ID="792">
+		<SourceName>PAM</SourceName>
+		<TargetName ID="1">팸</TargetName>
+	</Name>
+	<Name ID="793">
+		<SourceName>PAOLA</SourceName>
+		<TargetName ID="1">파올라</TargetName>
+	</Name>
+	<Name ID="794">
+		<SourceName>PARRY</SourceName>
+		<TargetName ID="1">페리</TargetName>
+	</Name>
+	<Name ID="795">
+		<SourceName>PATE</SourceName>
+		<TargetName ID="1">페이트</TargetName>
+	</Name>
+	<Name ID="796">
+		<SourceName>PATRICIA</SourceName>
+		<TargetName ID="1">패트리샤</TargetName>
+	</Name>
+	<Name ID="797">
+		<SourceName>PATTY</SourceName>
+		<TargetName ID="1">패티</TargetName>
+	</Name>
+	<Name ID="798">
+		<SourceName>PAUL</SourceName>
+		<TargetName ID="1">폴</TargetName>
+	</Name>
+	<Name ID="799">
+		<SourceName>PAVEL</SourceName>
+		<TargetName ID="1">파벨</TargetName>
+	</Name>
+	<Name ID="800">
+		<SourceName>PEGGY</SourceName>
+		<TargetName ID="1">페기</TargetName>
+	</Name>
+	<Name ID="801">
+		<SourceName>PELI</SourceName>
+		<TargetName ID="1">펠리</TargetName>
+	</Name>
+	<Name ID="802">
+		<SourceName>PELLE</SourceName>
+		<TargetName ID="1">펠레</TargetName>
+	</Name>
+	<Name ID="803">
+		<SourceName>PELLEGRINI</SourceName>
+		<TargetName ID="1">펠레그리니</TargetName>
+	</Name>
+	<Name ID="804">
+		<SourceName>PENNY</SourceName>
+		<TargetName ID="1">페니</TargetName>
+	</Name>
+	<Name ID="805">
+		<SourceName>PERE</SourceName>
+		<TargetName ID="1">페르</TargetName>
+	</Name>
+	<Name ID="806">
+		<SourceName>PERENLEI</SourceName>
+		<TargetName ID="1">페렌레이</TargetName>
+	</Name>
+	<Name ID="807">
+		<SourceName>PEREZ</SourceName>
+		<TargetName ID="1">페레즈</TargetName>
+	</Name>
+	<Name ID="808">
+		<SourceName>PERKINS</SourceName>
+		<TargetName ID="1">퍼킨스</TargetName>
+	</Name>
+	<Name ID="809">
+		<SourceName>PESSOA</SourceName>
+		<TargetName ID="1">페소아</TargetName>
+	</Name>
+	<Name ID="810">
+		<SourceName>PETER</SourceName>
+		<TargetName ID="1">피터</TargetName>
+	</Name>
+	<Name ID="811">
+		<SourceName>PETERS</SourceName>
+		<TargetName ID="1">피터스</TargetName>
+	</Name>
+	<Name ID="812">
+		<SourceName>PETERSEN</SourceName>
+		<TargetName ID="1">피터슨</TargetName>
+	</Name>
+	<Name ID="813">
+		<SourceName>PETRI</SourceName>
+		<TargetName ID="1">페트리</TargetName>
+	</Name>
+	<Name ID="814">
+		<SourceName>PEYTON</SourceName>
+		<TargetName ID="1">페이튼</TargetName>
+	</Name>
+	<Name ID="815">
+		<SourceName>PHILIPS</SourceName>
+		<TargetName ID="1">필립스</TargetName>
+	</Name>
+	<Name ID="816">
+		<SourceName>PHILLIP</SourceName>
+		<TargetName ID="1">필립</TargetName>
+	</Name>
+	<Name ID="817">
+		<SourceName>PICCOLI</SourceName>
+		<TargetName ID="1">피콜리</TargetName>
+	</Name>
+	<Name ID="818">
+		<SourceName>PIEL</SourceName>
+		<TargetName ID="1">피엘</TargetName>
+	</Name>
+	<Name ID="819">
+		<SourceName>PIKE</SourceName>
+		<TargetName ID="1">파이크</TargetName>
+	</Name>
+	<Name ID="820">
+		<SourceName>PINTO</SourceName>
+		<TargetName ID="1">핀토</TargetName>
+	</Name>
+	<Name ID="821">
+		<SourceName>PIO</SourceName>
+		<TargetName ID="1">피오</TargetName>
+	</Name>
+	<Name ID="822">
+		<SourceName>PIRELLI</SourceName>
+		<TargetName ID="1">피렐리</TargetName>
+	</Name>
+	<Name ID="823">
+		<SourceName>PLATT</SourceName>
+		<TargetName ID="1">플랫</TargetName>
+	</Name>
+	<Name ID="824">
+		<SourceName>POLI</SourceName>
+		<TargetName ID="1">폴리</TargetName>
+	</Name>
+	<Name ID="825">
+		<SourceName>POOLE</SourceName>
+		<TargetName ID="1">풀</TargetName>
+	</Name>
+	<Name ID="826">
+		<SourceName>POSSE</SourceName>
+		<TargetName ID="1">포세</TargetName>
+	</Name>
+	<Name ID="827">
+		<SourceName>POTER</SourceName>
+		<TargetName ID="1">포터</TargetName>
+	</Name>
+	<Name ID="828">
+		<SourceName>POTTS</SourceName>
+		<TargetName ID="1">포츠</TargetName>
+	</Name>
+	<Name ID="829">
+		<SourceName>POULET</SourceName>
+		<TargetName ID="1">풀레</TargetName>
+	</Name>
+	<Name ID="830">
+		<SourceName>POZZO</SourceName>
+		<TargetName ID="1">포조</TargetName>
+	</Name>
+	<Name ID="831">
+		<SourceName>PRAGA</SourceName>
+		<TargetName ID="1">프라가</TargetName>
+	</Name>
+	<Name ID="832">
+		<SourceName>PRIM</SourceName>
+		<TargetName ID="1">프림</TargetName>
+	</Name>
+	<Name ID="833">
+		<SourceName>PUENTE</SourceName>
+		<TargetName ID="1">푸엔테</TargetName>
+	</Name>
+	<Name ID="834">
+		<SourceName>QUADRI</SourceName>
+		<TargetName ID="1">콰드리</TargetName>
+	</Name>
+	<Name ID="835">
+		<SourceName>QUIN</SourceName>
+		<TargetName ID="1">퀸</TargetName>
+	</Name>
+	<Name ID="836">
+		<SourceName>QUINCY</SourceName>
+		<TargetName ID="1">퀸시</TargetName>
+	</Name>
+	<Name ID="837">
+		<SourceName>RADA</SourceName>
+		<TargetName ID="1">라다</TargetName>
+	</Name>
+	<Name ID="838">
+		<SourceName>RADU</SourceName>
+		<TargetName ID="1">라두</TargetName>
+	</Name>
+	<Name ID="839">
+		<SourceName>RAINY</SourceName>
+		<TargetName ID="1">레이니</TargetName>
+	</Name>
+	<Name ID="840">
+		<SourceName>RALF</SourceName>
+		<TargetName ID="1">랄프</TargetName>
+	</Name>
+	<Name ID="841">
+		<SourceName>RAM</SourceName>
+		<TargetName ID="1">램</TargetName>
+	</Name>
+	<Name ID="842">
+		<SourceName>RAMBO</SourceName>
+		<TargetName ID="1">람보</TargetName>
+	</Name>
+	<Name ID="843">
+		<SourceName>RAMO</SourceName>
+		<TargetName ID="1">라모</TargetName>
+	</Name>
+	<Name ID="844">
+		<SourceName>RAMOS</SourceName>
+		<TargetName ID="1">라모스</TargetName>
+	</Name>
+	<Name ID="845">
+		<SourceName>RAMSEY</SourceName>
+		<TargetName ID="1">램지</TargetName>
+	</Name>
+	<Name ID="846">
+		<SourceName>RANA</SourceName>
+		<TargetName ID="1">라나</TargetName>
+	</Name>
+	<Name ID="847">
+		<SourceName>RANDY</SourceName>
+		<TargetName ID="1">랜디</TargetName>
+	</Name>
+	<Name ID="848">
+		<SourceName>RANGER</SourceName>
+		<TargetName ID="1">레인저</TargetName>
+	</Name>
+	<Name ID="849">
+		<SourceName>RASA</SourceName>
+		<TargetName ID="1">라사</TargetName>
+	</Name>
+	<Name ID="850">
+		<SourceName>RAUCH</SourceName>
+		<TargetName ID="1">로크</TargetName>
+	</Name>
+	<Name ID="851">
+		<SourceName>RAVI</SourceName>
+		<TargetName ID="1">라비</TargetName>
+	</Name>
+	<Name ID="852">
+		<SourceName>RAYA</SourceName>
+		<TargetName ID="1">라야</TargetName>
+	</Name>
+	<Name ID="853">
+		<SourceName>REDDY</SourceName>
+		<TargetName ID="1">레디</TargetName>
+	</Name>
+	<Name ID="854">
+		<SourceName>REDMOND</SourceName>
+		<TargetName ID="1">레드몬드</TargetName>
+	</Name>
+	<Name ID="855">
+		<SourceName>REGINE</SourceName>
+		<TargetName ID="1">레진</TargetName>
+	</Name>
+	<Name ID="856">
+		<SourceName>REGIS</SourceName>
+		<TargetName ID="1">레지스</TargetName>
+	</Name>
+	<Name ID="857">
+		<SourceName>REIN</SourceName>
+		<TargetName ID="1">레인</TargetName>
+	</Name>
+	<Name ID="858">
+		<SourceName>REITER</SourceName>
+		<TargetName ID="1">라이터</TargetName>
+	</Name>
+	<Name ID="859">
+		<SourceName>REMNANT</SourceName>
+		<TargetName ID="1">렘넌트</TargetName>
+	</Name>
+	<Name ID="860">
+		<SourceName>REMO</SourceName>
+		<TargetName ID="1">레모</TargetName>
+	</Name>
+	<Name ID="861">
+		<SourceName>REMY</SourceName>
+		<TargetName ID="1">레미</TargetName>
+	</Name>
+	<Name ID="862">
+		<SourceName>RENZO</SourceName>
+		<TargetName ID="1">렌조</TargetName>
+	</Name>
+	<Name ID="863">
+		<SourceName>REY</SourceName>
+		<TargetName ID="1">레이</TargetName>
+	</Name>
+	<Name ID="864">
+		<SourceName>RICHARD</SourceName>
+		<TargetName ID="1">리차드</TargetName>
+	</Name>
+	<Name ID="865">
+		<SourceName>RICHER</SourceName>
+		<TargetName ID="1">리처</TargetName>
+	</Name>
+	<Name ID="866">
+		<SourceName>RICHIE</SourceName>
+		<TargetName ID="1">리치</TargetName>
+	</Name>
+	<Name ID="867">
+		<SourceName>RICKY</SourceName>
+		<TargetName ID="1">리키</TargetName>
+	</Name>
+	<Name ID="868">
+		<SourceName>RICO</SourceName>
+		<TargetName ID="1">리코</TargetName>
+	</Name>
+	<Name ID="869">
+		<SourceName>RIETVELD</SourceName>
+		<TargetName ID="1">리트벨트</TargetName>
+	</Name>
+	<Name ID="870">
+		<SourceName>RIKA</SourceName>
+		<TargetName ID="1">리카</TargetName>
+	</Name>
+	<Name ID="871">
+		<SourceName>RIOS</SourceName>
+		<TargetName ID="1">리오스</TargetName>
+	</Name>
+	<Name ID="872">
+		<SourceName>RIVA</SourceName>
+		<TargetName ID="1">리바</TargetName>
+	</Name>
+	<Name ID="873">
+		<SourceName>RIVERO</SourceName>
+		<TargetName ID="1">리베로</TargetName>
+	</Name>
+	<Name ID="874">
+		<SourceName>ROACH</SourceName>
+		<TargetName ID="1">로치</TargetName>
+	</Name>
+	<Name ID="875">
+		<SourceName>ROB</SourceName>
+		<TargetName ID="1">롭</TargetName>
+	</Name>
+	<Name ID="876">
+		<SourceName>ROBB</SourceName>
+		<TargetName ID="1">롭</TargetName>
+	</Name>
+	<Name ID="877">
+		<SourceName>ROBERT</SourceName>
+		<TargetName ID="1">로베르트</TargetName>
+	</Name>
+	<Name ID="878">
+		<SourceName>ROBSON</SourceName>
+		<TargetName ID="1">롭슨</TargetName>
+	</Name>
+	<Name ID="879">
+		<SourceName>ROBYN</SourceName>
+		<TargetName ID="1">로빈</TargetName>
+	</Name>
+	<Name ID="880">
+		<SourceName>ROCHA</SourceName>
+		<TargetName ID="1">로카</TargetName>
+	</Name>
+	<Name ID="881">
+		<SourceName>ROCHE</SourceName>
+		<TargetName ID="1">로체</TargetName>
+	</Name>
+	<Name ID="882">
+		<SourceName>RODOLFO</SourceName>
+		<TargetName ID="1">로돌포</TargetName>
+	</Name>
+	<Name ID="883">
+		<SourceName>ROHAN</SourceName>
+		<TargetName ID="1">로한</TargetName>
+	</Name>
+	<Name ID="884">
+		<SourceName>ROHMER</SourceName>
+		<TargetName ID="1">로메르</TargetName>
+	</Name>
+	<Name ID="885">
+		<SourceName>ROLAND</SourceName>
+		<TargetName ID="1">롤란드</TargetName>
+	</Name>
+	<Name ID="886">
+		<SourceName>ROLANDO</SourceName>
+		<TargetName ID="1">롤란도</TargetName>
+	</Name>
+	<Name ID="887">
+		<SourceName>ROMERO</SourceName>
+		<TargetName ID="1">로메로</TargetName>
+	</Name>
+	<Name ID="888">
+		<SourceName>RONAN</SourceName>
+		<TargetName ID="1">로난</TargetName>
+	</Name>
+	<Name ID="889">
+		<SourceName>ROONEY</SourceName>
+		<TargetName ID="1">루니</TargetName>
+	</Name>
+	<Name ID="890">
+		<SourceName>ROOS</SourceName>
+		<TargetName ID="1">루스</TargetName>
+	</Name>
+	<Name ID="891">
+		<SourceName>ROQUE</SourceName>
+		<TargetName ID="1">로케</TargetName>
+	</Name>
+	<Name ID="892">
+		<SourceName>ROSEMARY</SourceName>
+		<TargetName ID="1">로즈메리</TargetName>
+	</Name>
+	<Name ID="893">
+		<SourceName>ROSENTHAL</SourceName>
+		<TargetName ID="1">로젠탈</TargetName>
+	</Name>
+	<Name ID="894">
+		<SourceName>ROTA</SourceName>
+		<TargetName ID="1">로타</TargetName>
+	</Name>
+	<Name ID="895">
+		<SourceName>ROURKE</SourceName>
+		<TargetName ID="1">루크</TargetName>
+	</Name>
+	<Name ID="896">
+		<SourceName>ROXANNE</SourceName>
+		<TargetName ID="1">록산느</TargetName>
+	</Name>
+	<Name ID="897">
+		<SourceName>RUBIO</SourceName>
+		<TargetName ID="1">루비오</TargetName>
+	</Name>
+	<Name ID="898">
+		<SourceName>RUDD</SourceName>
+		<TargetName ID="1">러드</TargetName>
+	</Name>
+	<Name ID="899">
+		<SourceName>RUDY</SourceName>
+		<TargetName ID="1">루디</TargetName>
+	</Name>
+	<Name ID="900">
+		<SourceName>RUFUS</SourceName>
+		<TargetName ID="1">루퍼스</TargetName>
+	</Name>
+	<Name ID="901">
+		<SourceName>RUIZ</SourceName>
+		<TargetName ID="1">루이즈</TargetName>
+	</Name>
+	<Name ID="902">
+		<SourceName>RUSS</SourceName>
+		<TargetName ID="1">러스</TargetName>
+	</Name>
+	<Name ID="903">
+		<SourceName>RUUD</SourceName>
+		<TargetName ID="1">뤼트</TargetName>
+	</Name>
+	<Name ID="904">
+		<SourceName>RYDER</SourceName>
+		<TargetName ID="1">라이더</TargetName>
+	</Name>
+	<Name ID="905">
+		<SourceName>RYSZARD</SourceName>
+		<TargetName ID="1">리스자드</TargetName>
+	</Name>
+	<Name ID="906">
+		<SourceName>SAAVEDRA</SourceName>
+		<TargetName ID="1">사베드라</TargetName>
+	</Name>
+	<Name ID="907">
+		<SourceName>SABASTIAN</SourceName>
+		<TargetName ID="1">세바스찬</TargetName>
+	</Name>
+	<Name ID="908">
+		<SourceName>SABINA</SourceName>
+		<TargetName ID="1">사비나</TargetName>
+	</Name>
+	<Name ID="909">
+		<SourceName>SABRI</SourceName>
+		<TargetName ID="1">사브리</TargetName>
+	</Name>
+	<Name ID="910">
+		<SourceName>SALAS</SourceName>
+		<TargetName ID="1">살라스</TargetName>
+	</Name>
+	<Name ID="911">
+		<SourceName>SALMAN</SourceName>
+		<TargetName ID="1">살만</TargetName>
+	</Name>
+	<Name ID="912">
+		<SourceName>SAMANTHA</SourceName>
+		<TargetName ID="1">사만다</TargetName>
+	</Name>
+	<Name ID="913">
+		<SourceName>SAMI</SourceName>
+		<TargetName ID="1">사미</TargetName>
+	</Name>
+	<Name ID="914">
+		<SourceName>SAMIR</SourceName>
+		<TargetName ID="1">사미르</TargetName>
+	</Name>
+	<Name ID="915">
+		<SourceName>SAMS</SourceName>
+		<TargetName ID="1">샘스</TargetName>
+	</Name>
+	<Name ID="916">
+		<SourceName>SANCHEZ</SourceName>
+		<TargetName ID="1">산체스</TargetName>
+	</Name>
+	<Name ID="917">
+		<SourceName>SANDER</SourceName>
+		<TargetName ID="1">샌더</TargetName>
+	</Name>
+	<Name ID="918">
+		<SourceName>SANDERS</SourceName>
+		<TargetName ID="1">샌더스</TargetName>
+	</Name>
+	<Name ID="919">
+		<SourceName>SANDI</SourceName>
+		<TargetName ID="1">샌디</TargetName>
+	</Name>
+	<Name ID="920">
+		<SourceName>SANTORO</SourceName>
+		<TargetName ID="1">산토로</TargetName>
+	</Name>
+	<Name ID="921">
+		<SourceName>SARAIVA</SourceName>
+		<TargetName ID="1">사라이바</TargetName>
+	</Name>
+	<Name ID="922">
+		<SourceName>SAUNDERS</SourceName>
+		<TargetName ID="1">선더스</TargetName>
+	</Name>
+	<Name ID="923">
+		<SourceName>SAWYER</SourceName>
+		<TargetName ID="1">소이어</TargetName>
+	</Name>
+	<Name ID="924">
+		<SourceName>SCALA</SourceName>
+		<TargetName ID="1">스칼라</TargetName>
+	</Name>
+	<Name ID="925">
+		<SourceName>SCARBOROUGH</SourceName>
+		<TargetName ID="1">스카보로</TargetName>
+	</Name>
+	<Name ID="926">
+		<SourceName>SCARLETT</SourceName>
+		<TargetName ID="1">스칼렛</TargetName>
+	</Name>
+	<Name ID="927">
+		<SourceName>SCHIFF</SourceName>
+		<TargetName ID="1">쉬프</TargetName>
+	</Name>
+	<Name ID="928">
+		<SourceName>SCHMID</SourceName>
+		<TargetName ID="1">슈미드</TargetName>
+	</Name>
+	<Name ID="929">
+		<SourceName>SCHMITZ</SourceName>
+		<TargetName ID="1">슈미츠</TargetName>
+	</Name>
+	<Name ID="930">
+		<SourceName>SCHOLL</SourceName>
+		<TargetName ID="1">스콜</TargetName>
+	</Name>
+	<Name ID="931">
+		<SourceName>SCHOTT</SourceName>
+		<TargetName ID="1">쇼트</TargetName>
+	</Name>
+	<Name ID="932">
+		<SourceName>SCHWEIZER</SourceName>
+		<TargetName ID="1">슈바이처</TargetName>
+	</Name>
+	<Name ID="933">
+		<SourceName>SCORSESE</SourceName>
+		<TargetName ID="1">스콜세이지</TargetName>
+	</Name>
+	<Name ID="934">
+		<SourceName>SCRIPPS</SourceName>
+		<TargetName ID="1">스크립스</TargetName>
+	</Name>
+	<Name ID="935">
+		<SourceName>SELIM</SourceName>
+		<TargetName ID="1">셀림</TargetName>
+	</Name>
+	<Name ID="936">
+		<SourceName>SENNA</SourceName>
+		<TargetName ID="1">세나</TargetName>
+	</Name>
+	<Name ID="937">
+		<SourceName>SERENE</SourceName>
+		<TargetName ID="1">세린</TargetName>
+	</Name>
+	<Name ID="938">
+		<SourceName>SERRANO</SourceName>
+		<TargetName ID="1">세라노</TargetName>
+	</Name>
+	<Name ID="939">
+		<SourceName>SERT</SourceName>
+		<TargetName ID="1">서트</TargetName>
+	</Name>
+	<Name ID="940">
+		<SourceName>SEVERIN</SourceName>
+		<TargetName ID="1">세버린</TargetName>
+	</Name>
+	<Name ID="941">
+		<SourceName>SHAPIRO</SourceName>
+		<TargetName ID="1">샤피로</TargetName>
+	</Name>
+	<Name ID="942">
+		<SourceName>SHEILA</SourceName>
+		<TargetName ID="1">쉴라</TargetName>
+	</Name>
+	<Name ID="943">
+		<SourceName>SHELBY</SourceName>
+		<TargetName ID="1">셸비</TargetName>
+	</Name>
+	<Name ID="944">
+		<SourceName>SHELDON</SourceName>
+		<TargetName ID="1">셸던</TargetName>
+	</Name>
+	<Name ID="945">
+		<SourceName>SHEPHERD</SourceName>
+		<TargetName ID="1">세퍼드</TargetName>
+	</Name>
+	<Name ID="946">
+		<SourceName>SHERLOCK</SourceName>
+		<TargetName ID="1">셜록</TargetName>
+	</Name>
+	<Name ID="947">
+		<SourceName>SHIELD</SourceName>
+		<TargetName ID="1">쉴드</TargetName>
+	</Name>
+	<Name ID="948">
+		<SourceName>SID</SourceName>
+		<TargetName ID="1">시드</TargetName>
+	</Name>
+	<Name ID="949">
+		<SourceName>SIEGEL</SourceName>
+		<TargetName ID="1">시겔</TargetName>
+	</Name>
+	<Name ID="950">
+		<SourceName>SILBER</SourceName>
+		<TargetName ID="1">실버</TargetName>
+	</Name>
+	<Name ID="951">
+		<SourceName>SILVEIRA</SourceName>
+		<TargetName ID="1">실베이라</TargetName>
+	</Name>
+	<Name ID="952">
+		<SourceName>SILVESTER</SourceName>
+		<TargetName ID="1">실베스터</TargetName>
+	</Name>
+	<Name ID="953">
+		<SourceName>SILVESTRE</SourceName>
+		<TargetName ID="1">실베스트르</TargetName>
+	</Name>
+	<Name ID="954">
+		<SourceName>SIMI</SourceName>
+		<TargetName ID="1">시미</TargetName>
+	</Name>
+	<Name ID="955">
+		<SourceName>SIMMONS</SourceName>
+		<TargetName ID="1">시몬즈</TargetName>
+	</Name>
+	<Name ID="956">
+		<SourceName>SINAN</SourceName>
+		<TargetName ID="1">시난</TargetName>
+	</Name>
+	<Name ID="957">
+		<SourceName>SINATRA</SourceName>
+		<TargetName ID="1">시나트라</TargetName>
+	</Name>
+	<Name ID="958">
+		<SourceName>SINGLETON</SourceName>
+		<TargetName ID="1">싱글톤</TargetName>
+	</Name>
+	<Name ID="959">
+		<SourceName>SKODA</SourceName>
+		<TargetName ID="1">스코다</TargetName>
+	</Name>
+	<Name ID="960">
+		<SourceName>SLAM</SourceName>
+		<TargetName ID="1">슬램</TargetName>
+	</Name>
+	<Name ID="961">
+		<SourceName>SLOAN</SourceName>
+		<TargetName ID="1">스론</TargetName>
+	</Name>
+	<Name ID="962">
+		<SourceName>SMIT</SourceName>
+		<TargetName ID="1">스미트</TargetName>
+	</Name>
+	<Name ID="963">
+		<SourceName>SNYDER</SourceName>
+		<TargetName ID="1">스나이더</TargetName>
+	</Name>
+	<Name ID="964">
+		<SourceName>SOK</SourceName>
+		<TargetName ID="1">석</TargetName>
+	</Name>
+	<Name ID="965">
+		<SourceName>SOLARI</SourceName>
+		<TargetName ID="1">솔라리</TargetName>
+	</Name>
+	<Name ID="966">
+		<SourceName>SOLEDAD</SourceName>
+		<TargetName ID="1">솔리다드</TargetName>
+	</Name>
+	<Name ID="967">
+		<SourceName>SOLIS</SourceName>
+		<TargetName ID="1">솔리스</TargetName>
+	</Name>
+	<Name ID="968">
+		<SourceName>SOPHIA</SourceName>
+		<TargetName ID="1">소피아</TargetName>
+	</Name>
+	<Name ID="969">
+		<SourceName>SOUZA</SourceName>
+		<TargetName ID="1">수자</TargetName>
+	</Name>
+	<Name ID="970">
+		<SourceName>SPADA</SourceName>
+		<TargetName ID="1">스파다</TargetName>
+	</Name>
+	<Name ID="971">
+		<SourceName>SPARKS</SourceName>
+		<TargetName ID="1">스팍스</TargetName>
+	</Name>
+	<Name ID="972">
+		<SourceName>STACY</SourceName>
+		<TargetName ID="1">스테이시</TargetName>
+	</Name>
+	<Name ID="973">
+		<SourceName>STAM</SourceName>
+		<TargetName ID="1">스탐</TargetName>
+		<TargetName ID="2">스탬</TargetName>
+	</Name>
+	<Name ID="974">
+		<SourceName>STANDEN</SourceName>
+		<TargetName ID="1">스탠든</TargetName>
+	</Name>
+	<Name ID="975">
+		<SourceName>STEFANI</SourceName>
+		<TargetName ID="1">스테파니</TargetName>
+	</Name>
+	<Name ID="976">
+		<SourceName>STEFANO</SourceName>
+		<TargetName ID="1">스테파노</TargetName>
+	</Name>
+	<Name ID="977">
+		<SourceName>STEPHANE</SourceName>
+		<TargetName ID="1">스테판</TargetName>
+	</Name>
+	<Name ID="978">
+		<SourceName>STEPHENS</SourceName>
+		<TargetName ID="1">스티븐스</TargetName>
+	</Name>
+	<Name ID="979">
+		<SourceName>STEVIE</SourceName>
+		<TargetName ID="1">스티비</TargetName>
+	</Name>
+	<Name ID="980">
+		<SourceName>STRATFORD</SourceName>
+		<TargetName ID="1">스트랫포드</TargetName>
+	</Name>
+	<Name ID="981">
+		<SourceName>STURM</SourceName>
+		<TargetName ID="1">스텀</TargetName>
+	</Name>
+	<Name ID="982">
+		<SourceName>SUAREZ</SourceName>
+		<TargetName ID="1">수아레즈</TargetName>
+	</Name>
+	<Name ID="983">
+		<SourceName>SUNDERLAND</SourceName>
+		<TargetName ID="1">선더랜드</TargetName>
+	</Name>
+	<Name ID="984">
+		<SourceName>SVETLANA</SourceName>
+		<TargetName ID="1">스베틀라나</TargetName>
+	</Name>
+	<Name ID="985">
+		<SourceName>SWANSON</SourceName>
+		<TargetName ID="1">스완슨</TargetName>
+	</Name>
+	<Name ID="986">
+		<SourceName>SWART</SourceName>
+		<TargetName ID="1">스와르트</TargetName>
+	</Name>
+	<Name ID="987">
+		<SourceName>SWEENEY</SourceName>
+		<TargetName ID="1">스위니</TargetName>
+	</Name>
+	<Name ID="988">
+		<SourceName>TAD</SourceName>
+		<TargetName ID="1">태드</TargetName>
+	</Name>
+	<Name ID="989">
+		<SourceName>TAM</SourceName>
+		<TargetName ID="1">탐</TargetName>
+	</Name>
+	<Name ID="990">
+		<SourceName>TAMARA</SourceName>
+		<TargetName ID="1">타마라</TargetName>
+	</Name>
+	<Name ID="991">
+		<SourceName>TAMMY</SourceName>
+		<TargetName ID="1">태미</TargetName>
+	</Name>
+	<Name ID="992">
+		<SourceName>TAN</SourceName>
+		<TargetName ID="1">탄</TargetName>
+	</Name>
+	<Name ID="993">
+		<SourceName>TANA</SourceName>
+		<TargetName ID="1">타나</TargetName>
+	</Name>
+	<Name ID="994">
+		<SourceName>TANNER</SourceName>
+		<TargetName ID="1">태너</TargetName>
+	</Name>
+	<Name ID="995">
+		<SourceName>TATA</SourceName>
+		<TargetName ID="1">타타</TargetName>
+	</Name>
+	<Name ID="996">
+		<SourceName>TELFORD</SourceName>
+		<TargetName ID="1">텔포드</TargetName>
+	</Name>
+	<Name ID="997">
+		<SourceName>TERRACE</SourceName>
+		<TargetName ID="1">테라스</TargetName>
+	</Name>
+	<Name ID="998">
+		<SourceName>TESTA</SourceName>
+		<TargetName ID="1">테스타</TargetName>
+	</Name>
+	<Name ID="999">
+		<SourceName>THELMA</SourceName>
+		<TargetName ID="1">델마</TargetName>
+	</Name>
+	<Name ID="1000">
+		<SourceName>THEODORE</SourceName>
+		<TargetName ID="1">테오도르</TargetName>
+		<TargetName ID="2">테오뒬</TargetName>
+	</Name>
+	<Name ID="1001">
+		<SourceName>THERESE</SourceName>
+		<TargetName ID="1">테레즈</TargetName>
+	</Name>
+	<Name ID="1002">
+		<SourceName>THOM</SourceName>
+		<TargetName ID="1">톰</TargetName>
+	</Name>
+	<Name ID="1003">
+		<SourceName>THOMAS</SourceName>
+		<TargetName ID="1">토머스</TargetName>
+	</Name>
+	<Name ID="1004">
+		<SourceName>TIMBERLAKE</SourceName>
+		<TargetName ID="1">팀버레이크</TargetName>
+	</Name>
+	<Name ID="1005">
+		<SourceName>TOD</SourceName>
+		<TargetName ID="1">토드</TargetName>
+	</Name>
+	<Name ID="1006">
+		<SourceName>TOLLE</SourceName>
+		<TargetName ID="1">톨레</TargetName>
+	</Name>
+	<Name ID="1007">
+		<SourceName>TOMAS</SourceName>
+		<TargetName ID="1">토마스</TargetName>
+	</Name>
+	<Name ID="1008">
+		<SourceName>TORRE</SourceName>
+		<TargetName ID="1">토레</TargetName>
+	</Name>
+	<Name ID="1009">
+		<SourceName>TRAN</SourceName>
+		<TargetName ID="1">트란</TargetName>
+	</Name>
+	<Name ID="1010">
+		<SourceName>TRAVIS</SourceName>
+		<TargetName ID="1">트래비스</TargetName>
+	</Name>
+	<Name ID="1011">
+		<SourceName>TRAVOLTA</SourceName>
+		<TargetName ID="1">트라볼타</TargetName>
+	</Name>
+	<Name ID="1012">
+		<SourceName>TREVOR</SourceName>
+		<TargetName ID="1">트레버</TargetName>
+	</Name>
+	<Name ID="1013">
+		<SourceName>TRINA</SourceName>
+		<TargetName ID="1">트리나</TargetName>
+	</Name>
+	<Name ID="1014">
+		<SourceName>TUCKER</SourceName>
+		<TargetName ID="1">터커</TargetName>
+	</Name>
+	<Name ID="1015">
+		<SourceName>TURA</SourceName>
+		<TargetName ID="1">투라</TargetName>
+	</Name>
+	<Name ID="1016">
+		<SourceName>TYLER</SourceName>
+		<TargetName ID="1">타일러</TargetName>
+	</Name>
+	<Name ID="1017">
+		<SourceName>TYSON</SourceName>
+		<TargetName ID="1">타이슨</TargetName>
+	</Name>
+	<Name ID="1018">
+		<SourceName>UDO</SourceName>
+		<TargetName ID="1">우도</TargetName>
+	</Name>
+	<Name ID="1019">
+		<SourceName>ULF</SourceName>
+		<TargetName ID="1">울프</TargetName>
+	</Name>
+	<Name ID="1020">
+		<SourceName>ULI</SourceName>
+		<TargetName ID="1">울리</TargetName>
+	</Name>
+	<Name ID="1021">
+		<SourceName>ULRIKE</SourceName>
+		<TargetName ID="1">울리크</TargetName>
+	</Name>
+	<Name ID="1022">
+		<SourceName>UNO</SourceName>
+		<TargetName ID="1">우노</TargetName>
+	</Name>
+	<Name ID="1023">
+		<SourceName>URBANO</SourceName>
+		<TargetName ID="1">얼바노</TargetName>
+	</Name>
+	<Name ID="1024">
+		<SourceName>USHER</SourceName>
+		<TargetName ID="1">어셔</TargetName>
+	</Name>
+	<Name ID="1025">
+		<SourceName>VADER</SourceName>
+		<TargetName ID="1">베이더</TargetName>
+	</Name>
+	<Name ID="1026">
+		<SourceName>VAGA</SourceName>
+		<TargetName ID="1">바가</TargetName>
+	</Name>
+	<Name ID="1027">
+		<SourceName>VALENTE</SourceName>
+		<TargetName ID="1">발렌테</TargetName>
+	</Name>
+	<Name ID="1028">
+		<SourceName>VARELA</SourceName>
+		<TargetName ID="1">바레라</TargetName>
+	</Name>
+	<Name ID="1029">
+		<SourceName>VASCO</SourceName>
+		<TargetName ID="1">바스코</TargetName>
+	</Name>
+	<Name ID="1030">
+		<SourceName>VASCONCELOS</SourceName>
+		<TargetName ID="1">바스콘셀로스</TargetName>
+	</Name>
+	<Name ID="1031">
+		<SourceName>VEN</SourceName>
+		<TargetName ID="1">벤</TargetName>
+	</Name>
+	<Name ID="1032">
+		<SourceName>VENTO</SourceName>
+		<TargetName ID="1">벤토</TargetName>
+	</Name>
+	<Name ID="1033">
+		<SourceName>VERA</SourceName>
+		<TargetName ID="1">베라</TargetName>
+	</Name>
+	<Name ID="1034">
+		<SourceName>VERDE</SourceName>
+		<TargetName ID="1">베르데</TargetName>
+	</Name>
+	<Name ID="1035">
+		<SourceName>VERNON</SourceName>
+		<TargetName ID="1">버논</TargetName>
+	</Name>
+	<Name ID="1036">
+		<SourceName>VICKI</SourceName>
+		<TargetName ID="1">비키</TargetName>
+	</Name>
+	<Name ID="1037">
+		<SourceName>VIDA</SourceName>
+		<TargetName ID="1">비다</TargetName>
+	</Name>
+	<Name ID="1038">
+		<SourceName>VIDAL</SourceName>
+		<TargetName ID="1">비달</TargetName>
+	</Name>
+	<Name ID="1039">
+		<SourceName>VIEIRA</SourceName>
+		<TargetName ID="1">비에라</TargetName>
+	</Name>
+	<Name ID="1040">
+		<SourceName>VIETA</SourceName>
+		<TargetName ID="1">비에타</TargetName>
+	</Name>
+	<Name ID="1041">
+		<SourceName>VIJAY</SourceName>
+		<TargetName ID="1">비제이</TargetName>
+	</Name>
+	<Name ID="1042">
+		<SourceName>VINCE</SourceName>
+		<TargetName ID="1">빈스</TargetName>
+	</Name>
+	<Name ID="1043">
+		<SourceName>VINCENT</SourceName>
+		<TargetName ID="1">빈센트</TargetName>
+	</Name>
+	<Name ID="1044">
+		<SourceName>VITORIA</SourceName>
+		<TargetName ID="1">빅토리아</TargetName>
+	</Name>
+	<Name ID="1045">
+		<SourceName>VIVIAN</SourceName>
+		<TargetName ID="1">비비안</TargetName>
+	</Name>
+	<Name ID="1046">
+		<SourceName>VIVIENNE</SourceName>
+		<TargetName ID="1">비비안</TargetName>
+	</Name>
+	<Name ID="1047">
+		<SourceName>VOS</SourceName>
+		<TargetName ID="1">보스</TargetName>
+	</Name>
+	<Name ID="1048">
+		<SourceName>VRIES</SourceName>
+		<TargetName ID="1">브리스</TargetName>
+	</Name>
+	<Name ID="1049">
+		<SourceName>WALDO</SourceName>
+		<TargetName ID="1">왈도</TargetName>
+	</Name>
+	<Name ID="1050">
+		<SourceName>WALI</SourceName>
+		<TargetName ID="1">와리</TargetName>
+	</Name>
+	<Name ID="1051">
+		<SourceName>WALLACE</SourceName>
+		<TargetName ID="1">월라스</TargetName>
+	</Name>
+	<Name ID="1052">
+		<SourceName>WALTER</SourceName>
+		<TargetName ID="1">월터</TargetName>
+	</Name>
+	<Name ID="1053">
+		<SourceName>WALTERS</SourceName>
+		<TargetName ID="1">월터스</TargetName>
+	</Name>
+	<Name ID="1054">
+		<SourceName>WARGA</SourceName>
+		<TargetName ID="1">와가</TargetName>
+	</Name>
+	<Name ID="1055">
+		<SourceName>WATKINS</SourceName>
+		<TargetName ID="1">왓킨스</TargetName>
+	</Name>
+	<Name ID="1056">
+		<SourceName>WEDER</SourceName>
+		<TargetName ID="1">웨더</TargetName>
+	</Name>
+	<Name ID="1057">
+		<SourceName>WEINER</SourceName>
+		<TargetName ID="1">와이너</TargetName>
+	</Name>
+	<Name ID="1058">
+		<SourceName>WEIR</SourceName>
+		<TargetName ID="1">위어</TargetName>
+	</Name>
+	<Name ID="1059">
+		<SourceName>WELSH</SourceName>
+		<TargetName ID="1">웰쉬</TargetName>
+	</Name>
+	<Name ID="1060">
+		<SourceName>WENTWORTH</SourceName>
+		<TargetName ID="1">웬트워스</TargetName>
+	</Name>
+	<Name ID="1061">
+		<SourceName>WICK</SourceName>
+		<TargetName ID="1">윅</TargetName>
+	</Name>
+	<Name ID="1062">
+		<SourceName>WILEY</SourceName>
+		<TargetName ID="1">와일리</TargetName>
+	</Name>
+	<Name ID="1063">
+		<SourceName>WILLARD</SourceName>
+		<TargetName ID="1">윌러드</TargetName>
+	</Name>
+	<Name ID="1064">
+		<SourceName>WILLIAM</SourceName>
+		<TargetName ID="1">윌리엄</TargetName>
+	</Name>
+	<Name ID="1065">
+		<SourceName>WILLIE</SourceName>
+		<TargetName ID="1">윌리</TargetName>
+	</Name>
+	<Name ID="1066">
+		<SourceName>WILMA</SourceName>
+		<TargetName ID="1">윌마</TargetName>
+	</Name>
+	<Name ID="1067">
+		<SourceName>WILT</SourceName>
+		<TargetName ID="1">윌트</TargetName>
+	</Name>
+	<Name ID="1068">
+		<SourceName>WINCH</SourceName>
+		<TargetName ID="1">윈치</TargetName>
+	</Name>
+	<Name ID="1069">
+		<SourceName>WINIFRED</SourceName>
+		<TargetName ID="1">윈프레드</TargetName>
+	</Name>
+	<Name ID="1070">
+		<SourceName>WITHERSPOON</SourceName>
+		<TargetName ID="1">위더스푼</TargetName>
+	</Name>
+	<Name ID="1071">
+		<SourceName>WITT</SourceName>
+		<TargetName ID="1">윗</TargetName>
+	</Name>
+	<Name ID="1072">
+		<SourceName>WOHLGEMUT</SourceName>
+		<TargetName ID="1">볼게무트</TargetName>
+	</Name>
+	<Name ID="1073">
+		<SourceName>WOODY</SourceName>
+		<TargetName ID="1">우디</TargetName>
+	</Name>
+	<Name ID="1074">
+		<SourceName>WORTHINGTON</SourceName>
+		<TargetName ID="1">워싱턴</TargetName>
+	</Name>
+	<Name ID="1075">
+		<SourceName>WYNN</SourceName>
+		<TargetName ID="1">윈</TargetName>
+	</Name>
+	<Name ID="1076">
+		<SourceName>YANNICK</SourceName>
+		<TargetName ID="1">야닉</TargetName>
+	</Name>
+	<Name ID="1077">
+		<SourceName>YOGI</SourceName>
+		<TargetName ID="1">요기</TargetName>
+	</Name>
+	<Name ID="1078">
+		<SourceName>YOUSSEF</SourceName>
+		<TargetName ID="1">유세프</TargetName>
+	</Name>
+	<Name ID="1079">
+		<SourceName>ZAK</SourceName>
+		<TargetName ID="1">잭</TargetName>
+	</Name>
+	<Name ID="1080">
+		<SourceName>ZANE</SourceName>
+		<TargetName ID="1">제인</TargetName>
+	</Name>
+	<Name ID="1081">
+		<SourceName>ZELAYA</SourceName>
+		<TargetName ID="1">제라야</TargetName>
+	</Name>
+	<Name ID="1082">
+		<SourceName>ZINN</SourceName>
+		<TargetName ID="1">진</TargetName>
+	</Name>
+</TransliterationCorpus>

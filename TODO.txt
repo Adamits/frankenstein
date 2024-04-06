@@ -1,0 +1,10 @@
+# TODO
+
+1. Get G2P and transliteration datasets from Shije
+2. Add FLOps and/or runtime or logging config.
+    - Also add number of model params to logging config!
+3. Create hyperparameter sweeps
+4. Queue LSTM/Trm only models.
+5. Implement FFN and Avg embedding encoders* -- just do avg embedding
+6. Fix any bugs in interface for combining models---run tests!
+7. Plan analysis
