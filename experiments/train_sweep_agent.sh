@@ -15,7 +15,7 @@ source /curc/sw/anaconda3/latest
 conda activate hyperparameter-sensitivity
 
 # SET AS ENV VARS FROM CALLING SCRIPT
-# TASK
+# DATASET
 # LANGUAGE
 # ARCH
 # SWEEP_ID
@@ -24,31 +24,49 @@ conda activate hyperparameter-sensitivity
 # Fixes path issue.
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/projects/adwi9965/software/anaconda/envs/yoyodyne/lib/
 
-readonly ROOT="/projects/adwi9965/yoyodyne"
-readonly DATA="/rc_scratch/adwi9965/${TASK}"
+readonly ROOT="/projects/adwi9965/frankenstein"
+readonly DATA="${ROOT}/data/${DATASET}"
 
-if [[ "${TASK}" == "g2p" ]]
+if [[ "${DATASET}" == "g2p" ]]
 then
     # We only do the medium setting for G2P (high is English-only and very large data)
-    readonly TRAIN="${DATA}/medium/${LANGUAGE}_train.tsv"
-    readonly DEV="${DATA}/medium/${LANGUAGE}_dev.tsv"
+    readonly TRAIN="${DATA}/${LANGUAGE}.train"
+    readonly DEV="${DATA}/${LANGUAGE}.dev"
     readonly FEATURES_COL=0
-elif [[ "${TASK}" == "sigmorphon-2017-inflection" ]]
+    readonly TARGET_COL=2
+elif [[ "${DATASET}" == "sigmorphon-2017-inflection" ]]
 then
     # We only do high for inflection
     readonly TRAIN="${DATA}/${LANGUAGE}-train-high"
     readonly DEV="${DATA}/${LANGUAGE}-dev"
     readonly FEATURES_COL=3
-elif [[ "${TASK}" == "sigmorphon-2023-inflection" ]]
+    readonly TARGET_COL=2
+elif [[ "${DATASET}" == "sigmorphon-2023-inflection" ]]
 then
+    readonly TRAIN="${DATA}/${LANGUAGE}.trn"
+    readonly DEV="${DATA}/${LANGUAGE}.dev"
     readonly FEATURES_COL=2
     readonly TARGET_COL=3
+elif [[ "${DATASET}" == "bollman-2019-histnorm" ]]
+then
+    readonly TRAIN="${DATA}/${LANGUAGE}.train.txt"
+    readonly DEV="${DATA}/${LANGUAGE}.dev.txt"
+    readonly FEATURES_COL=0
+    readonly TARGET_COL=2
+elif [[ "${DATASET}" == "transliteration" ]]
+then
+    echo transliteration not yet implemented. We need to implement new eval methods for dev.
+    exit 1;
+    readonly TRAIN="${DATA}/${LANGUAGE}.train.tsv"
+    readonly DEV="${DATA}/${LANGUAGE}.dev.tsv"
+    readonly FEATURES_COL=0
+    readonly TARGET_COL=2
 else
-    echo No task ${TASK}, only "sig-2021-g2p" and "sig-2017-inflection" are implemented
+    echo No dataset ${DATASET} implemented.
     exit 1;
 fi
 
-readonly RESULTS_PATH="/rc_scratch/adwi9965/frankenstein-sweeps/results/${TASK}-${LANGUAGE}/${ARCH}"
+readonly RESULTS_PATH="/rc_scratch/adwi9965/frankenstein-sweeps/results/${DATASET}-${LANGUAGE}/${ARCH}"
 
 # Print GPU topology if gpus are present
 nvidia-smi || true
