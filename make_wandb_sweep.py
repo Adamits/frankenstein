@@ -66,7 +66,7 @@ def get_hparams() -> Dict:
             "min": 0,
             "max": 0.5,
         },
-        "attention_heads": {"categorical": [2, 4, 8]}, # NOTE: this is meaning less for LSTM
+        "attention_heads": {"values": [2, 4, 8]}, # NOTE: this is meaningless for LSTM
         # TODO: Should we constrain sampling to 2, 4, 6, 8?
         "encoder_layers": {
             "distribution": "q_uniform",
@@ -92,14 +92,13 @@ def make_sweep(project: str, sweep: str) -> int:
     Args:
         project (str): Name of the wandb project.
         sweep (str): Name of the wandb sweep.
-        arch (str): The architecture for this sweep.
 
     Returns:
         int: The wandb sweep ID for this configuration.
     """
     # TODO: add early stopping.
     sweep_configuration = {
-        "method": "bayes",
+        "method": "random",#"bayes",
         "name": sweep,
         "metric": {"goal": "maximize", "name": "val_accuracy"},
         "parameters": get_hparams(),
@@ -117,7 +116,7 @@ def main():
         "--outpath", required=True, help="Path to append sweep info to."
     )
     args = parser.parse_args()
-    sweep_id = make_sweep(args.project, args.sweep, args.arch)
+    sweep_id = make_sweep(args.project, args.sweep)
 
     with open(args.outpath, "a") as out:
         print(f"{args.project},{args.sweep},{sweep_id}", file=out)
