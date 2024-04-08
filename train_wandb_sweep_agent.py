@@ -8,6 +8,7 @@ from typing import Tuple
 
 import pytorch_lightning as pl
 import wandb
+from torchtnt.utils.flops import FlopTensorDispatchMode
 
 from yoyodyne import train, util
 
@@ -102,6 +103,37 @@ def run_train(args):
 
     datamodule = train.get_datamodule_from_argparse_args(new_args)
     model = train.get_model_from_argparse_args(new_args, datamodule)
+
+    with FlopTensorDispatchMode(model) as ftdm:
+        # NOTE: Doing this here will change the order 
+        #       of the dataset in the first epoch for actual training.
+        x = next(iter(datamodule.train_dataloader()))
+        # TODO: This calls forward and backward
+        # Instead, we can compute just forward, then 
+        # simulate computing a loss and calling backward
+        # then separately compute backwards FLOPs?
+        res = model.training_step(x, 0, pack_sequences=False)
+        flops = copy.deepcopy(ftdm.flop_counts)
+        ftdm.reset()
+        # NOTE: I think this has sums of the flops in all subcomponents
+        # TODO: Not sure if this works right nor if I interpret it rught
+        #       did not see much by way ofducmentation on torchtnt
+        flops_dict = flops[""]
+        all_flops = sum(flops_dict.values())
+        if all_flops > 1000000:
+            all_flops = f"{all_flops // 1000000}M"
+        elif all_flops > 1000000000:
+            all_flops = f"{all_flops // 1000000000}B"
+        util.log_info(f"FLOPs from one train step: {all_flops}")
+        # Ensure no gradients when we actually start training.
+        model.zero_grad()
+    # Logs number of model parameters to W&B.
+    if args.log_wandb:
+        wandb.config["n_model_params"] = sum(
+            p.numel() for p in model.parameters()
+        )
+        wandb.config["FLOPs"] = flops_dict
+        wandb.config["total_FLOPs"] = sum(flops_dict.values())
 
     # Train and log the best checkpoint.
     best_checkpoint = train.train(
