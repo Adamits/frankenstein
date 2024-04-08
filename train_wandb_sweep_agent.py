@@ -80,19 +80,18 @@ def run_train(args):
     kwargs["batch_size"] = batch_size
     kwargs["warmup_steps"] = warmup_steps
     # Updates num epochs and patience depending on arch, and LR.
-    # This is to reduce training time for LSTMs that have a elarning rate we know should
-    # converge erelatively fast.
+    # This is to reduce training time for LSTMs that have a learning rate we know should
+    # converge relatively fast.
     if kwargs["arch"] == "attentive_lstm" or kwargs["arch"] == "lstm":
         if kwargs["learning_rate"] > 1e-4:
             util.log_info("Detected LSTM with sufficiently high LR")
             util.log_info("Reducing max_epochs to 600 and patience to 15")
             kwargs["max_epochs"] = 600
-            kwargs["patience"] = 15
+            kwargs["patience"] = 20
     
-    # FIXME: Fixing for current sweeps with outdated hyperparam.
-    kwargs["reduceonplateau_mode"] = "loss"
-    kwargs["reduceonplateau_factor"] = kwargs["factor"]
-    kwargs["reduceonplateau_patience"] = kwargs["reduce_lr_patience"]
+    #kwargs["reduceonplateau_mode"] = "loss"
+    #kwargs["reduceonplateau_factor"] = kwargs["factor"]
+    #kwargs["reduceonplateau_patience"] = kwargs["reduce_lr_patience"]
     new_args = argparse.Namespace()
     # TODO: This is real hacky.
     # I think that this points to the vals in args, and makes

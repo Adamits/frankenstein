@@ -72,7 +72,7 @@ readonly RESULTS_PATH="/rc_scratch/adwi9965/frankenstein-sweeps/results/${DATASE
 nvidia-smi || true
 nvidia-smi topo -m || true
 
-python scripts/train_wandb_sweep_agent.py \
+python train_wandb_sweep_agent.py \
        --sweep_id "${SWEEP_ID}" \
        --max_num_runs 1 \
        --arch "${ARCH}" \
