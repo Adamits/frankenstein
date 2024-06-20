@@ -1,0 +1,12 @@
+sig-2017
+    - tranformer: V100 (blanca)
+    - attentive_lstm: V100 (blanca)
+g2p
+    - tranformer: V100 (blanca)
+    - attentive_lstm: V100 (blanca)
+sig-2023
+    - transformner: A100 (alpine)
+    - attentive_lstm: A100 (alpine)
+bollman-2019-histnorm
+    - transformner: [PENDING CHANGE] A100 (alpine)
+    - attentive_lstm: [PENDING CHANGE] A100 (alpine)
