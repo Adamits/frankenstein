@@ -118,7 +118,7 @@ def run_train(args):
         ftdm.reset()
         # NOTE: I think this has sums of the flops in all subcomponents
         # TODO: Not sure if this works right nor if I interpret it rught
-        #       did not see much by way ofducmentation on torchtnt
+        #       did not see much by way of documentation on torchtnt
         flops_dict = flops[""]
         all_flops = sum(flops_dict.values())
         if all_flops > 1000000:
