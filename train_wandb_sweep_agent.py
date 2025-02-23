@@ -84,12 +84,12 @@ def run_train(args):
     # Updates num epochs and patience depending on arch, and LR.
     # This is to reduce training time for LSTMs that have a learning rate we know should
     # converge relatively fast.
-    if kwargs["arch"] == "attentive_lstm" or kwargs["arch"] == "lstm":
-        if kwargs["learning_rate"] > 1e-4:
-            util.log_info("Detected LSTM with sufficiently high LR")
-            util.log_info("Reducing max_epochs to 600 and patience to 15")
-            kwargs["max_epochs"] = 600
-            kwargs["patience"] = 20
+    #if kwargs["arch"] == "attentive_lstm" or kwargs["arch"] == "lstm":
+    #    if kwargs["learning_rate"] > 1e-4:
+    #        util.log_info("Detected LSTM with sufficiently high LR")
+    #        util.log_info("Reducing max_epochs to 600 and patience to 15")
+    #        kwargs["max_epochs"] = 600
+    #        kwargs["patience"] = 20
     
     #kwargs["reduceonplateau_mode"] = "loss"
     #kwargs["reduceonplateau_factor"] = kwargs["factor"]
@@ -106,9 +106,12 @@ def run_train(args):
     model = train.get_model_from_argparse_args(new_args, datamodule)
 
     with FlopTensorDispatchMode(model) as ftdm:
+        device = "cuda" if args.accelerator == "gpu" else "cpu"
+        model = model.to(device)
         # NOTE: Doing this here will change the order 
         #       of the dataset in the first epoch for actual training.
         x = next(iter(datamodule.train_dataloader()))
+        x = x.to(device)
         # TODO: This calls forward and backward
         # Instead, we can compute just forward, then 
         # simulate computing a loss and calling backward
