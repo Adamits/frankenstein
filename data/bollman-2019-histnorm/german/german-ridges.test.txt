@@ -6,7 +6,6 @@ allen	allen
 in	in
 ein	einem
 gemein	gemein
-
 Dar czů	Dazu
 antwurtt	antwortet
 man	man
@@ -31,7 +30,6 @@ mancherleÿ	mancherlei
 krefften	Kräften
 an	an
 ⸗	-
-
 vnd	und
 ſo	so
 dÿe	die
@@ -58,7 +56,6 @@ als	als
 ſÿ	sie
 bedürffen	bedürfen
 /	/
-
 Nun	Nun
 magſt	magst
 du	du
@@ -85,7 +82,6 @@ der	der
 vier	vier
 element	Elemente
 /	/
-
 du	du
 tůſt	tust
 es	es
@@ -93,7 +89,6 @@ denn	denn
 in	in
 boͤſer	böser
 meynung	Meinung
-
 du	du
 magſt	magst
 eyn	ein
@@ -106,7 +101,6 @@ oder	oder
 in	in
 gůt	Gut
 ⸗	-
-
 do mit	damit
 ſündet	sündet
 niemant	niemand
@@ -117,7 +111,6 @@ auff	auf
 dẽ	den
 leib	Leib
 ¶	¶
-
 er	er
 trinck	trinkt
 es	es
@@ -127,7 +120,6 @@ gemiſcht	gemischt
 oder	oder
 vngemiſcht	ungemischt
 ⸗	-
-
 Es	Es
 iſt	ist
 gůt	gut
@@ -157,21 +149,17 @@ von	von
 boͤſen	bösen
 dünſtẽ	Dünsten
 kõmbt	kommt
-
 Anetum	Anethum
 heÿſt	heißt
 anetkraut	Anetkraut
-
 Von	Von
 dem	dem
 Epff	Epff
 ⸗	-
-
 das	das
 drit	dritte
 iſt	ist
 heimiſch	heimisch
-
 Das	Das
 kraut	Kraut
 entloͤſt	entlöst
@@ -191,7 +179,6 @@ macht	macht
 es	es
 ſchwiczen	schwitzen
 ¶	¶
-
 vnd	und
 ſein	sein
 ſam	Samen
@@ -200,19 +187,16 @@ gůt	gut
 wið	wider
 die	die
 waſſerſucht	Wassersucht
-
 etlich	etlich
 iſt	ist
 lang	lang
 etlich	etlich
 ſinbel	sinbel
-
 iſt	ist
 der	der
 baurẽ	Bauern
 triackers	triakers
 ⸗	-
-
 wer	Wer
 knobloch	Knoblauch
 roͤſt	röstet
@@ -231,7 +215,6 @@ den	den
 zenen	Sehnen
 iren	ihre
 ſchmerczen	Schmerzen
-
 aber	aber
 rahen	rohen
 knoblach	Knoblauch
@@ -241,7 +224,6 @@ dẽ	dem
 haubt	Haupt
 wee	weh
 ¶	¶
-
 vñ	und
 wenn	wenn
 ſich	sich
@@ -292,7 +274,6 @@ der	der
 maſen	Maßen
 weiſz	weiß
 ⸗	-
-
 Aniſium	Anisium
 heiſzt	heißt
 eniſz	Anis
@@ -301,7 +282,6 @@ iſt	ist
 auch	auch
 roͤmiſcher	römischer
 venchel	Fenchel
-
 Wann	wann
 das	das
 kraut	Kraut
@@ -317,7 +297,6 @@ ein	ein
 klein	klein
 preiter	breiter
 ſein	sind
-
 Der	Der
 eins	Anis
 iſt	ist
@@ -327,7 +306,6 @@ krafft	Kraft
 heiſz	heiß
 vnd	und
 trucken	trocken
-
 vnd	und
 hatt	hat
 die	die
@@ -364,23 +342,19 @@ der	der
 von	von
 frücht	Frucht
 kõmbt	kommt
-
 das	das
 verſůch	versuche
-
 wãn	wann
 ich	ich
 gelaub	glaube
 ſein	sein
 nitt	nicht
 es	es
-
 ¶	¶
 Von	Von
 der	der
 mauſzoͤrl	Mausöhrl
 ⸗	-
-
 hat	hat
 es	es
 vil	viel
@@ -399,10 +373,8 @@ für	für
 dẽ	den
 haubtſiechtumb	Hauptsiechtum
 ⸗	-
-
 Alexander	Alexander
 ſpricht	spricht
-
 wer	wer
 es	es
 nuͤchtern	nüchtern
@@ -429,7 +401,6 @@ vnd	und
 macht	macht
 ſÿ	sie
 klar	klar
-
 ich	ich
 weiſz	weiß
 ein	eine
@@ -444,7 +415,6 @@ vnd	und
 gar	gar
 wunderlich	wunderliche
 ding	Dinge
-
 dz	das
 kraut	Kraut
 iſt	ist
@@ -455,11 +425,9 @@ gůt	gut
 der	der
 überhiczten	überhitzten
 leber	Leber
-
 Von	Von
 der	der
 Camillen	Kamillen
-
 Es	Es
 ſterckt	stärkt
 die	die
@@ -477,13 +445,11 @@ zů	zu
 iren	ihren
 krefften	Kräften
 ⸗	-
-
 Oepe	Oepe
 heÿſſen	heißen
 czwifel	Zwievel
 oder	oder
 czwibel	Zwiebel
-
 er	er
 ſtoͤrckt	stärkt
 den	den
@@ -495,7 +461,6 @@ luſt	Lust
 zů	zu
 eſſen	essen
 /	/
-
 Der	Der
 kücker	Kücker
 iſt	ist
@@ -512,7 +477,6 @@ narung	Nahrung
 deñ	denn
 diepon	die Bohnen
 ſeind	sind
-
 die	die
 kückern	Kückern
 machent	machen
@@ -531,7 +495,6 @@ keinerleÿ	keinerlei
 ander	andere
 ding	Dinge
 /	/
-
 Allerleÿ	Allerlei
 kücker	Kücker
 zeucht	zieht
@@ -546,11 +509,9 @@ die	die
 vnkeüſch	Unkeusche
 gar	gar
 krefftigklich	kräftig
-
 Von	Von
 dem	dem
 Schelkraut	Schöllkraut
-
 Oelidonia	Celidonia
 heiſt	heißt
 ſchelkraut	Schöllkraut
@@ -562,7 +523,6 @@ trucken	trocken
 als	als
 Platearius	Platearius
 ſpricht	spricht
-
 wãn	wann
 iſt	ist
 daz	dass
@@ -602,7 +562,6 @@ das	das
 geſicht	Gesicht
 wider	wider
 ⸗	-
-
 Cirpus	Scirpus
 heiſt	heißt
 ein	eine
@@ -626,7 +585,6 @@ do	da
 ſÿ	sie
 ſteend	stehen
 /	/
-
 das	das
 kraut	Kraut
 iſt	ist
@@ -649,7 +607,6 @@ gar	gar
 roͤ	roh
 vnd	und
 weſſerig	wässrig
-
 Citrillus	Citrullus
 heÿſt	heißt
 ein	ein
@@ -667,14 +624,12 @@ zů	zu
 latein	Latein
 Pepones	Pepones
 heÿſſent	heißen
-
 aber	aber
 der	der
 erdapffel	Erdapfel
 iſt	ist
 gruͤn	grün
 ⸗	-
-
 ÿedoch	jedoch
 ſÿ	sie
 haben	haben
@@ -702,7 +657,6 @@ vnd	und
 begÿnt	beginnen
 reden	reden
 ⸗	-
-
 die	die
 ſeind	sind
 geſtalt	gestaltet
@@ -715,7 +669,6 @@ alle	alle
 durchloͤchert	durchlöchert
 mit	mit
 loͤchern	Löchern
-
 darumb	darum
 heÿſſen	heißen
 ſÿ	sie
@@ -724,13 +677,11 @@ zů	zu
 latein	Latein
 faraca	faraca
 /	/
-
 ¶	¶
 Von	Von
 dem	dem
 ſaffran	Safran
 ⸗	-
-
 Der	Der
 ſaffran	Safran
 hat	hat
@@ -776,24 +727,20 @@ oder	oder
 von	von
 colera	colera
 ⸗	-
-
 das	das
 heiſt	heißt
 ein	ein
 bam̃es	Bammes
-
 er	er
 bringt	bringt
 auch	auch
 dz	das
 harnwaſſer	Harnwasser
 /	/
-
 es	es
 ſprechen	sprechen
 auch	auch
 etlich	etliche
-
 das	das
 kraut	Kraut
 iſt	ist
@@ -801,7 +748,6 @@ heiſz	heiß
 vnd	und
 feücht	feucht
 meſſigklich	messiglich
-
 Wẽn	Wenn
 man	man
 die	die
@@ -822,7 +768,6 @@ dz	das
 hilfft	hilft
 gar	gar
 wol	wohl
-
 michael	Michael
 der	der
 ſchot	Schotte
@@ -865,7 +810,6 @@ dürr	dürr
 wirt	wird
 vñ	und
 ab valend	abfallend
-
 vñ	und
 võ	von
 dem	dem
@@ -890,7 +834,6 @@ in	in
 vnſer	unser
 vallen	Fallen
 ⸗	-
-
 wie	wie
 lang	lang
 hat	hat
@@ -907,10 +850,8 @@ mich	mich
 nach	nach
 ir	ihr
 ⸗	-
-
 wolhin	wohlhin
 üpigkeit	Üppigkeit
-
 ich	ich
 hoffe	hoffe
 es	es
@@ -918,12 +859,10 @@ wer	währt
 nitt	nicht
 lang	lang
 ¶	¶
-
 Von	Von
 dem	dem
 koͤlkraut	Kölkraut
 ⸗	-
-
 doch	doch
 iſt	ist
 das	das
@@ -932,9 +871,7 @@ heÿſz	heiß
 vnd	und
 trucken	trocken
 ⸗	-
-
 Beyfuſz	Beifuß
-
 Weliche	welche
 fraw	Frau
 ain	ein
@@ -949,7 +886,6 @@ trinck	trinke
 võ	von
 beyfůſz	Beifuß
 /	/
-
 ¶	¶
 Jtem	Item
 wer	wer
@@ -966,7 +902,6 @@ kainen	keinen
 ſchaden	Schaden
 zufuͤgen	zufügen
 ¶	¶
-
 ¶	¶
 Weliche	welche
 fraw	Frau
@@ -991,14 +926,12 @@ vnd	und
 den	den
 trinckẽ	trinken
 ˖	.
-
 es	es
 ſey	sei
 geſchwulſt	Geschwulst
 od̉	oder
 anders	anderes
 ¶	¶
-
 Wer	wer
 dẽ	den
 beyfuſz	Beifuß
@@ -1013,7 +946,6 @@ wirt	wird
 nit	nicht
 muͤde	müde
 ¶	¶
-
 ¶	¶
 Jtem	item
 diſer	dieser
@@ -1026,7 +958,6 @@ bůch	Buch
 ſpricht	spricht
 auch	auch
 ˖	:
-
 Das ſelb	dasselbe
 iſt	ist
 auch	auch
@@ -1038,7 +969,6 @@ auſzwendig	auswendig
 geſchwollẽ	geschwollen
 iſt	ist
 ˖	:
-
 ¶	¶
 Jtẽ	item
 beyfuſz	Beifuß
@@ -1062,7 +992,6 @@ der	der
 arſzdarm	Arschdarm
 auſzgat	ausgeht
 .	.
-
 ſtabwurcz	Stabwurz
 geſotten	gesotten
 mit	mit
@@ -1079,7 +1008,6 @@ kelte	Kälte
 des	des
 haubtes	Hauptes
 /	/
-
 Auicenna	Avicenna
 ſprichet	spricht
 ˖	:
@@ -1100,7 +1028,6 @@ beleibt	bleibt
 das	das
 ſtirbt	stirbt
 ˖	:
-
 ¶	¶
 Von	von
 der	der
@@ -1122,7 +1049,6 @@ ain	ein
 halb	halbes
 lot	Lot
 .	.
-
 Jtem	item
 ſtabwurcz	Stabwurz
 geſoten	gesotten
@@ -1154,7 +1080,6 @@ komet	kommt
 võ	von
 kelte	Kälte
 ˖	:
-
 Die	die
 maiſter	Meister
 in	in
@@ -1176,7 +1101,6 @@ in	in
 dem	dem
 andern	anderen
 ˖	.
-
 ¶	¶
 Auicẽna	Avicenna
 ſpricht	spricht
@@ -1194,7 +1118,6 @@ denn	denn
 das	das
 kraut	Kraut
 /	/
-
 ¶	¶
 Wermůt	Wermut
 getrũcken	getrunken
@@ -1205,7 +1128,6 @@ dem	dem
 geſchwollẽ	geschwollenen
 milcz	Milz
 ¶	¶
-
 ¶	¶
 Wermůt	Wermut
 geſoten	gesotten
@@ -1226,7 +1148,6 @@ der	der
 boͤſen	bösen
 leber	Leber
 .	.
-
 vñ	und
 wermůtſaft	Wermutsaft
 iſt	ist
@@ -1273,7 +1194,6 @@ Pandecta	Pandecta
 ſind	sind
 bewaͤren	bewährend
 .	.
-
 Das	das
 vierd	vierte
 Capitel	Kapitel
@@ -1288,7 +1208,6 @@ grece	Grece
 Thaum	Thaum
 arabice	Arabice
 .	.
-
 ¶	¶
 Auicẽna	Avicenna
 ſpricht	spricht
@@ -1331,7 +1250,6 @@ vñ	und
 darüber	darüber
 gelegt	gelegt
 ¶	¶
-
 Mit	mit
 knoblauchſaft	Knoblauchsaft
 geſchmiert	geschmiert
@@ -1357,7 +1275,6 @@ har auſzfallung	Haarausfallung
 genant	genannt
 alopicia	Alopecia
 .	.
-
 /	/
 ¶	¶
 Diſe	diese
@@ -1373,7 +1290,6 @@ geoͤffnet	geöffnet
 darein	darein
 geſtreuwet	gestreut
 ¶	¶
-
 Jtẽ	item
 knoblauch	Knoblauch
 iſt	ist
@@ -1381,7 +1297,6 @@ iſt	ist
 den	den
 augen	Augen
 .	.
-
 das	das
 iſt	ist
 die	die
@@ -1389,7 +1304,6 @@ natur	Natur
 des	des
 mañs	Mannes
 ˖	:
-
 vñ	und
 welicher	welcher
 ſich	sich
@@ -1401,7 +1315,6 @@ dauon	davon
 groſſe	große
 krãckhait	Krankheit
 ¶	¶
-
 Jtem	item
 knoblauch	Knoblauch
 mit	mit
@@ -1421,7 +1334,6 @@ gemacht	gemacht
 aĩ	eine
 ſalb	Salbe
 /	/
-
 vnd	und
 geſchicht	geschieht
 gemaingklich	gemeiniglich
@@ -1435,7 +1347,6 @@ vrſache	Ursache
 nit	nicht
 enwiſſen	wissen
 ¶	¶
-
 Jtem	item
 wer	wer
 dickmal	dick mal
@@ -1447,7 +1358,6 @@ bringt	bringt
 das	das
 haubtweetumb	Hauptwehtum
 ˖	:
-
 vnd	und
 iſt	ist
 auch	auch
@@ -1458,7 +1368,6 @@ gebluͤtes	Geblütes
 genant	genannt
 lepra	Lepra
 .	.
-
 ¶	¶
 Jtem	item
 knoblauch	Knoblauch
@@ -1479,7 +1388,6 @@ kalte	kalte
 vnuerdeuliche	unverdauliche
 ſpeiſ	Speise
 .	.
-
 Wer	wer
 ain	ein
 boͤſes	böses
@@ -1493,7 +1401,6 @@ hirſzzung	Hirschzunge
 in	in
 der	der
 koſt	Kost
-
 Jtẽ	item
 odermynge	Odermenning
 iſt	ist
@@ -1507,7 +1414,6 @@ gebadet	gebadet
 in	in
 ainem	einem
 ſchwaiſzbad	Schweißbad
-
 ¶	¶
 Jtẽ	item
 od̉mynge waſſer	Odermenningwasser
@@ -1527,7 +1433,6 @@ machen	machend
 vnd	und
 erklaͤren	erklärend
 .	.
-
 ¶	¶
 Der	der
 wirdig	würdige
@@ -1567,7 +1472,6 @@ oder	oder
 die	die
 wurtz	Wurzel
 ˖	:
-
 ¶	¶
 Epich	Eppich
 allſo	also
@@ -1576,18 +1480,15 @@ macht	macht
 wol	wohl
 dewen	däuen
 ˖	:
-
 ſie	sie
 wirt	wird
 ym	ihm
 widerkomen	wiederkommen
 ˖	:
-
 ¶	¶
 Galienüs	Galienus
 ſpricht	spricht
 ˖	:
-
 wann	wann
 es	es
 öffnet	öffnet
@@ -1602,14 +1503,11 @@ die	die
 zeit	Zeit
 begreift	begreift
 ˖	:
-
 eppich	Eppich
 ˖	:
-
 Capitulum	Capitulum
 ˖	:
 .vii .	VII.
-
 ¶	¶
 Diſes	dieses
 wechſt	wächst
@@ -1623,7 +1521,6 @@ die	die
 froͤſch	Frösche
 wonent	wohnen
 ˖	:
-
 das	das
 ſind	sind
 lychdorn	Leichdorn
@@ -1636,7 +1533,6 @@ an	an
 den	den
 fuͤſſẽ	Füßen
 ¶	¶
-
 Diſz	dieses
 krautes	Krauts
 ſafft	Saft
@@ -1653,7 +1549,6 @@ gelegt	gelegt
 mit	mit
 eybiſch wurczeln	Eibischwurzeln
 ¶	¶
-
 ¶	¶
 Auch	auch
 benymet	benimmt
@@ -1670,14 +1565,12 @@ lebern	Leber
 Von	von
 dem	dem
 B.	B.
-
 Fur	für
 ſchwindlen	Schwindel
 ynn	in
 dem	dem
 heubt	Haupt
 .	.
-
 Die	die
 blumen	Blumen
 rohe	roh
@@ -1687,13 +1580,11 @@ macht	macht
 gut	gutes
 blut	Blut
 .	.
-
 Fuͤr	für
 auffſtoſſen	Aufstoßen
 der	der
 mutter	Mutter
 .	.
-
 Welcher	welcher
 man	Mann
 von	von
@@ -1728,12 +1619,10 @@ ynn	in
 der	der
 milch	Milch
 /	/
-
 darnach	danach
 ſeude	siede
 die	die
 milch	Milch
-
 auch	auch
 ſo	so
 iſt	ist
@@ -1753,21 +1642,18 @@ die	die
 ohren	Ohren
 trieffen	triefen
 .	.
-
 vnd	und
 las	lass
 beiſſen	beizen
 fůnff	fünf
 tag	Tage
 /	/
-
 darnach	danach
 ſeyge	sauge
 das	das
 oͤl	Öl
 ab	ab
 /	/
-
 Es	es
 ſpricht	spricht
 Diaſcorides	Diascorides
@@ -1786,7 +1672,6 @@ kraut	Kraut
 odder	oder
 ſamen	Samen
 .	.
-
 Wer	wer
 einen	einen
 kalten	kalten
@@ -1804,7 +1689,6 @@ odder	oder
 ynn	in
 moſte	Most
 /	/
-
 Item	item
 der	der
 ſafft	Saft
@@ -1825,15 +1709,12 @@ nach	nach
 der	der
 gepurt	Geburt
 .	.
-
 Platearius	Platearius
 ſpricht	spricht
 /	/
-
 Burſa	Bursa
 paſtoris	pastoris
 .	.
-
 vnd	und
 welche	welche
 Schlang	Schlange
@@ -1850,7 +1731,6 @@ gibt	gibt
 die	die
 flucht	Flucht
 /	/
-
 diſs	dies
 kraut	Kraut
 gemiſcht	gemischt
@@ -1870,10 +1750,8 @@ durch	durch
 den	den
 ſtulgang	Stuhlgang
 .	.
-
 Balauſtia	Balaustia
 .	.
-
 die	die
 blumen	Blumen
 machen	machen
@@ -1894,11 +1772,9 @@ dem	dem
 munde	Munde
 gehalten	gehalten
 .	.
-
 Galienus	Galienus
 ſchreibt	schreibt
 /	/
-
 Was	was
 das	das
 geader	Geäder
@@ -1906,10 +1782,8 @@ und	und
 blut	Blut
 ſterckt	stärkt
 .	.
-
 Balſamus	Balsamus
 .	.
-
 es	es
 nimet	nimmt
 die	die
@@ -1925,7 +1799,6 @@ vnd	und
 die	die
 adern	Adern
 .	.
-
 Plinius	Plinius
 ſpricht	spricht
 /	/
@@ -1952,7 +1825,6 @@ ihn	ihn
 darynnen	darinnen
 hat	hat
 .	.
-
 Fuͤr	für
 den	den
 ſtein	Stein
@@ -1960,7 +1832,6 @@ ynn	in
 der	der
 plattern	Platter
 .	.
-
 Bedellium	Bedellium
 /	/
 ein	ein
@@ -1999,7 +1870,6 @@ ynn	in
 den	den
 lenden	Lenden
 .	.
-
 Das	das
 gemiſchet	gemischt
 mit	mit
@@ -2015,7 +1885,6 @@ den	den
 frawen	Frauen
 menſtruum	Menstruum
 .	.
-
 vnd	und
 leg	leg
 das	das
@@ -2023,11 +1892,9 @@ auff	auf
 die	die
 blattern	Blattern
 /	/
-
 es	es
 heylet	heilt
 /	/
-
 Auch	auch
 ſenfftiget	sänftigt
 es	es
@@ -2036,7 +1903,6 @@ geſchwulſt	Geschwulste
 der	der
 glieder	Glieder
 .	.
-
 Butter	Butter
 gemiſcht	gemischt
 mit	mit
@@ -2072,7 +1938,6 @@ an	an
 der	der
 Lungen	Lungen
 /	/
-
 Item	item
 wer	wer
 faſt	fast
@@ -2087,7 +1952,6 @@ trincke	trinke
 von	von
 Camillen blumen	Kamillenblumen
 .	.
-
 Kerbelen	Kerbelen
 gepuͤluert	gepulvert
 vnd	und
@@ -2105,11 +1969,9 @@ wachſet	wächst
 es	es
 heylet	heilt
 /	/
-
 Capillus	Capillus
 Veneris	veneris
 .	.
-
 Naterwurtz	Natterwurz
 machet	macht
 hynfliehen	hinfliehen
@@ -2117,10 +1979,8 @@ die	die
 gifftigen	giftigen
 thier	Tiere
 /	/
-
 Cuſcuͤta	Cuscüta
 .	.
-
 Kichern	Kichern
 geſotten	gesotten
 ynn	in
@@ -2141,7 +2001,6 @@ man	man
 es	es
 trincket	trinkt
 .	.
-
 Walwurtz	Walwurz
 getruncken	getrunken
 mit	mit
@@ -2153,14 +2012,12 @@ frawen	Frauen
 den	den
 fluſs	Fluss
 .	.
-
 Wem	wem
 die	die
 gemecht	Gemächte
 geſchwollen	geschwollen
 ſind	sind
 .	.
-
 Auch	auch
 wenn	wenn
 die	die
@@ -2179,13 +2036,11 @@ gut	gut
 den	den
 leberſuchtigen	Lebersüchtigen
 /	/
-
 Item	item
 alio	alio
 nomine	nomine
 Capparus	Capparus
 .	.
-
 Safft	Saft
 von	von
 Rittenen	Rittenen
@@ -2204,7 +2059,6 @@ kurtzen	kurzen
 atthem	Atem
 haben	haben
 .	.
-
 Wer	wer
 ſieben	sieben
 tage	Tage
@@ -2219,12 +2073,10 @@ fuͤr	für
 die	die
 geelsucht	Geelsucht
 .	.
-
 Fuͤr	für
 die	die
 wartzen	Warzen
 .	.
-
 Item	item
 ſuccus	sucus
 ceparum	ceparum
@@ -2235,12 +2087,10 @@ Plinius	Plinius
 ſinaribus	sinaribus
 immittitur	immittitur
 .	.
-
 Fuͤr	für
 den	den
 huſten	Husten
 .	.
-
 Safft	Saft
 von	von
 den	den
@@ -2257,7 +2107,6 @@ die	die
 wuͤrme	Würmer
 darynn	darin
 .	.
-
 Item	item
 die	die
 blumen	Blumen
@@ -2280,13 +2129,10 @@ hertzen	Herzen
 wee	weh
 iſt	ist
 .	.
-
 Cordiaco	Cordiaco
 .	.
-
 Coſtus	Costus
 .	.
-
 Dieſe	diese
 wurtz	Wurzel
 geleget	gelegt
@@ -2301,7 +2147,6 @@ luſt	Lust
 der	der
 vnkeuſcheyt	Unkeuschheit
 .	.
-
 Fuͤr	für
 das	das
 gicht	Gicht
@@ -2309,7 +2154,6 @@ ynn	in
 dem	dem
 leybe	Leibe
 .	.
-
 Diſs	dies
 kraut	Kraut
 geſotten	gesotten
@@ -2342,12 +2186,10 @@ fieber	Fieber
 an kommen	ankommen
 wil	will
 .	.
-
 Fuͤr	für
 den	den
 brand	Brand
 .	.
-
 Die	die
 den	den
 harm	Harn
@@ -2355,7 +2197,6 @@ nicht	nicht
 kuͤnden	könnten
 heben	heben
 .	.
-
 Auch	auch
 deſs gleychen	desgleichen
 iſt	ist
@@ -2373,7 +2214,6 @@ nodt	Not
 troͤpflingen	tröpflingen
 harmen	harnen
 .	.
-
 Platearius	Platearius
 ſpricht	spricht
 /	/
@@ -2388,7 +2228,6 @@ gut	gut
 ſind	sind
 Calculoſis	den Calculosikern
 /	/
-
 Item	Item
 Auicenna	Avicenna
 ſpricht	spricht
@@ -2413,10 +2252,8 @@ den	den
 alten	alten
 huſten	Husten
 .	.
-
 Ciperus	Ciperus
 .	.
-
 Item	item
 dieſe	diese
 wurtzel	Wurzel
@@ -2441,7 +2278,6 @@ den	den
 ſteyn	Stein
 daraus	daraus
 .	.
-
 Zymetroͤrlin	Zymetrörlein
 /	/
 neuſs	niess
@@ -2454,7 +2290,6 @@ fur	für
 die	die
 waſſerſucht	Wassersucht
 .	.
-
 Auch	auch
 nympt	nimmt
 ſie	sie
@@ -2467,7 +2302,6 @@ haubt	Haupt
 und	und
 magen	Magen
 .	.
-
 Kuͤmmel	Kümmel
 ynn	in
 dem	dem
@@ -2491,13 +2325,11 @@ lautter	lauter
 vnd	und
 klar	klar
 .	.
-
 Fuͤr	für
 vndewung	Undäuung
 des	des
 Magens	Magens
 .	.
-
 welcher	welcher
 hat	hat
 haubtwee	Hauptweh
@@ -2513,7 +2345,6 @@ geneuſt	genest
 zu	zu
 hand	Hand
 .	.
-
 Item	item
 wer	wer
 febres	Fieber
@@ -2529,24 +2360,20 @@ wein	Wein
 ſie	sie
 vergehen	vergehen
 .	.
-
 Wer	wer
 nicht	nicht
 wol	wohl
 dewen	däuen
 mag	mag
 .	.
-
 Meſue	Mesue
 nennet	nennt
 ſie	sie
 rapiens	Rapiens
 vitam	Vitam
 /	/
-
 Maioron	Majoran
 .	.
-
 Der	der
 edel	edle
 hat	hat
@@ -2560,7 +2387,6 @@ der	der
 gemeyn	gemeine
 garten Maioron	Gartenmajoran
 /	/
-
 Würt	wird
 geſaͤhet	gesät
 vnd	und
@@ -2569,7 +2395,6 @@ geympfft	geimpft
 oder	oder
 gepflantzet	gepflanzt
 .	.
-
 Maioron	Majoran
 geſotten	gesotten
 /	/
@@ -2605,7 +2430,6 @@ auch	auch
 den	den
 ſtein	Stein
 .	.
-
 Man	man
 macht	macht
 auch	auch
@@ -2634,7 +2458,6 @@ die	die
 erkalte	erkaltete
 můter	Gebärmutter
 .	.
-
 Iſt	ist
 etwan	etwa
 gar	gar
@@ -2653,7 +2476,6 @@ das ſelbig	dasselbe
 zůmachen	zu machen
 beſchreibet	beschreibt
 .	.
-
 Die	die
 bettryſzen	Bettlägrigen
 /	/
@@ -2680,7 +2502,6 @@ laſſen	lassen
 trucken	trocken
 werden	werden
 .	.
-
 EIn	ein
 mercklicher	merklicher
 yrthumb	Irrtum
@@ -2709,7 +2530,6 @@ Meüſzoͤrlin	Mausöhrlein
 auſzgelegt	ausgelegt
 haben	haben
 .	.
-
 In	in
 welchen	welchen
 yrrthumb	Irrtum
@@ -2720,7 +2540,6 @@ alt	alte
 Abgott	Abgott
 Auicenna	Avicenna
 .	.
-
 Meüſzoͤrlin	Mausöhrlein
 das	das
 do	da
@@ -2748,10 +2567,8 @@ die	die
 choleriſchen	cholerischen
 apoſtemen	Apostemen
 .	.
-
 Bingelkraut	Bingelkraut
 .	.
-
 Sein	sein
 ſtatt	Statt
 iſt	ist
@@ -2765,7 +2582,6 @@ in	in
 den	den
 reben	Reben
 .	.
-
 Seine	seine
 blaͤttlin	Blättlein
 ſeind	sind
@@ -2802,7 +2618,6 @@ par	Paar
 vund	und
 par	Paar
 .	.
-
 Auerrois	Averroes
 ſpricht	spricht
 das	dass
@@ -2822,7 +2637,6 @@ auſz	aus
 widerwertiger	widerwärtiger
 ſubſtantz	Substanz
 .	.
-
 Das	das
 ſafft	Saft
 dauon	davon
@@ -2845,7 +2659,6 @@ fyrnem	vornehmem
 wein	Wein
 überſtrichen	überstrichen
 .	.
-
 Die	die
 allergelerteſten	Allergelehrtesten
 /	/
@@ -2868,7 +2681,6 @@ erſten	ersten
 bůch	Buch
 ſchreibet	schreibt
 .	.
-
 Der	der
 wolerfarẽ	wohlerfahrene
 Hieronymus	Hieronymus
@@ -2888,7 +2700,6 @@ vff	auf
 diſze	diese
 weiſz	Weise
 .	.
-
 darumb	darum
 ſein	sein
 latiniſcher	lateinischer
@@ -2925,14 +2736,12 @@ latiniſchen	lateinischen
 genannt	genannt
 Iſtericium	Istericium
 .	.
-
 Sein	seine
 wurtzel	Wurzel
 hat	hat
 keinen	keinen
 geſchmack	Geschmack
 /	/
-
 Ein	ein
 ander	anderes
 kraut	Kraut
@@ -2962,7 +2771,6 @@ Meyſterwurtz	Meisterwurz
 oder	oder
 Hertzwurtz	Herzwurz
 .	.
-
 |	|
 Iſt	ist
 aber	aber
@@ -2993,7 +2801,6 @@ vnd	und
 dem	dem
 Dylle	Dill
 .	.
-
 War	wahr
 iſt	ist
 es	es
@@ -3019,7 +2826,6 @@ offt	oft
 genom̃en	genommen
 würt	wird
 .	.
-
 wie	wie
 wir	wir
 ſo gar	sogar
@@ -3073,7 +2879,6 @@ bauren	Bauern
 ſchůch	Schuh
 troffen	getroffen
 .	.
-
 vnd	und
 lege	lege
 ſich	sich
@@ -3082,21 +2887,18 @@ nider	nieder
 zů	zu
 ſchwitzen	schwitzen
 /	/
-
 es	es
 iſt	ist
 ein	einen
 gewiſſe	gewisse
 artzeney	Arznei
 .	.
-
 Weggraſz	Weggras
 /	/
 Wegdritt	Wegtritt
 /	/
 Denngraſz	Denngras
 .	.
-
 darumb	darum
 wo	wo
 man	man
@@ -3113,11 +2915,9 @@ allwegen	allerwegen
 diſz	dies
 nemen	nehmen
 .	.
-
 Sein	seine
 ſtatt	Statt
 .	.
-
 Sein	seine
 ſtatt	Statt
 iſt	ist
@@ -3137,7 +2937,6 @@ mauren	Mauern
 /	/
 allenthalb	allenthalben
 /	/
-
 Dioſcorides	Dioscorides
 in	in
 dem	dem
@@ -3156,7 +2955,6 @@ maͤnnlin	Männlein
 vnd	und
 weiblin	Weiblein
 .	.
-
 Das	das
 weiblin	Weiblein
 hat	hat
@@ -3166,7 +2964,6 @@ wie	wie
 das	das
 maͤnnlin	Männlein
 .	.
-
 Bringet	bringt
 zů letſt	zuletzt
 ſchyffen	Schiffe
@@ -3196,7 +2993,6 @@ braun	braun
 /	/
 geſprenckelt	gesprenkelt
 .	.
-
 Ein	ein
 ſonderlich	sonderliches
 mirackel	Mirakel
@@ -3273,7 +3069,6 @@ donder	Donner
 nicht	nicht
 ein	ein
 .	.
-
 alles	alles
 von	von
 wegen	wegen
@@ -3282,21 +3077,18 @@ ewigkeyt	Ewigkeit
 vnd	und
 hochwürdigkeyt	Hochwürdigkeit
 .	.
-
 Würt	wird
 von	von
 etlichen	etlichen
 Buphthalmos	Buphthalmos
 geneñt	genannt
 /	/
-
 Von	von
 Weronmůt	Wermut
 /	/
 ca.	ca.
 cx	CX
 .	.
-
 Das	das
 ander	andere
 Cretiſch	Kretisch
@@ -3315,7 +3107,6 @@ Das	das
 drit	dritte
 Santonicum	Santonicum
 /	/
-
 DEr	der
 Weronmůt	Wermut
 iſt	ist
@@ -3345,14 +3136,12 @@ warm	warm
 vnd	und
 drucken	trocken
 .	.
-
 das	das
 wiſſen	wissen
 die	die
 vollen	vollen
 bruͤder	Brüder
 /	/
-
 dann	denn
 die	die
 verſchloſſene	verschlossenen
@@ -3377,7 +3166,6 @@ flieſſen	fließen
 der	der
 Wermůt	Wermut
 /	/
-
 wer	wer
 wil	will
 ſeine	seine
@@ -3385,7 +3173,6 @@ tugent	Tugend
 all	all
 erzelen	erzählen
 ?	?
-
 Weronmůt	Wermut
 in	in
 wein	Wein
@@ -3409,7 +3196,6 @@ man	man
 wachs wynnen	Wachswinden
 darzů nimpt	dazunimmt
 .	.
-
 wirt	wird
 eyn	ein
 hübſcher	hübscher
@@ -3430,7 +3216,6 @@ zerſchnittenen	zerschnittenen
 bletlin	Blättlein
 bekleydet	bekleidet
 /	/
-
 bluͤet	blüht
 geel	gelb
 im	im
@@ -3448,7 +3233,6 @@ bluͤmlin	Blümlein
 vñ	und
 schoͤtlin	Schößlingen
 /	/
-
 Vnd	und
 wann	wenn
 Dioſco.	Diosco.
@@ -3496,14 +3280,12 @@ ben	vertreiben
 ſichtparlich	sichtbar
 beweiſet	beweist
 /	/
-
 Auicen.	Avicenna
 lib.	lib.
 2.	2.
 ca.	ca.
 668.	668.
 .	.
-
 Von	von
 Seriphio	Seriphium
 ſchreibt	schreibt
@@ -3518,14 +3300,12 @@ lib.	lib.
 cap.	cap.
 5.	5.
 .	.
-
 iſt	ist
 druckener	trockener
 vnd	und
 warmer	warmer
 complexion	Komplexion
 /	/
-
 Der	der
 Edel	edle
 wurmſamen	Wurmsamen
@@ -3543,7 +3323,6 @@ Teütſchen	Deutschen
 am	am
 aller breüchlichſtẽ	allergebräuchlichsten
 /	/
-
 wiewol	wie wohl
 Theophraſtus	Theophrastus
 lib.	lib.
@@ -3576,7 +3355,6 @@ werden	werden
 vñ	und
 abfallen	abfallen
 .	.
-
 alſo	also
 haben	haben
 wir	wir
@@ -3618,7 +3396,6 @@ zů	zu
 nemen	nehmen
 befilcht	befiehlt
 /	/
-
 Sunſt	sonst
 nent	nennt
 man	man
@@ -3653,7 +3430,6 @@ für	für
 ſich	sich
 ſelbs	selbst
 .	.
-
 Etlich	etliche
 meynen	meinen
 es	es
@@ -3688,7 +3464,6 @@ dañ	denn
 dem	dem
 Beifůſz	Beifuß
 .	.
-
 Jn	in
 Serapione	Serapion
 heyſt	heißt
@@ -3700,7 +3475,6 @@ in	in
 Auerh.	Auerh.
 Halſcia	Halscia
 /	/
-
 Wiewol	wiewohl
 diſe	diese
 namen	Namen
@@ -3728,14 +3502,12 @@ Sanguaſora	Sanguasora
 /	/
 Abrotanum	Abrotanum
 .	.
-
 Von	von
 der	der
 krafft	Kraft
 vnd	und
 würckung	Wirkung
 .	.
-
 Jnnerlich	innerlich
 .	.
 STab	Stab-
@@ -3819,10 +3591,8 @@ wethumb	Wehtümer
 im	im
 leib	Leib
 /	/
-
 Eüſſerlich	äußerlich
 .	.
-
 vnd	und
 ye	je
 hoͤher	höher
@@ -3853,7 +3623,6 @@ ander	andere
 ſeit	Seite
 Satt gruͤn	sattgrün
 .	.
-
 Von	von
 eyner	einer
 holzechten	holzigen
@@ -3881,7 +3650,6 @@ kleyner	kleine
 weiſſer	weiße
 knoͤpflin	Knöpflein
 .	.
-
 ſolle	solle
 vor	vor
 zeitten	Zeiten
@@ -3905,7 +3673,6 @@ virginalis	virginalis
 /	/
 Meydtkraut	Meidkraut
 .	.
-
 Die	die
 newen	neuen
 artzet	Ärzte
@@ -3913,7 +3680,6 @@ artzet	Ärzte
 drei	drei
 Artemiſias	Artemisias
 /	/
-
 das	das
 Monoclonon	Monoclonon
 ſol	soll
@@ -3921,7 +3687,6 @@ Mater	Mater
 herbarum	herbarum
 heyſſen	heißen
 /	/
-
 dau	davon
 ander	andere
 deütten	deuten
@@ -3935,7 +3700,6 @@ Tanaſiam	Tanasia
 oder	oder
 Athanaſian	Athanasia
 /	/
-
 Diſe	diese
 meynung	Meinung
 hat	hat
@@ -3947,7 +3711,6 @@ vnd	und
 11.	11.
 vnd	und
 12.	12.
-
 ROter	roter
 vnnd	und
 weiſſer	weißer
@@ -3985,7 +3748,6 @@ eüſſerlich	äußerlich
 zů	zu
 brauchen	gebrauchen
 .	.
-
 Das	das
 kraut	Kraut
 braucht	braucht
@@ -4000,16 +3762,13 @@ zům	zum
 auſzgedruckten	ausgedrückten
 affter	After
 /	/
-
 Von	von
 Wermůt	Wermut
 .	.
-
 Statt	Stätte
 irer	ihrer
 wachſung	Wachsung
 .	.
-
 dañ	denn
 es	es
 wechſt	wächst
@@ -4022,7 +3781,6 @@ mauren	Mauern
 vnd	und
 zeünen	Zäunen
 .	.
-
 Der	der
 gemeyn	gemeine
 Wermůt	Wermut
@@ -4037,7 +3795,6 @@ im	im
 dritten	dritten
 trucken	trocken
 .	.
-
 Derhalben	derhalben
 treibt	treibt
 er	er
@@ -4067,7 +3824,6 @@ adern	Adern
 geſamlet	gesammelt
 hat	hat
 .	.
-
 So	so
 man	man
 Wermůt	Wermut
@@ -4079,7 +3835,6 @@ man	man
 die	die
 trunckenheyt	Trunkenheit
 /	/
-
 Mit	mit
 wein	Wein
 aber	aber
@@ -4099,7 +3854,6 @@ anderer	anderer
 gifftigen	giftigen
 thier	Tiere
 .	.
-
 Santonicũ	Santonicum
 hatt	hat
 gleiche	gleiche
@@ -4127,15 +3881,12 @@ andern	andern
 ſüeſſen	süßen
 tranck	Trank
 .	.
-
 Wermůtwein	Wermutwein
 .	.
-
 Stat	Stätte
 irer	ihrer
 wachſung	Wachsung
 .	.
-
 Bringen	bringen
 auch	auch
 den	den
@@ -4143,7 +3894,6 @@ frawen	Frauen
 jre	ihre
 kranckheyt	Krankheit
 .	.
-
 Das	das
 kraut	Kraut
 zů	zu
@@ -4165,7 +3915,6 @@ außfallen	Ausfallen
 der	der
 har	Haare
 .	.
-
 Staubwurtz	Staubwurz
 aber	aber
 iſt	ist
@@ -4176,7 +3925,6 @@ vnd	und
 gar	gar
 widerwertig	widerwärtig
 .	.
-
 Haſelwurtz	Haselwurz
 hat	hat
 bletter	Blätter
@@ -4190,7 +3938,6 @@ linder	linder
 vnd	und
 runder	runder
 .	.
-
 Haſelwurtz	Haselwurz
 iſt	ist
 hitzig	hitzig
@@ -4210,7 +3957,6 @@ meyſten	meisten
 gebraucht	gebraucht
 würt	wird
 .	.
-
 So	so
 gedachte	gedachte
 blůmẽ	Blumen
@@ -4241,7 +3987,6 @@ zertruckte	zerdrückte
 wicken	Wicke
 anzůſehen	anzusehen
 .	.
-
 Jre	ihre
 gſtalt	Gestalt
 iſt	ist
@@ -4260,11 +4005,9 @@ Statt	Stätte
 irer	ihrer
 wachſung	Wachsung
 .	.
-
 Die	die
 zeit	Zeit
 .	.
-
 Drachẽwurtz	Drachenwurz
 trücknet	trocknet
 auß	aus
@@ -4315,7 +4058,6 @@ vil	viel
 daruon	davon
 zůſchreiben	zu schreiben
 .	.
-
 Man	man
 mag	mag
 ſie	sie
@@ -4348,7 +4090,6 @@ yngber	Ingwer
 vñ	und
 dergleichen	dergleichen
 .	.
-
 Dañ	denn
 ſie	sie
 alſo	also
@@ -4368,7 +4109,6 @@ magen	Magen
 nützlich	nützlich
 iſt	ist
 .	.
-
 Dañ	denn
 dieſelbig	dieselbige
 hat	hat
@@ -4397,10 +4137,8 @@ geſchmack	Geschmack
 gefunden	gefunden
 würt	wird
 .	.
-
 Cap.	Cap.
 V.	V.
-
 Bringt	bringt
 ſamen	Samen
 wie	wie
@@ -4412,7 +4150,6 @@ einem	einem
 kaͤßlin	Käslein
 geleich	gleich
 .	.
-
 Die	die
 wurtzel	Wurzel
 iſt	ist
@@ -4424,7 +4161,6 @@ zaͤh	zäh
 vnd	und
 klaͤberig	klebrig
 .	.
-
 Die	die
 wurtzel	Wurzel
 in	in
@@ -4450,16 +4186,13 @@ in	in
 můter leib	Mutterleib
 beliben	geblieben
 .	.
-
 Von	von
 Gauchheyl	Gauchheil
 .	.
 Cap.	Cap.
 VI.	VI
-
 Namen	Namen
 .	.
-
 DJſe	diese
 kreüter	Kräuter
 haben	haben
@@ -4492,10 +4225,8 @@ vnd	und
 geſpenſt	Gespenst
 vertreiben	vertreiben
 .	.
-
 Geſchlecht	Geschlecht
 .	.
-
 Seind	sind
 gůt	gut
 den	den
@@ -4510,7 +4241,6 @@ dieſelbigen	dieselbigen
 vnd	und
 heylen	heilen
 .	.
-
 Diſe	diese
 namen	Namen
 aber	aber
@@ -4540,10 +4270,8 @@ iſt	ist
 kranck	krank
 ſeind	sind
 .	.
-
 Geſtalt	Gestalt
 .	.
-
 Die	die
 bluͤmlin	Blümlein
 liechtblaw	lichtblau
@@ -4554,24 +4282,20 @@ flügeln	Flügeln
 der	der
 aͤſtlin	Ästlein
 .	.
-
 darauß	daraus
 werden	werden
 kleine	kleine
 beſchloſſene	beschlossene
 knoͤpfflin	Knöpflein
 /	/
-
 Die	die
 krafft	Kraft
 vnd	und
 würckung	Wirkung
 .	.
-
 Von	von
 Chamillen	Kamille
 .	.
-
 Das	das
 erſt	erste
 hat	hat
@@ -4589,7 +4313,6 @@ Griechen	Griechen
 Leucanthemũ	Leucanthemum
 geheyſſen	geheißen
 .	.
-
 Auff	auf
 Teütſch	Deutsch
 würdt	wird
@@ -4603,7 +4326,6 @@ oder	oder
 geele	gelbe
 Chamill	Kamille
 .	.
-
 Das	das
 dritt	dritte
 geſchlecht	Geschlecht
@@ -4629,10 +4351,8 @@ am	am
 meyſten	meisten
 blüet	blüht
 .	.
-
 Geſtalt	Gestalt
 .	.
-
 Wachſen	wachsen
 gern	gern
 im	im
@@ -4647,7 +4367,6 @@ bey	bei
 den	den
 wegen	Wegen
 .	.
-
 Das	das
 erſte	erste
 vnd	und
@@ -4670,13 +4389,11 @@ widerumb	wiederum
 im	im
 Herbſt	Herbst
 .	.
-
 Die	die
 krafft	Kraft
 vnd	und
 würckung	Wirkung
 .	.
-
 Die	die
 wurtzel	Wurzel
 /	/
@@ -4692,7 +4409,6 @@ machen	machen
 vnnd	und
 verzeren	verzehren
 .	.
-
 Das	das
 krefftigſt	kräftigste
 vnder	unter
@@ -4706,7 +4422,6 @@ den	den
 purpurfarben	purpurfarbenen
 blůmen	Blumen
 .	.
-
 Heylet	heilt
 auch	auch
 die	die
@@ -4720,14 +4435,11 @@ vnd	und
 darüber	darüber
 gelegt	gelegt
 .	.
-
 Von	von
 Dyllen	Dill
 .	.
-
 Geſtalt	Gestalt
 .	.
-
 Die	die
 wurtzel	Wurzel
 iſt	ist
@@ -4740,13 +4452,11 @@ lang	lang
 vnnd	und
 weiß	weiß
 .	.
-
 Die	die
 natur	Natur
 vnd	und
 complexion	Komplexion
 .	.
-
 Dyll ſamen	Dillsamen
 vnd	und
 die	die
@@ -4788,12 +4498,10 @@ vnnd	und
 den	den
 ſtůlgang	Stuhlgang
 .	.
-
 Treibt	treibt
 den	den
 harn	Harn
 .	.
-
 Dyll	Dill
 ſamen	Samen
 zů	zu
@@ -4813,7 +4521,6 @@ hindern	Hintern
 condylomata	condylomata
 genent	genannt
 .	.
-
 HAußwurtz	Hauswurz
 nent	nennt
 man	man
@@ -4848,7 +4555,6 @@ donder	Donner
 darin	darin
 ſchlagen	schlagen
 .	.
-
 In	in
 Griechiſcher	griechischer
 ſpraach	Sprache
@@ -4880,10 +4586,8 @@ wetter	Wetter
 verſeert	versehrt
 würt	wird
 .	.
-
 Geſchlecht	Geschlecht
 .	.
-
 Das	das
 erſt	erste
 würt	wird
@@ -4902,7 +4606,6 @@ die	die
 andern	andern
 geſchlecht	Geschlechter
 .	.
-
 Bey	bei
 den	den
 Griechiſchen	Griechischen
@@ -4918,7 +4621,6 @@ jar	Jahr
 dreymal	dreimal
 blüet	blüht
 .	.
-
 Das	das
 dritt	dritte
 geſchlecht	Geschlecht
@@ -4947,15 +4649,12 @@ würmlin	Würmlein
 gleich	gleich
 ſeind	sind
 .	.
-
 Geſtalt	Gestalt
 .	.
-
 Statt	Stätte
 irer	ihrer
 wachſung	Wachsung
 .	.
-
 Von	Von
 etlichen	etlichen
 namhafftigen	namhaften
@@ -4965,7 +4664,6 @@ vnd	und
 jren	ihren
 tugenden	Tugenden
 .	.
-
 Saluey	Salbei
 iſt	ist
 eyn	ein
@@ -4980,7 +4678,6 @@ die	die
 flüſz	Flüsse
 zůtroͤchnen	zu trocknen
 /	/
-
 Wañ	wenn
 ein	einer
 kindbetterin	Kindbetterin
@@ -5016,7 +4713,6 @@ faͤlen	Fehl
 ſchwanger	schwanger
 werden	werden
 .	.
-
 Wider	Wider
 dz	das
 blůtauſzſpeyen	Blutausspeien
@@ -5030,7 +4726,6 @@ einer	einer
 vntz	Unze
 honig	Honig
 .	.
-
 diſtillier	destillier
 im	im
 balneo	Balneum
@@ -5039,7 +4734,6 @@ den	den
 weyn	Wein
 herüber	herüber
 /	/
-
 drinck	trink
 allweg	allweg
 morgẽs	morgens
@@ -5047,7 +4741,6 @@ daruon	davon
 ein	ein
 trüncklein	Trünklein
 /	/
-
 ſein	sein
 kraut	Kraut
 iſt	ist
@@ -5056,17 +4749,14 @@ balſam	Balsam
 nicht	nicht
 vnaͤnlich	unähnlich
 /	/
-
 laſz	lass
 wol	wohl
 ſieden	sieden
 /	/
-
 braͤſz	press
 die	die
 bruͤ	Brühe
 auſz	aus
-
 Wilt	Willst du
 geſchwulſt	Geschwulst
 /	/
@@ -5078,13 +4768,11 @@ der	der
 augen	Augen
 ſtillen	stillen
 /	/
-
 trucks	drück es
 durch	durch
 ein	ein
 thůch	Tuch
 /	/
-
 Das	Das
 viert	vierte
 kraut	Kraut
@@ -5100,7 +4788,6 @@ bey	bei
 dẽ	den
 wundartzten	Wundärzten
 /	/
-
 iſt	ist
 faſt	fast
 horicht	haarig
@@ -5110,7 +4797,6 @@ mit	mit
 vilen	vielen
 zweiglin	Zweiglein
 /	/
-
 Als	Als
 Eppichſamẽ	Eppichsamen
 and̉halb	anderthalb
@@ -5130,7 +4816,6 @@ halb	halbe
 halb	halbes
 quint	Quäntchen
 /	/
-
 iſt	ist
 gůt	gut
 denen	denen
@@ -5138,9 +4823,7 @@ denen	denen
 blůt	Blut
 ſpeüwen	speien
 .	.
-
 Dioſc	Diosc.
-
 mit	mit
 waſſer	Wasser
 getruncken	getrunken
@@ -5162,7 +4845,6 @@ die	die
 waſſerſucht	Wassersucht
 erhebt	erhebt
 /	/
-
 Mitt	Mit
 wein	Wein
 getrunckẽ	getrunken
@@ -5170,7 +4852,6 @@ machet	macht
 ſeer	sehr
 voll	voll
 .	.
-
 Diſz	Dieses
 pulffer	Pulver
 gethon	getan
@@ -5187,7 +4868,6 @@ genam̃ſet	genannt
 der	der
 kraͤbs	Krebs
 .	.
-
 Alte	Alte
 haupt ſchmertzen	Hauptschmerzen
 ſo	so
@@ -5207,7 +4887,6 @@ dem	dem
 hinfallenden	hinfallenden
 ſiechtage	Siechtag
 /	/
-
 Nim	Nimm
 cyclaminis wurtzel	Cyclamenwurzel
 gedoͤrret	gedörrt
@@ -5236,7 +4915,6 @@ die	die
 naſen	Nasen
 gezogen	gezogen
 /	/
-
 doch	doch
 ſoll	soll
 niemants	niemand
@@ -5260,7 +4938,6 @@ für	vor
 jren	ihnen
 huͤten	hüten
 .	.
-
 thůns	tu es
 auf	auf
 die	die
@@ -5282,7 +4959,6 @@ fünffinger kraut	Fünffingerkraut
 vnnd	und
 taubenkropff	Taubenkropf
 /	/
-
 welche	welche
 rede	Rede
 ich	ich
@@ -5308,7 +4984,6 @@ deſz	des
 kalchs	Kalchs
 geſchweigen	geschwiegen
 /	/
-
 Dañ	Denn
 wie	wie
 Ariſtolochia	Aristolochia
@@ -5334,7 +5009,6 @@ do	da
 hingebunden	hingebunden
 wirdt	wird
 /	/
-
 Werdend	Werden
 Balſam bletter	Balsamblätter
 inn	in
@@ -5350,7 +5024,6 @@ geriñen	gerinnen
 oder	oder
 zammenlauffen	zusammenlaufen
 .	.
-
 als dañ	alsdann
 zeüch	ziehe
 jne	ihn
@@ -5394,10 +5067,8 @@ zůmal	zumal
 drey	drei
 vntzen	Unzen
 .	.
-
 Scorpiuros	Scorpiurus
 .	.
-
 Das	Das
 ſibendt	siebente
 kraut	Kraut
@@ -5409,7 +5080,6 @@ iſt	ist
 etwan	etwa
 ellen hoch	ellenhoch
 /	/
-
 hat	hat
 ein	eine
 holtzaͤchte	holzige
@@ -5433,23 +5103,18 @@ vmb	um
 den	den
 ſteingraben	Steingraben
 /	/
-
 Apul.	Apul.
-
 im	im
 ſelbigen	selbigen
 iſt	ist
 dreieckter	dreieckiger
 ſamen	Samen
 /	/
-
 Apul.	Apul.
-
 eroͤfnet	eröffnet
 die	die
 laͤbern	Leber
 /	/
-
 Derffte	Dürfte
 ſchier	schier
 ſagen	sagen
@@ -5476,12 +5141,10 @@ es	es
 vngleüblich	unglaublich
 iſt	ist
 /	/
-
 darff	darf
 keins	keines
 probierẽs	Probierens
 /	/
-
 Wo	Wo
 aber	aber
 einer	einer
@@ -5523,10 +5186,8 @@ für	für
 jhn	ihn
 leidt	leid
 /	/
-
 Lapathon	Lapathus
 .	.
-
 Aller	Aller
 rumicum	Rumex
 kreüter	Kräuter
@@ -5537,7 +5198,6 @@ erweichend	erweichen
 den	den
 bauch	Bauch
 /	/
-
 jre	ihre
 wurtzen	Wurzeln
 geſtoſſen	gestoßen
@@ -5554,7 +5214,6 @@ geriben	gerieben
 vertreibet	vertreibt
 ſy	sie
 .	.
-
 iſt	ist
 faſt	fast
 nützlich	nützlich
@@ -5565,13 +5224,11 @@ hitzigen	hitzigen
 choleriſchen	cholerischen
 menſchen	Menschen
 .	.
-
 ſein	seine
 würtzeli	Würzlein
 beyderſeits	beiderseits
 zaſerig	zaserig
 .	.
-
 Ariſtolochia	Aristolochia
 wachſet	wächst
 auff	auf
@@ -5597,7 +5254,6 @@ bitteren	bitteren
 ſtarcken	starken
 geruchs	Geruchs
 /	/
-
 Es	es
 vergleichet	vergleicht
 ſich	sich
@@ -5632,9 +5288,7 @@ Ariſtolochiam	aristolochia
 rotundam	rotunda
 einſamlend	einsammeln
 .	.
-
 Dioſc.	Diosc.
-
 Aber	Aber
 mittler	mittlerer
 zeitt	Zeit
@@ -5685,7 +5339,6 @@ iſt	ist
 draͤttẽ	treten
 wellen	wollen
 .	.
-
 Gebendt	geben
 dann	dann
 ander	andere
@@ -5714,7 +5367,6 @@ hab	habe
 yemãts	jemandes
 rechtzefertigẽ	rechtzufertigen
 .	.
-
 Was	was
 ich	ich
 von	von
@@ -5733,20 +5385,17 @@ von	von
 Anagallide	Anagallis
 geredt	geredet
 .	.
-
 L.	L.
 V.	V.
 M.	M. 
 Von	von
 Wermutt	Wermut
 .	.
-
 das	das
 laſſen	lassen
 wir	wir
 fahren	fahren
 .	.
-
 ¶	¶
 Wermutt kraut	Wermutkraut
 oder	oder
@@ -5806,7 +5455,6 @@ durch	durch
 den	den
 harn	Harn
 /	/
-
 ¶	¶
 Die	die
 blumen	Blumen
@@ -5838,7 +5486,6 @@ werden	werden
 allſo	also
 bereytet	bereitet
 :	:
-
 ¶	¶
 Wer	wer
 an	an
@@ -5865,16 +5512,13 @@ mit	mit
 Zucker	Zucker
 vermengt	vermengt
 /	/
-
 er	er
 geneſzt	genest
 .	.
-
 iſt	ist
 auch	auch
 gutt	gut
 :	:
-
 ¶	¶
 Die	die
 Hirten	Hirten
@@ -5899,10 +5543,8 @@ mancherley	mancherlei
 jnnerliche	innerliche
 gebreſten	Gebresten
 .	.
-
 Wermuttwein	Wemutwein
 .	.
-
 ¶	¶
 Weme	wem
 das	das
@@ -5928,7 +5570,6 @@ jn	ihn
 wol	wohl
 darinne	darin
 /	/
-
 in	in
 diſz	dies
 kochwaſſer	Kochwasser
@@ -5936,7 +5577,6 @@ netze	netze
 ein	ein
 tuch	Tuch
 vnd	und
-
 Darmit	damit
 gereuchert	geräuchert
 /	/
@@ -5945,7 +5585,6 @@ er	er
 die	die
 mucken	Mücken
 .	.
-
 ¶	¶
 Mit	mit
 gemeltem	gemeldetem
@@ -5959,7 +5598,6 @@ die	die
 wandleuſe	Wandläuse
 Cimices	Cimices
 .	.
-
 ¶	¶
 Wermutt	Wermut
 geſtoſſen	gestoßen
@@ -5981,7 +5619,6 @@ das	das
 tunckel	dunkle
 geſicht	Gesicht
 .	.
-
 Das	das
 maͤnnle	Männlein
 ſtoͤſzt	stößt
@@ -6030,7 +5667,6 @@ wie	wie
 der	der
 Wermutt	Wermut
 .	.
-
 darumb	darum
 iſt	ist
 ſie	sie
@@ -6039,7 +5675,6 @@ zu	zu
 allerley	allerlei
 geſchwuͤlſten	Geschwülsten
 .	.
-
 ¶	¶
 Das	das
 kraut	Kraut
@@ -6070,7 +5705,6 @@ dieſen	diesen
 luſt	Lust
 hindern	hindern
 .	.
-
 ¶	¶
 Wenn	wenn
 ein	ein
@@ -6091,7 +5725,6 @@ nit	nicht
 ding	Dinge
 brauchen	brauchen
 /	/
-
 Arabiſch	arabisch
 Catſum	Catsum
 .	.
@@ -6106,7 +5739,6 @@ Auronne	Auronne
 Behmiſch	böhmisch
 Brotan	Brotan
 .	.
-
 ¶	¶
 Das	das
 maͤnnle	Männlein
@@ -6124,7 +5756,6 @@ vnd	und
 rauhen	rauen
 ſtengeln	Stängeln
 .	.
-
 Die	die
 bletter	Blätter
 ſindt	sind
@@ -6142,7 +5773,6 @@ reinen	reinen
 kerffen	Kerben
 zerſchnitten	zerschnitten
 .	.
-
 So	so
 die	die
 bluͤet	Blüte
@@ -6158,7 +5788,6 @@ kleinen	kleinen
 taͤſchlen	Täschlein
 verſchloſſen	verschlossen
 .	.
-
 ¶	¶
 Das	das
 weible	Weiblein
@@ -6175,7 +5804,6 @@ duͤnnen	dünnen
 rauhen	rauen
 ſtengeln	Stängeln
 .	.
-
 Natur	Natur
 /	/
 Krafft	Kraft
@@ -6183,7 +5811,6 @@ Krafft	Kraft
 vnd	und
 Wuͤrckung	Wirkung
 .	.
-
 ¶	¶
 Beyde	beide
 Erenpreiſz	Ehrenpreis
@@ -6208,7 +5835,6 @@ vnd	und
 trucken	trocken
 ſey	sei
 .	.
-
 Dienet	dient
 auch	auch
 fuͤr	für
@@ -6222,7 +5848,6 @@ wol	wohl
 zu	zu
 brauchen	brauchen
 .	.
-
 es	es
 heylet	heilt
 vber	über
@@ -6242,7 +5867,6 @@ an	an
 heymlichen	heimlichen
 orten	Orten
 .	.
-
 ¶	¶
 Wider	wider
 den	den
@@ -6251,11 +5875,9 @@ ein	ein
 wunderbarlich	wunderbares
 experiment	Experiment
 :	:
-
 Brenne	brenne
 Ehrenpreiſzwaſſer	Ehrenpreiswasser
 /	/
-
 ſo	so
 ſchmeckt	schmeckt
 es	es
@@ -6263,7 +5885,6 @@ gleich	gleich
 wie	wie
 lauge	Lauge
 /	/
-
 Bringt	bringt
 vil	viel
 blawfarber	blaufarbener
@@ -6272,7 +5893,6 @@ bluͤmlen	Blümlein
 am	am
 ſtengel	Stängel
 .	.
-
 Nim	nimm
 Jſop	Ysop
 /	/
@@ -6299,7 +5919,6 @@ dritteyl	Dritteil
 eines	eines
 quentles	Quäntchens
 .	.
-
 ¶	¶
 Jſop	Ysop
 in	in
@@ -6320,7 +5939,6 @@ auff	auf
 dem	dem
 haupt	Haupt
 .	.
-
 ¶	¶
 Welcher	welcher
 frawen	Frau
@@ -6337,13 +5955,11 @@ auff	auf
 mit	mit
 Jſop	Ysop
 /	/
-
 Kraͤutter	Kräuter
 zum	zum
 KirchenRegiment	Kirchenregiment
 dienſtlich	dienstlich
 /	/
-
 Doch	doch
 wie	wie
 diſz	dies
@@ -6359,19 +5975,16 @@ hilfft	hilft
 zur	zur
 not	Not
 /	/
-
 das	das
 iſt	ist
 gewiſz	gewiss
 /	/
-
 Das	das
 wird	wird
 vns	uns
 taͤglich	täglich
 fuͤrgelegt	vorgelegt
 /	/
-
 Aber	aber
 von	von
 dem	dem
@@ -6386,7 +5999,6 @@ du	du
 nicht	nicht
 eſſen	essen
 /	/
-
 denn	denn
 welchs	welches
 tags	Tages
@@ -6400,7 +6012,6 @@ deſz	des
 Tods	Todes
 ſterben	sterben
 .	.
-
 Wer	wer
 ſolcher	solcher
 ſonſt	sonst
@@ -6408,7 +6019,6 @@ wil	will
 werden	werden
 loſz	los
 /	/
-
 So	so
 man	man
 den	den
@@ -6443,7 +6053,6 @@ fruͤ	früh
 vnd	und
 ſpat	spät
 /	/
-
 Drumb	darum
 laſz	lass
 dir	dir
@@ -6455,10 +6064,8 @@ Diſz	dies
 fuͤrgeſtellte	vorgestellte
 Kraͤuttelein	Kräutlein
 .	.
-
 PSAL.	Psal.
 XXII.	XXII.
-
 Denn	denn
 es	es
 ſehr	sehr
@@ -6472,7 +6079,6 @@ Gebrechen	Gebrechen
 Leibs	Leibes
 Gefahr	Gefahr
 /	/
-
 Das	das
 bringt	bringt
 ſie	sie
@@ -6481,7 +6087,6 @@ einer	einer
 andern	anderen
 geſtallt	Gestalt
 /	/
-
 Hinfallend	hinfallende
 Sucht	Sucht
 verhuͤtets	verhütet es
@@ -6506,7 +6111,6 @@ vnd	und
 Teuffels	Teufels
 Geſpenſt	Gespenst
 /	/
-
 WEr	wer
 ſeiner	seiner
 Seelen	Seelen
@@ -6531,10 +6135,8 @@ umb	um
 guten	guten
 Raht	Rat
 /	/
-
 PSAL.	Psla.
 XLV.	XLV
-
 Diſz	diese
 Blum	Blume
 gibt	gibt
@@ -6552,7 +6154,6 @@ im	im
 Glauben	Glauben
 ſucht	sucht
 /	/
-
 Der	der
 Geruch	Geruch
 vnd	und
@@ -6571,7 +6172,6 @@ welchs	welches
 ewig	ewig
 ſteht	steht
 /	/
-
 Sein	sein
 Geruch	Geruch
 geht	geht
@@ -6587,7 +6187,6 @@ Teuffel	Teufel
 nicht	nicht
 gefellt	gefällt
 /	/
-
 Die	die
 Chriſtlich	christliche
 Kirch	Kirche
@@ -6607,24 +6206,18 @@ vnd	und
 roter	roter
 Flut	Flut
 /	/
-
 Peonien	Peonien
 .	.
-
 PSAL.	Psal.
 LXVI.	LXVI
-
 PSAL.	Psal.
 XCIII.	XCIII
-
 Leibliche	leibliche
 Wirckung	Wirkung
 .	.
-
 ich	ich
 betracht	betracht
 /	/
-
 Ein	eine
 jede	jede
 Blum	Blume
@@ -6653,7 +6246,6 @@ Schutt	Schote
 eroͤffnet	eröffnet
 weit	weit
 /	/
-
 Das	das
 Bauchweh	Bauchweh
 /	/
@@ -6669,7 +6261,6 @@ Waſſer	Wasser
 thut	tut
 wenden	wenden
 /	/
-
 So	so
 wie	wie
 die	die
@@ -6706,7 +6297,6 @@ thut	tut
 jn	ihnen
 beyſtohn	beistehen
 /	/
-
 Vnd	und
 wie	wie
 der	der
@@ -6757,7 +6347,6 @@ der	der
 Teuffel	Teufel
 trutzt	trutzt
 /	/
-
 Hilfft	hilft
 jr	ihr
 auſz	aus
@@ -6783,10 +6372,8 @@ Iohanne	Johannes
 geſchrieben	geschrieben
 ſtaht	steht
 /	/
-
 Meybluͤmlein	Maiblümlein
 .	.
-
 Ein	ein
 nuͤtzlichs	nützliches
 Waſſer	Wasser
@@ -6800,16 +6387,13 @@ vieln	vielen
 Gebrechen	Gebrechen
 mancherley	mancherlei
 .	.
-
 Bracht	brachte
 vns	uns
 ewige	ewige
 Gerechtigkeit	Gerechtigkeit
 /	/
-
 Syrach.	Syrach. 
 40.	40.
-
 Denn	denn
 alſo	also
 werden	werden
@@ -6829,14 +6413,12 @@ maſſen	Maßen
 dienſtlich	dienstlich
 ſey	sei
 /	/
-
 Dergleichen	dergchenlei
 thut	tut
 der	der
 gepreſte	gepresste
 Safft	Saft
 /	/
-
 DIe	die
 lieblich	lieblichen
 Roſen	Rosen
@@ -6847,14 +6429,12 @@ vnſere	unsere
 Doctores	doctores
 ſeyn	sein
 /	/
-
 Den	den
 Glaubigen	Gläubigen
 ſinds	sind sie
 bitter	bitterer
 feind	Feind
 /	/
-
 die	die
 andern	anderen
 drey	drei
@@ -6865,7 +6445,6 @@ Bart	Bart
 gfunden	gefunden
 frey	frei
 /	/
-
 Die	die
 andern	anderen
 drey	drei
@@ -6883,12 +6462,10 @@ Im	im
 Goͤttlichen	göttlichen
 Weſen	Wesen
 /	/
-
 halt	halt
 fuͤr	für
 gewiſz	gewiss
 /	/
-
 Das	das
 Euangeli	Evangelium
 kombt	kommt
@@ -6914,7 +6491,6 @@ Heiland	Heiland
 Erloͤſer	Erlöser
 auch	auch
 /	/
-
 Nach	nach
 langer	langer
 Truͤbſal	Trübsal
@@ -6965,10 +6541,8 @@ werden	werden
 hertzlich	herzlich
 gern	gern
 /	/
-
 PSAL.	Psal.
 XCII.	XCII
-
 Sie	sie
 werden	werden
 genennt	genannt
@@ -6984,10 +6558,8 @@ zum	zum
 Preiſz	Preis
 /	/
 &c.	etc.
-
 Matth.	Matth.
 15.	15
-
 Zu	zu
 rechter	rechter
 zeit	Zeit
@@ -7010,7 +6582,6 @@ Zu	zu
 vielen	vielen
 Gbrechen	Gebrechen
 /	/
-
 Wie	wie
 ſie	sie
 allhie	allhier
@@ -7065,7 +6636,6 @@ auffziehen	aufziehen
 in	in
 ſtill	Stille
 /	/
-
 Solch	solche
 Pflantzen	Pflanzen
 man	man
@@ -7118,7 +6688,6 @@ ins	in des
 Himmels	Himmels
 Thron	Thron
 /	/
-
 Vnd	und
 wie	wie
 die	die
@@ -7237,10 +6806,8 @@ Frewd	Freude
 vnd	und
 Herrligkeit	Herrlichkeit
 /	/
-
 Aron	Aaron
 .	.
-
 denn	denn
 von	von
 Zion	Zion
@@ -7256,7 +6823,6 @@ Wort	Wort
 von	von
 Hieruſalem	Jerusalem
 .	.
-
 Zur	zur
 Peſtilentz	Pestilenz
 es	es
@@ -7271,12 +6837,10 @@ mit	mit
 Eſſig	Essig
 trinckt	trinkt
 /	/
-
 Denſelben	denselben
 Krancken	Kranken
 wolgelingt	wohlgelingt
 /	/
-
 Die	die
 Wurtzel	Wurzel
 ſiede	siede
@@ -7287,7 +6851,6 @@ wol	wohl
 Trincks	trink es
 ein	ein
 /	/
-
 Blaͤtter	Blätter
 legt	legt
 man	man
@@ -7295,13 +6858,11 @@ auff	auf
 die	die
 Kaͤſz	Käse
 /	/
-
 Vertreibt	vertreibteibt
 darvon	davon
 das	das
 Maden Gefreſz	Madengefräß
 .	.
-
 EIn	einen
 ſcharpffen	scharfen
 Gſchmack	Geschmack
@@ -7321,7 +6882,6 @@ der	der
 maſſen	Maßen
 fein	fein
 /	/
-
 Dergleichen	dergleichen
 Art	Art
 /	/
@@ -7337,7 +6897,6 @@ vnd	und
 ſolch	solche
 Eigenſchafft	Eigenschaft
 /	/
-
 Denn	denn
 es	es
 gebeut	gebietet
@@ -7352,7 +6911,6 @@ muͤglich	möglich
 zhalten	zu halten
 ſind	sind
 /	/
-
 alſo	also
 die	die
 Ehr	Ehre
@@ -7368,7 +6926,6 @@ zu	zu
 jrem	ihrem
 Gewinn	Gewinn
 /	/
-
 Sein	sein
 Verdienſt	Verdienst
 nit	nicht
@@ -7383,21 +6940,17 @@ nur	nur
 zu	zu
 beſtehn	bestehen
 /	/
-
 alſo	also
 bewerts	bewährte es
 /	/
-
 An	An
 den	den
 Leſer	Leser
 .	.
-
 I.	I.
 von	von
 diſtilier Glaͤsern	Destilliergläsern
 .	.
-
 Diſz	Dies
 nennet	nennt
 man	man
@@ -7413,13 +6966,11 @@ im	im
 vorraht	Vorrat
 ſein	sein
 .	.
-
 II.	II
 Von	Von
 den	den
 oͤfen	Öfen
 .	.
-
 Das	Das
 dritte	dritte
 Fewer	Feuer
@@ -7439,7 +6990,6 @@ dem	dem
 Sand	Sand
 diſtillrt	destilliert
 .	.
-
 Der	Der
 vierdt	vierte
 vnd	und
@@ -7463,7 +7013,6 @@ oder	oder
 Sand	Sand
 diſtillirt	destilliert
 .	.
-
 denn	Dann
 nimb	nimm
 was	was
@@ -7485,7 +7034,6 @@ ein	ein
 Brey	Brei
 werden	werden
 /	/
-
 ſo	so
 wird	wird
 dz	das
@@ -7493,7 +7041,6 @@ waſſer	Wasser
 noch	noch
 kraͤfftiger	kräftiger
 .	.
-
 Wie	Wie
 die	die
 oͤhl	Öl
@@ -7502,7 +7049,6 @@ waſſer	Wasser
 zu	zu
 ſcheiden	scheiden
 .	.
-
 vñ	und
 iſt	ist
 ein	ein
@@ -7521,7 +7067,6 @@ Vnkoſten	Unkosten
 kan	kann
 diſtillirn	destillieren
 .	.
-
 zerſtoſz	zerstoß
 deſz	des
 ſaamens	Samens
@@ -7533,7 +7078,6 @@ in	in
 einem	einem
 Moͤrſner	Mörser
 /	/
-
 zerhack	Zerhack
 oder	oder
 zerſtoſz	zerstoß
@@ -7543,13 +7087,11 @@ welches	welches
 beſſer	besser
 iſt	ist
 /	/
-
 ſetze	setze
 einen	einen
 Helm	Helm
 darauff	darauf
 /	/
-
 Die	Die
 waſſer	Wasser
 auff	auf
@@ -7571,7 +7113,6 @@ durchs	durch das
 Inſtrument	Instrument
 diſtillirt	destilliert
 /	/
-
 mach	mach
 ihn	ihn
 auff	auf
@@ -7584,7 +7125,6 @@ ein	eine
 Aſchen	Asche
 finden	finden
 /	/
-
 Woher	Woher
 balneum	Balneum
 roris	Roris
@@ -7657,7 +7197,6 @@ wuͤrdt	würde
 alſo	also
 gemacht	gemacht
 .	.
-
 Andre	Andere
 Nuͤtz	Nutzen
 gemeites	gemeites
@@ -7668,7 +7207,6 @@ im	im
 balneo	balneum
 maris	maris
 .	.
-
 vnter	Unter
 demſelben	demselben
 faltz	Falz
@@ -7685,7 +7223,6 @@ Eln	Ellen
 lang	lang
 haben	haben
 /	/
-
 (	(
 wie	wie
 ich	ich
@@ -7694,7 +7231,6 @@ dann	dann
 geweiſet	geweist
 habe	habe
 )	)
-
 vnnd	und
 wenn	wenn
 er	er
@@ -7710,7 +7246,6 @@ krummen	krummen
 roͤhrlein	Röhrlein
 herauſz	heraus
 .	.
-
 Nun	Nun
 nimb	nimm
 hew	Heu
@@ -7730,7 +7265,6 @@ es	es
 wol	wohl
 durcheinander	durcheinander
 /	/
-
 Nimb	Nimm
 ein	einen
 hoͤltzern	hölzernen
@@ -7755,7 +7289,6 @@ den	den
 loͤcherigen	löchrigen
 boden	Boden
 /	/
-
 bewinde	bewinde
 ein	ein
 wenig	wenig
@@ -7764,7 +7297,6 @@ dem	dem
 naſſen	nassen
 hew	Heu
 /	/
-
 Das	Das
 iſt	ist
 eine	eine
@@ -7777,7 +7309,6 @@ mit	mit
 Kreuttern	Kräutern
 ʒubehen	zu bähen
 .	.
-
 Item	Item
 auff	auf
 dieſe	diese
@@ -7816,7 +7347,6 @@ Badſtuben	Badstuben
 gebrauchen	gebrauchen
 doͤrffe	dürfe
 .	.
-
 Es	Es
 ſindt	sind
 viel	viel
@@ -7873,7 +7403,6 @@ von	von
 ſolchen	solchen
 zuſchreiben	zu schreiben
 .	.
-
 darin	darin
 laſz	lass
 es	es
@@ -7885,13 +7414,11 @@ vier	vier
 wochen	Wochen
 ſtehen	stehen
 /	/
-
 dann	Dann
 nimb	nimm
 es	es
 herauſz	heraus
 /	/
-
 Diſtillir	Destillier
 dz	das
 Waſſer	Wasser
@@ -7913,7 +7440,6 @@ die	die
 duͤrren	dürren
 Kraͤuter	Kräuter
 /	/
-
 ſetze	setze
 es	es
 wider	wieder
@@ -7924,7 +7450,6 @@ ins	ins
 Balneum	Balneum
 Mariæ	Mariae
 ,	,
-
 ſo	so
 haſtu	hast du
 die	die
@@ -7939,7 +7464,6 @@ du	du
 genommen	genommen
 haſt	hast
 /	/
-
 laſz	lass
 es	es
 alſo	also
@@ -7953,7 +7477,6 @@ wochen	Wochen
 daran	daran
 ſtehen	stehen
 /	/
-
 Die	Die
 dritte	dritte
 art	Art
@@ -7996,7 +7519,6 @@ kan	kann
 verglichen	verglichen
 werden	werden
 .	.
-
 Auſz	Aus
 holtz	Holz
 wirdt	wird
@@ -8005,13 +7527,11 @@ ein	ein
 oͤhl	Öl
 gemacht	gemacht
 .	.
-
 denn	dann
 nimb	nimm
 ein	einen
 Kolben	Kolben
 /	/
-
 wenn	wenn
 es	es
 nun	nun
@@ -8026,7 +7546,6 @@ in	in
 die	die
 Erden	Erde
 /	/
-
 dann	dann
 bedecke	bedecke
 den	den
@@ -8059,7 +7578,6 @@ hitz	Hitze
 vnd	und
 glut	Glut
 /	/
-
 thue	tue
 es	es
 in	in
@@ -8080,7 +7598,6 @@ wol	wohl
 geheb	gehebe
 vermacht	vermacht
 /	/
-
 geuſz	gieß
 es	es
 in	in
@@ -8108,7 +7625,6 @@ ein	ein
 ſchoͤn	schönes
 oͤhle	Öl
 /	/
-
 da	da
 es	es
 aber	aber
@@ -8147,7 +7663,6 @@ angezeigt	angezeigt
 /	/
 Diſtillirn	destillieren
 .	.
-
 NImb	Nimm
 kreutter	Kräuter
 oder	oder
@@ -8173,7 +7688,6 @@ reinen	reinen
 feinen	feinen
 Backofen	Backofen
 /	/
-
 der	der
 Stein	Stein
 muſz	muss
@@ -8220,7 +7734,6 @@ oder	oder
 kruͤglein	Krüglein
 flieſſen	fließen
 /	/
-
 vnter	unter
 die	die
 ſpitzen	Spitzen
@@ -8231,7 +7744,6 @@ ein	ein
 reines	reines
 ſchuͤſſelein	Schüssellein
 /	/
-
 Es	es
 iſt	ist
 der	der
@@ -8259,7 +7771,6 @@ Der	der
 weiſſe	weiße
 Thannenbaum	Tannenbaum
 .	.
-
 mit	mit
 einem	einem
 friſchen	frischen
@@ -8272,13 +7783,11 @@ es	es
 den	den
 Nierenfluſz	Nierenfluß
 .	.
-
 Vermoͤgen	Vermögen
 auſſerhalb	außerhalb
 deſz	des
 Leibs	Leibs
 .	.
-
 Reiniget	reinigt
 ferrner	ferner
 ein	ein
@@ -8328,7 +7837,6 @@ alle	alle
 Gefahr	Gefahr
 zu	zu
 /	/
-
 DIe	die
 Stabwurtz	Stabwurz
 wirdt	wird
@@ -8358,13 +7866,10 @@ Aurò	Aurò
 Garderobbe	garderobbe
 genannt	genannt
 .	.
-
 Geſchlecht	Geschlecht
 .	.
-
 Natur	Natur
 .	.
-
 Mit	mit
 Brot	Brot
 vnd	und
@@ -8410,17 +7915,13 @@ worden	worden
 gewaltig	gewaltig
 herauſz	heraus
 .	.
-
 Salb	Salbe
 .	.
-
 Geſtallt	Gestalt
 .	.
-
 Innerliche	innerliche
 Krafft	Krafft
 .	.
-
 Das	das
 Kraut	Kraut
 in	in
@@ -8431,7 +7932,6 @@ toͤdtet	tötet
 die	die
 Wuͤrme	Würmer
 .	.
-
 Der	der
 Wermutwein	Wermutwein
 zur	zur
@@ -8446,7 +7946,6 @@ allen	allen
 obgemelden	oben gemeldeten
 Gebrechen	Gebrechen
 .	.
-
 Das	das
 Kraut	Kraut
 ſelbſt	selbst
@@ -8470,20 +7969,16 @@ das	das
 erſtickente	erstickende
 Halſzwehe	Halsweh
 .	.
-
 2.	2.
 Flores	flores
 &	et
 folia	folia
 .	.
-
 Natur	Natur
 .	.
-
 Innerliche	innerliche
 Krafft	Kraft
 .	.
-
 Dz	dies
 Kraut	Kraut
 ſelbſt	selbst
@@ -8514,7 +8009,6 @@ Durchbruͤche	Durchbrüche
 deſz	des
 Bauchs	Bauchs
 .	.
-
 Ihr	ihr
 Gummi	Gummi
 iſt	ist
@@ -8533,7 +8027,6 @@ Baͤumen	Bäumen
 zuſammen	zusammen
 geleſen	gelesen
 .	.
-
 Zu	zu
 der	der
 vbermaͤſſigen	übermäßigen
@@ -8566,7 +8059,6 @@ von	von
 Gyps	Gips
 hinzu	hinzu
 .	.
-
 Wider	wider
 das	das
 vnmaͤſſige	unmäßige
@@ -8590,20 +8082,15 @@ zu	zu
 einem	einem
 Pflaſter	Pflaster
 .	.
-
 Weberdiſtel	Weberdistel
 .	.
-
 Namen	Namen
 .	.
-
 Welſch	Welsches
 Baͤrenklauw	Bärenklau
 .	.
-
 Acanthus	Acanthus
 .	.
-
 Gleich	gleich
 wie	wie
 denn	denn
@@ -8616,21 +8103,16 @@ zeitigen	zeitigen
 vnd	und
 lindern	lindern
 .	.
-
 Acetoſa	Acetosa
 maior	maior
 .	.
-
 A	A
 .	.
-
 *	*
 Semen	Semen
 .	.
-
 Geſchlecht	Geschlecht
 .	.
-
 Die	die
 Wurtzel	Wurzel
 in	in
@@ -8660,10 +8142,8 @@ Weibern	Weibern
 jhre	ihre
 Zeit	Zeit
 .	.
-
 Geſtallt	Gestalt
 .	.
-
 Vnnd	und
 mit	mit
 der	der
@@ -8676,7 +8156,6 @@ Krafft	Kraft
 vnnd	und
 Vermoͤgen	Vermögen
 .	.
-
 bringet	bringt
 Stengel	Stängel
 einer	einer
@@ -8699,17 +8178,13 @@ der	der
 Quere	Quere
 geſpalten	gespalten
 :	:
-
 Innerliche	innerliche
 Krafft	Kraft
 .	.
-
 Geſchlecht	Geschlecht
 .	.
-
 Ort	Ort
 .	.
-
 Welche	welche
 Scorpionen	Skorpione
 mit	mit
@@ -8743,14 +8218,11 @@ bekommen	bekommen
 dieſelbige	dieselbige
 widervmb	wiederum
 .	.
-
 Kalmus	Kalmus
 .	.
-
 Acorum	Acorum
 verum	verum
 .	.
-
 DIeſes	dieses
 Gewaͤchs	Gewächs
 in	in
@@ -8811,7 +8283,6 @@ faſt	fast
 vnaͤhnlich	unähnlich
 ſcheinen	scheinen
 /	/
-
 Sein	sein
 ſafft	Saft
 getruncken	getrunken
@@ -8832,7 +8303,6 @@ alle	alle
 derſelbigen	derselbigen
 Nebel	Nebel
 .	.
-
 Sein	sein
 Safft	Saft
 in	in
@@ -8853,7 +8323,6 @@ deſſelbigen	desselbigen
 Nebel	Nebel
 ab	ab
 .	.
-
 vnd	und
 wirdt	wird
 jhr	ihr
@@ -8882,11 +8351,9 @@ gefaͤhrlichen	gefährlichen
 Krampffs	Krampfs
 befreyhe	befreie
 .	.
-
 Gelb	Gelbe
 WaſſerLilgen	Wasserlilien
 .	.
-
 Die	die
 Wurtzel	Wurzel
 iſt	ist
@@ -8899,7 +8366,6 @@ Blaͤtter	Blätter
 etwas	etwas
 ſchmaͤhler	schmaler
 .	.
-
 Sein	sein
 Saame	Samen
 vergleicht	vergleicht
@@ -8924,7 +8390,6 @@ zwey	zwei
 Koͤrnlin	Körnlein
 beyſammen	beisammen
 .	.
-
 Hat	hat
 viel	viele
 langlechte	längliche
@@ -8955,13 +8420,10 @@ als	als
 ein	ein
 Horn	Horn
 .	.
-
 Paradeyſzholtz	Paradiesholz
 .	.
-
 Geſtallt	Gestalt
 .	.
-
 Staͤrcket	stärkt
 ferrner	ferner
 auch	auch
@@ -9016,7 +8478,6 @@ weiſſen	weißen
 Fluſz	Fluss
 zuruͤck	zurück
 .	.
-
 ſtoſz	stoß
 alles	alles
 miteinander	miteinander
@@ -9025,23 +8486,18 @@ einem	einem
 reinen	reinen
 Puluer	Pulver
 /	/
-
 vnd	und
 brauchs	brauche es
 wie	wie
 jetzt	jetzt
 vermeldt	vermeldet
 .	.
-
 Lerchenſchwam̃	Lärchenschwamm
 .	.
-
 Geſtallt	Gestalt
 .	.
-
 Ort	Ort
 .	.
-
 Das	das
 Weiblin	Weiblein
 /	/
@@ -9065,7 +8521,6 @@ mit	mit
 Adern	Adern
 durchwachſen	durchwachsen
 .	.
-
 Sind	sind
 beyde	beide
 am	am
@@ -9079,13 +8534,10 @@ hernach	hernach
 ſehr	sehr
 bitter	bitter
 .	.
-
 Natur	Natur
 .	.
-
 Pilulen	Pilulen
 .	.
-
 Er	er
 dienet	dient
 gleichſam	gleichsam
@@ -9137,11 +8589,9 @@ zu	zu
 Zeltlin	Zeltlein
 formieret	formiert
 .	.
-
 Euſſerlich	äußerliches
 Vermoͤgen	Vermögen
 .	.
-
 Von	von
 dem	dem
 erſten	ersten
@@ -9149,7 +8599,6 @@ grad	Grad
 deſz	des
 Zwillings	Zwillings
 .	.
-
 Dann	denn
 jhr	ihr
 Saltz	Salz
@@ -9171,12 +8620,10 @@ geſchmack	Geschmack
 genommen	genommen
 wird	wird
 .	.
-
 purgieren	purgieren
 ſonſt	sonst
 wenig	wenig
 /	/
-
 allein	allein
 zur	zur
 loͤſchung	Löschung
@@ -9185,7 +8632,6 @@ moͤgen	mögen
 etwas	etwas
 thun	tun
 /	/
-
 darumb	darum
 kan	kann
 man	man
@@ -9218,7 +8664,6 @@ in	in
 dieſem	diesem
 grad	Grad
 /	/
-
 als	als
 da	da
 iſt	ist
@@ -9266,7 +8711,6 @@ eins	eins
 ein	einen
 theil	Teil
 .	.
-
 Aber	aber
 euſſerlich	äußerlich
 zur	zur
@@ -9315,7 +8759,6 @@ Bucheckern	Bucheckern
 vnd	und
 dergleichen	dergleichen
 .	.
-
 Die	die
 zwey	zwei
 letzten	letzten
@@ -9335,7 +8778,6 @@ Schweffel	Schwefel
 in	in
 ſich	sich
 .	.
-
 Die	die
 zwey	zwei
 letzten	letzten
@@ -9352,7 +8794,6 @@ Erddaͤmpff	Erddämpfe
 vnd	und
 Rauch	Rauch
 .	.
-
 iſt	ist
 nicht	nicht
 der	der
@@ -9393,7 +8834,6 @@ vnd	und
 Winter	Winter
 gruͤn	grün
 /	/
-
 Vnd	und
 ſo	so
 ſolcher	solcher
@@ -9439,7 +8879,6 @@ grad	Grad
 deſz	des
 Zwillings	Zwillings
 .	.
-
 Die	die
 Bletter	Blätter
 ſeind	sind
@@ -9462,7 +8901,6 @@ gleich	gleich
 wie	wie
 Rebarbara	Rhabarber
 /	/
-
 iſt	ist
 gar	gar
 zaͤch	zäh
@@ -9471,7 +8909,6 @@ gar	gar
 lieblich	lieblich
 ſuͤſz	süß
 /	/
-
 purgiert	purgiert
 gar	gar
 ſenfftiglich	sänftiglich
@@ -9479,7 +8916,6 @@ ohn	ohne
 allen	allen
 zuſatz	Zusatz
 /	/
-
 Darumb	darum
 mag	mag
 man	man
@@ -9509,7 +8945,6 @@ lawlicht	lau
 darauff	darauf
 geſchlagen	geschlagen
 /	/
-
 Auch	auch
 hab	habe
 ich	ich
@@ -9536,7 +8971,6 @@ wie	wie
 die	die
 Camillen	Kamille
 .	.
-
 darnach	danach
 ein	einen
 Loͤffel	Löffel
@@ -9549,7 +8983,6 @@ den	den
 ſchadhafften	Schadhaften
 geben	gegeben
 /	/
-
 Auch	auch
 den	den
 Lungenſuͤchtigen	Lungensüchtigen
@@ -9557,13 +8990,11 @@ gebẽ	gegeben
 mit	mit
 Malvaſier	Malvasier
 /	/
-
 Von	von
 der	der
 Andern	anderen
 Triplicitet	Triplizität
 /	/
-
 Sondern	sondern
 den	den
 Geiſt	Geist
@@ -9583,7 +9014,6 @@ feucht	feucht
 vnd	und
 kalt	kalt
 /	/
-
 darumb	darum
 ſie	sie
 trefflich	trefflich
@@ -9622,7 +9052,6 @@ in	in
 jhnen	ihnen
 ſelbſt	selbst
 /	/
-
 Ihr	hr
 zuſatz	Zusatz
 iſt	ist
@@ -9646,7 +9075,6 @@ auſzweiſung	Ausweisung
 der	der
 Figur	Figur
 .	.
-
 es	es
 wird	wird
 eine	eine
@@ -9685,7 +9113,6 @@ die	die
 noth	Not
 erfordert	erfordert
 /	/
-
 Das	das
 pulver	Pulver
 in	in
@@ -9694,7 +9121,6 @@ den	den
 mach	mach
 alſo	also
 :	:
-
 Nim̃	nimm
 Buchholderwurtz	Buchholderwurz
 /	/
@@ -9719,7 +9145,6 @@ Roſenmiſpel	Rosenmispel
 drey	drei
 theil	Teile
 /	/
-
 Man	man
 kan	kann
 auch	auch
@@ -9777,7 +9202,6 @@ was	was
 dergleichen	dergleichen
 iſt	ist
 .	.
-
 Vnd	und
 dieſe	diese
 ding	Dinge
@@ -9791,7 +9215,6 @@ geheimen	geheimen
 verborgenen	verborgenen
 ſchaͤden	Schäden
 .	.
-
 Darzu	dazu
 nimb	nimm
 Lehnen	Lynen-
@@ -9832,7 +9255,6 @@ abgenom̃en	abgenommen
 ein	einen
 theil	Teil
 /	/
-
 dieſe	diese
 drey	drei
 temperiere	temperiere
@@ -9852,7 +9274,6 @@ dergleichen	dergleichen
 gar	gar
 vil	viel
 /	/
-
 Dieſe	diese
 ding	Dinge
 alle	alle
@@ -9889,7 +9310,6 @@ hilfft	hilft
 vnd	und
 erloͤſzt	erlöst
 /	/
-
 Darum̃	darum
 der	der
 rechte	rechte
@@ -9916,7 +9336,6 @@ art	Art
 der	der
 Feuchtigkeit	Feuchtigkeit
 /	/
-
 ſeind	sind
 der	der
 Gall	Galle
@@ -9947,12 +9366,10 @@ der	der
 Figur	Figur
 ſtehet	steht
 /	/
-
 Das	das
 Sechſzte	sechste
 Capitel	Kapitel
 .	.
-
 Vber	über
 das	das
 wird	wird
@@ -10007,7 +9424,6 @@ mehr	mehr
 tragen	tragen
 mag	mag
 /	/
-
 Da	da
 die	die
 gepflantzten	gepflanzten
@@ -10031,11 +9447,9 @@ Zierlichkeit	Zierlichkeit
 nichts	nichts
 ermanglet	ermangelt
 /	/
-
 Ambeiſſen	Ameisen
 abschaffen	abschaffen
 .	.
-
 Erstlich	erstlich
 verhindert	verhindert
 es	es
@@ -10063,7 +9477,6 @@ Nahrung	Nahrung
 nicht	nicht
 benimpt	nimmt
 /	/
-
 vnnd	und
 dann	dann
 zum	zum
@@ -10095,7 +9508,6 @@ mehr	mehr
 ſchaden	schaden
 moͤgen	mögen
 /	/
-
 Fahls	falls
 aber	aber
 vber	über
@@ -10126,7 +9538,6 @@ verderben	Verderben
 verhuͤtet	verhütet
 werde	werde
 .	.
-
 ſo	so
 werden	werden
 ſie	sie
@@ -10135,7 +9546,6 @@ wol	wohl
 friſt	Frist
 haben	haben
 .	.
-
 Die	die
 Kappe	Kappe
 auf	auf
@@ -10144,7 +9554,6 @@ zweig	Zweig
 beſtaͤndig	beständig
 erhalten	erhalten
 .	.
-
 3.	3.
 Von	Von
 dem	dem
@@ -10157,7 +9566,6 @@ Einfriſten	Einfristen
 der	der
 Zweigen	Zweige
 .	.
-
 Die	die
 Form	Form
 dann	dann
@@ -10219,7 +9627,6 @@ Erſten	Ersten
 noch	noch
 einen	einen
 /	/
-
 Dieses	dieses
 Mittel	Mittel
 deſz	des
@@ -10241,7 +9648,6 @@ angenehm	angenehm
 vnd	und
 befuͤrderlich	förderlich
 /	/
-
 Wann	wenn
 dann	dann
 die	die
@@ -10274,7 +9680,6 @@ nicht	nicht
 geſchirmt	geschirmt
 werden	werden
 .	.
-
 Dann	dann
 wann	wenn
 die	die
@@ -10308,7 +9713,6 @@ nicht	nicht
 abbeiſſen	abbeißen
 moͤge	möge
 /	/
-
 ZVvorderſt	zuvorderst
 iſt	ist
 allhie	allhier
@@ -10328,12 +9732,10 @@ Baumpflantzen	Baumpflanzen
 alſo	also
 ſetzt	setzt
 .	.
-
 Das	das
 Sibende	siebte
 Capitel	Kapitel
 .	.
-
 2.	2.
 Abtheilung	Abteilung
 in	in
@@ -10341,7 +9743,6 @@ Kern	Kern-
 vnd	und
 SteinObs	Steinobst
 .	.
-
 1.	1.
 Wie	wie
 nothwendig	notwendig
@@ -10356,7 +9757,6 @@ Baͤumen	Bäume
 zu	zu
 vnderſcheiden	unterscheiden
 .	.
-
 Dann	denn
 gleich	gleich
 wie	wie
@@ -10388,14 +9788,12 @@ bequem	bequem
 vnd	und
 angenehm	angenehm
 /	/
-
 Etliche	etliche
 allerley	allerlei
 Luͤfft	Lüfte
 erleiden	erleiden
 moͤgen	mögen
 /	/
-
 Andere	andere
 von	von
 denſelben	denselben
@@ -10411,7 +9809,6 @@ vnder	unter
 Daͤcheren	Dächern
 haben	haben
 .	.
-
 Andere	andere
 ohne	ohne
 das	das
@@ -10422,7 +9819,6 @@ Waſen	Wasen
 behelffen	behelfen
 moͤgen	mögen
 /	/
-
 Die	die
 Baͤum	Bäume
 sollen	sollen
@@ -10432,7 +9828,6 @@ groͤſſe	Größe
 geſetzt	gesetzt
 werdẽ	werden
 .	.
-
 Dann	denn
 wañ	wenn
 man	man
@@ -10490,7 +9885,6 @@ Nutz	Nutz
 davon	davon
 zuverkauffen	zu verkaufen
 /	/
-
 Weil	weil
 auſz	aus
 ſolchen	solchen
@@ -10504,16 +9898,13 @@ kan	kann
 geloͤſzt	gelöst
 werden	werden
 .	.
-
 dann	denn
 allein	allein
 etwas	etwas
 wenig	wenig
 /	/
-
 2.	2.
 vnderſcheid	Unterschied
-
 Da	da
 im	im
 Gegentheil	Gegenteil
@@ -10602,7 +9993,6 @@ darumb	darum
 gehacket	gehackt
 wird	wird
 .	.
-
 3.	3.
 underscheid	Unterschied
 .	.
@@ -10673,7 +10063,6 @@ an	an
 den	den
 Leſer	Leser
 .	.
-
 dem	dem
 ich	ich
 auch	auch
@@ -10708,7 +10097,6 @@ als	als
 eben	eben
 Er	er
 .	.
-
 darinn	.
 er	er
 ein	eine
@@ -10721,14 +10109,11 @@ experientz	Experienz
 ſehen	sehen
 laſſen	lassen
 .	.
-
 Cæſar	Caesar
 .	.
-
 Benedictus	Benedictus
 Curtius	Curtius
 .	.
-
 Benedictus	Benedictus
 Curtius	Curtius
 Eques	eques
@@ -10770,7 +10155,6 @@ Philologicè	philologice
 dann	dann
 Technologicè	technologice
 ,	,
-
 davon	davon
 ich	ich
 allein	allein
@@ -10789,7 +10173,6 @@ dem	dem
 zuver⸗	zu
 gleichen	vergleichen
 /	/
-
 Wer	Wer
 etwas	etwas
 ſchreibt	schreibt
@@ -10797,7 +10180,6 @@ bekompt	bekommt
 viel	viele
 Cenſores	censores
 .	.
-
 Vnd	und
 ob	obgleich
 gleichwol	wohl
@@ -10840,7 +10222,6 @@ an	an
 Tag	Tag
 kommenzulaſſen	kommen zu lassen
 .	.
-
 Beſchluſz	Beschluss
 dieſer	dieser
 Vorred	Vorrede
@@ -10848,12 +10229,10 @@ an	an
 die	die
 Leſer	Leser
 .	.
-
 Das	das
 Vierte	vierte
 Capitel	Kapitel
 .	.
-
 Zn	zu
 dem	dem
 ſaͤyen	Säen
@@ -10870,7 +10249,6 @@ Winter	Winter
 ſehr	sehr
 vngleich	ungleich
 /	/
-
 dann	denn
 wann	wenn
 die	die
@@ -10897,7 +10275,6 @@ die	die
 gedeckt	gedeckt
 worden	worden
 .	.
-
 Belangend	belangend
 nun	nun
 den	den
@@ -10929,7 +10306,6 @@ dem	dem
 Waͤdel	Wädel
 beſchehen	beschehen
 /	/
-
 ſonſt	sonst
 ſchieſzt	schießt
 er	er
@@ -10939,14 +10315,12 @@ in	in
 den	den
 Samen	Samen
 .	.
-
 Mittel	Mittel
 die	die
 Koͤpfflein	Köpflein
 lang	lang
 zubehalten	zu behalten
 .	.
-
 dann	denn
 derſelbe	derselbe
 zum	zum
@@ -10963,7 +10337,6 @@ darzu	dazu
 gebraucht	gebraucht
 wird	wird
 /	/
-
 dañ	denn
 er	er
 fuͤr	für
@@ -10975,7 +10348,6 @@ kompt	kommt
 vnd	und
 auffwachſzt	aufwächst
 /	/
-
 am	am
 meiſten	meisten
 iſt	ist
@@ -11016,7 +10388,6 @@ dem	dem
 anderen	anderen
 beſchicht	geschieht
 /	/
-
 alsdann	alsdann
 bekompt	bekommt
 er	er
@@ -11041,7 +10412,6 @@ hernach	hernach
 erzogen	erzogen
 werde	werde
 /	/
-
 dann	denn
 derſelbe	derselbe
 offtmahlen	oftmals
@@ -11049,7 +10419,6 @@ kan	kann
 abgeſchnitten	abgeschnitten
 werden	werden
 /	/
-
 Es	es
 ſoll	soll
 der	der
@@ -11058,7 +10427,6 @@ nicht	nicht
 abgehawen	abgehauen
 werden	werden
 /	/
-
 vor	vor
 demſelben	demselben
 wann	wenn
@@ -11090,7 +10458,6 @@ mal	Mal
 abgehawen	abgehauen
 worden	worden
 /	/
-
 alsdann	alsdann
 wird	wird
 derſelbe	derselbe
@@ -11100,7 +10467,6 @@ vnd	und
 groͤſſer	größer
 werden	werden
 .	.
-
 Lattich	Lattich
 heiſſet	heißt
 in	in
@@ -11109,16 +10475,13 @@ Lactuca.	Lactuca
 F.	F.
 Laictue	Laictue
 .	.
-
 Naſturcium	Nasturcium
 heiſzt	heißt
 Garten⸗kraͤſſich	Gartenkressig
 .	.
-
 Naſturcium	Nasturcium
 aquaticum	aquaticum
 .	.
-
 Dicitur	dicitur
 Naſturcium	Nasturcium
 à	a
@@ -11129,7 +10492,6 @@ quòd	quod
 ſternutamenta	sternutamenta
 provocet	provocet
 .	.
-
 darumb	darum
 wird	wird
 er	er
@@ -11148,7 +10510,6 @@ Salat	Salat
 nutzlich	nützlich
 gebraucht	gebraucht
 /	/
-
 Das	das
 Teutſche	deutsche
 Wort	Wort
@@ -11158,7 +10519,6 @@ kompt	kommt
 Spinoſo	spinoso
 ſemine	semine
 ,	,
-
 das	das
 iſt	ist
 von	von
@@ -11166,7 +10526,6 @@ dem	dem
 ſtechenden	stechenden
 Samen	Samen
 .	.
-
 Carolus	Carolus
 Stephanus	Stephanus
 ſetzet	setzt
@@ -11178,7 +10537,6 @@ vnd	und
 Spinatia	spinatia
 zuſamen	zusammen
 /	/
-
 Facilè	Facile
 judicaverim	iudicaverim
 noſtrum	nostrum
@@ -11190,7 +10548,6 @@ Spinatia	spinatia
 vulgò	vulgo
 vocamus	vocamus
 .	.
-
 Er	er
 aber	aber
 nennet	nennt
@@ -11199,7 +10556,6 @@ auff	auf
 Teutsch	Deutsch
 Meyer	Meier
 /	/
-
 wie	wie
 auch	auch
 bey	bei
@@ -11213,21 +10569,18 @@ aber	aber
 Porée	Porée
 rouge	rouge
 .	.
-
 Die	Die
 XCIII.	XCIII.
 Obſervation	Observation
 oder	oder
 Warnehmung	Wahrnehmung
 .	.
-
 Die	Die
 XCIV.	XCIV.
 Obſervation	Observation
 oder	oder
 Warnehmung	Wahrnehmung
 .	.
-
 Jetzt	Jetzt
 wil	will
 ich	ich
@@ -11248,7 +10601,6 @@ an	an
 denſelben	denselben
 Schreiben	schreiben
 .	.
-
 Darumb	Darum
 ſoll	soll
 es	es
@@ -11300,7 +10652,6 @@ dem	dem
 Scordio	Scordium
 gefunden	gefunden
 .	.
-
 Den	Den
 auſzgepreſten	ausgepressten
 Safft	Saft
@@ -11349,7 +10700,6 @@ Brand	Brand
 ſehen	sehen
 wird	wird
 .	.
-
 Dann	Denn
 es	es
 ledigt ab	erledigt
@@ -11398,17 +10748,14 @@ Herrn	Herrn
 gedacht	gedacht
 habe	habe
 .	.
-
 Vom	Vom
 Knoblochkraut	Knoblauchkraut
 .	.
-
 Jn	In
 dem	dem
 er	er
 ſagt	sagt
 .	.
-
 Das	Das
 ander	andere
 Thlaſpi	Thlaspi
@@ -11438,7 +10785,6 @@ Huftweh	Hustweh
 vermiſcht	vermischt
 wird	wird
 .	.
-
 weil	weil
 es	es
 nach	nach
@@ -11462,7 +10808,6 @@ mit	mit
 dem	dem
 Knobloch	Knoblauch
 /	/
-
 Etliche	Etliche
 brauchens	brauchen es
 zu	zu
@@ -11474,7 +10819,6 @@ an ſtatt	anstatt
 deſz	des
 Gewuͤrtzes	Gewürzes
 .	.
-
 f	f
 .	.
 Camerar.	Camerar.
@@ -11509,7 +10853,6 @@ vnd	und
 hernach	hiernach
 getruncken	getrunken
 .	.
-
 Wecket	Weckt
 die	die
 /	/
@@ -11523,7 +10866,6 @@ Schlafſuchtligen	Schlafsüchtigen
 wider	wieder
 auf	auf
 .	.
-
 Daher	Daher
 wil	will
 Cammerarius	Cammerarius
@@ -11549,7 +10891,6 @@ Krebs	Krebs
 ziehen	ziehen
 wollen	wollen
 .	.
-
 An	An
 den	den
 Groſzachtbahren	hochachtbaren
@@ -11579,7 +10920,6 @@ Hilden	Hilden
 Gruſz	Gruß
 entbeut	entbietet
 .	.
-
 Dieſe	Diese
 Geſchicht	Geschichte
 hab	habe
@@ -11632,7 +10972,6 @@ Peterlingen	Peterlingen
 zugefuͤhrt	zugeführt
 worden	worden
 .	.
-
 Ich	Ich
 hab	habe
 auch	auch
@@ -11680,7 +11019,6 @@ doch	doch
 ohne	ohne
 Schmertzen	Schmerzen
 .	.
-
 Vber	Aber
 das	das
 hat	hat
@@ -11706,7 +11044,6 @@ worden	worden
 vnd	und
 darnider gelegen	niedergelegen
 .	.
-
 Als	Als
 die	die
 Peſt	Pest
@@ -11762,7 +11099,6 @@ vermeint	vermeint
 )	)
 geſtorben	gestorben
 .	.
-
 Die	Die
 Fraw	Frau
 hat	hat
@@ -11788,7 +11124,6 @@ der	der
 Thuͤr	Tür
 angeklopfft	angeklopft
 ;	;
-
 als	als
 ſie	sie
 nun	nun
@@ -11809,7 +11144,6 @@ ihr	ihr
 auffgethan	aufgetan
 worden	worden
 ;	;
-
 Als	Als
 ſie	sie
 aber	aber
@@ -11871,7 +11205,6 @@ Reimen	Reimen
 beſchrieben	beschrieben
 war	war
 .	.
-
 Die	Die
 groͤſſer	größere
 Taffel	Tafel
@@ -11894,7 +11227,6 @@ ohne	ohne
 Verwunderung	Verwunderung
 angeſchawet	angeschaut
 :	:
-
 Aber	Aber
 Herr	Herr
 Doct.	Doct.
@@ -11906,7 +11238,6 @@ mit	mit
 Fleiſz	Fleiß
 vorkommen	zuvor gekommen
 .	.
-
 Iſt	Ist
 derowegen	deshalb
 der	der
@@ -11920,4 +11251,3 @@ zu	zu
 ſelbſten	selbst
 kommen	gekommen
 /	/
-
