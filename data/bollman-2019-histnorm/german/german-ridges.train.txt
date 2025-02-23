@@ -15342,7 +15342,6 @@ man	man
 Welſamen	Welsamen
 neñet	nennt
 /	/
- dañ
 es	es
 der	der
 krafft	Kraft
